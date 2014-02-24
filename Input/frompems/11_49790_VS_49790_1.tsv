@@ -1,0 +1,501 @@
+	AI_Prov_Name	File_Date	File_Count	Group_Count	Ethnicity	IEP	LEP	Gender	Ven_Stud_ID	Grade	Stud_Test_ID	Score_Flag	Item_ID	Item_Response	Final_Score	Data_Point	Read1_Date	Read1_ID	Read1_Score	Read1_Cond	Read2_Date	Read2_ID	Read2_Score	Read2_Cond	Read3_Date	Read3_ID	Read3_Score	Read3_Cond	Read5_Date	Read5_ID	Read5_Score	Read5_Cond	Alert_Code	Alert_ReaderID
+0	AI-XC	20131119122054	500	500	B			F	707877	11	10587304	Y	49790	how much bacteria in days after																				
+1	AI-XC	20131119122054	500	500	B			F	708123	11	10587313	Y	49790	Antibiotic added.																				
+2	AI-XC	20131119122054	500	500	W	N	N	M	715413	11	10587319	Y	49790	variable																				
+3	AI-XC	20131119122054	500	500	W	N	N	M	715414	11	10587373	Y	49790	the number N represents the starting amount of bacteria																				
+4	AI-XC	20131119122054	500	500	W	N	N	M	715847	11	10587379	Y	49790	bacteria																				
+5	AI-XC	20131119122054	500	500	B	N	N	M	717220	11	10587424	Y	49790	z																				
+6	AI-XC	20131119122054	500	500	W	N	N	F	717440	11	10587429	Y	49790	N equals the rate																				
+7	AI-XC	20131119122054	500	500	NR			F	717978	11	10587434	Y	49790	the bacteria																				
+8	AI-XC	20131119122054	500	500	NR			M	718021	11	10587469	Y	49790	number																				
+9	AI-XC	20131119122054	500	500	B			M	718295	11	10587478	Y	49790	number																				
+10	AI-XC	20131119122054	500	500	NR			F	718908	11	10587524	Y	49790	Rate																				
+11	AI-XC	20131119122054	500	500	NR			M	718923	11	10587528	Y	49790	N=rate																				
+12	AI-XC	20131119122054	500	500	W	N		F	719449	11	10587534	Y	49790	Rate																				
+13	AI-XC	20131119122054	500	500	W	N		F	719747	11	10587582	Y	49790	How many bacteria is started out in it.																				
+14	AI-XC	20131119122054	500	500	W	N		M	720006	11	10587585	Y	49790	rate that it multiplies.																				
+15	AI-XC	20131119122054	500	500	B			F	720126	11	10587588	Y	49790	NUMBER OF POPULATION																				
+16	AI-XC	20131119122054	500	500	H	N		M	720176	11	10587590	Y	49790	starting number																				
+17	AI-XC	20131119122054	500	500	W	N		F	721277	11	10587593	Y	49790	If P represents the bacteria population, and T is the time, represented in days, N must be a variable, which is however many the certain bacteria multiplies.																				
+18	AI-XC	20131119122054	500	500	W	N	N	M	721904	11	10587596	Y	49790	The missing number																				
+19	AI-XC	20131119122054	500	500	W	N	N	F	723537	11	10587599	Y	49790	A constant that is specific to that equation																				
+20	AI-XC	20131119122054	500	500	A	N	N	F	723759	11	10587647	Y	49790	N represents the number of the bacteria that is being multiplied.																				
+21	AI-XC	20131119122054	500	500	W	N	N	M	723762	11	10587653	Y	49790	N represents the antibiotic																				
+22	AI-XC	20131119122054	500	500	W	N	N	M	723763	11	10587691	Y	49790	the rate																				
+23	AI-XC	20131119122054	500	500	W			F	727290	11	10587741	Y	49790	The number of bacteria you start with.																				
+24	AI-XC	20131119122054	500	500	NR			F	727392	11	10587743	Y	49790	N represents the antibiotic																				
+25	AI-XC	20131119122054	500	500	B	N	N	F	728207	11	10587746	Y	49790	(1.1)																				
+26	AI-XC	20131119122054	500	500	H	N	Y	M	728612	11	10587751	Y	49790	1.1																				
+27	AI-XC	20131119122054	500	500	NR			M	729383	11	10587757	Y	49790	rate																				
+28	AI-XC	20131119122054	500	500	H			F	730486	11	10587802	Y	49790	The number of rate																				
+29	AI-XC	20131119122054	500	500	W	N	N	M	730601	11	10587805	Y	49790	the initial bacteria population																				
+30	AI-XC	20131119122054	500	500	2	N	N	F	731074	11	10587810	Y	49790	number of bacteria																				
+31	AI-XC	20131119122054	500	500	W	N	N	F	731075	11	10587815	Y	49790	the rate bacteria multiplies by																				
+32	AI-XC	20131119122054	500	500	NR			M	731301	11	10587863	Y	49790	number																				
+33	AI-XC	20131119122054	500	500	W	N	N	F	732623	11	10587868	Y	49790	number																				
+34	AI-XC	20131119122054	500	500	W	N	N	M	734973	11	10587872	Y	49790	bacteria																				
+35	AI-XC	20131119122054	500	500	W	N	N	M	734974	11	10587878	Y	49790	N represents the rate at which a certain bacteria multiplies.																				
+36	AI-XC	20131119122054	500	500	A	N	N	M	735614	11	10587930	Y	49790	N represents the amount of bacteria.																				
+37	AI-XC	20131119122054	500	500	H			M	736046	11	10587936	Y	49790	amount of antibiotic																				
+38	AI-XC	20131119122054	500	500	NR	N		F	736341	11	10587985	Y	49790	initial number of bacteria																				
+39	AI-XC	20131119122054	500	500	H	N	Y	M	737314	11	10587989	Y	49790	N represents how fast its mutiplying																				
+40	AI-XC	20131119122054	500	500	W	N	N	M	737315	11	10588033	Y	49790	The temperature																				
+41	AI-XC	20131119122054	500	500	H	N	N	M	737319	11	10588040	Y	49790	n represents the rate of bacteria growth																				
+42	AI-XC	20131119122054	500	500	W	N	N	F	737361	11	10588087	Y	49790	antibiotic																				
+43	AI-XC	20131119122054	500	500	W	N	N	M	737369	11	10588092	Y	49790	N represents the original amount of bacteria that was given at the beginning of the study. P(t) will be divided by the N that was originally there.																				
+44	AI-XC	20131119122054	500	500	W			F	737565	11	10588097	Y	49790	the original amount of bacteria																				
+45	AI-XC	20131119122054	500	500	A	N	Y	M	738111	11	10588148	Y	49790	I don't know. Thanks.																				
+46	AI-XC	20131119122054	500	500	A	N	Y	F	738121	11	10588160	Y	49790	The type of bacteria11																				
+47	AI-XC	20131119122054	500	500	W	N	N	M	738875	11	10588222	Y	49790	how many backteria on day 1.																				
+48	AI-XC	20131119122054	500	500	W	N	N	M	740187	11	10588226	Y	49790	Starting ammount																				
+49	AI-XC	20131119122054	500	500	W	N	N	M	740188	11	10588233	Y	49790	Rate																				
+50	AI-XC	20131119122054	500	500	H	N	N	F	740565	11	10588292	Y	49790	Antiniotic																				
+51	AI-XC	20131119122054	500	500	A	N	N	M	740792	11	10588300	Y	49790	the reduction rate of the bacteria population																				
+52	AI-XC	20131119122054	500	500	H	N	N	F	741190	11	10588361	Y	49790	Number of days that the antiibiotic have been placed in the bacteria.																				
+53	AI-XC	20131119122054	500	500	W	N	N	M	741280	11	10588363	Y	49790	the amount it multipys by																				
+54	AI-XC	20131119122054	500	500	W	N	N	F	741352	11	10588367	Y	49790	How the bacteria has numbered.																				
+55	AI-XC	20131119122054	500	500	H	N	N	M	742392	11	10588373	Y	49790	The original number of bacteria.																				
+56	AI-XC	20131119122054	500	500	W	N	N	F	742444	11	10588379	Y	49790	the rate it's reduced, i guess																				
+57	AI-XC	20131119122054	500	500	H	N	Y	F	742462	11	10588435	Y	49790	the number at which the bacteria is multiplying																				
+58	AI-XC	20131119122054	500	500	H	N	Y	F	742937	11	10588491	Y	49790	the letter N represents the number of bacterias in a population.																				
+59	AI-XC	20131119122054	500	500	H	N	N	F	743246	11	10588499	Y	49790	The number of bacteria																				
+60	AI-XC	20131119122054	500	500	H	Y	N	F	743457	11	10588561	Y	49790	1.1																				
+61	AI-XC	20131119122054	500	500	W	N	N	F	743680	11	10588563	Y	49790	The number of bacteria in a sample																				
+62	AI-XC	20131119122054	500	500	B	N	N	M	743842	11	10589399	Y	49790	Multiplying Rate.																				
+63	AI-XC	20131119122054	500	500	H	N	N	M	745870	11	10589504	Y	49790	The number N represents the present amount of bacteria.																				
+64	AI-XC	20131119122054	500	500	H	N	N	F	747924	11	10589509	Y	49790	antibiotics																				
+65	AI-XC	20131119122054	500	500	W	N	N	F	748076	11	10589570	Y	49790	The change in the bacteria as time and antibiotic is used.																				
+66	AI-XC	20131119122054	500	500	H	N	Y	M	748353	11	10589577	Y	49790	a missing number																				
+67	AI-XC	20131119122054	500	500	H	N	Y	F	749075	11	10589639	Y	49790	the amount antibiotic added																				
+68	AI-XC	20131119122054	500	500	B	N	N	M	751078	11	10589701	Y	49790	i dont know																				
+69	AI-XC	20131119122054	500	500	B	N	N	M	751082	11	10589704	Y	49790	the beggining amount of bacteria																				
+70	AI-XC	20131119122054	500	500	W	N	N	F	751220	11	10589708	Y	49790	The type of bacteria																				
+71	AI-XC	20131119122054	500	500	A	N	N	M	751425	11	10589714	Y	49790	The amount of bacteria totaled																				
+72	AI-XC	20131119122054	500	500	H	N	N	F	751590	11	10589764	Y	49790	type of bacteria																				
+73	AI-XC	20131119122054	500	500	H	N	N	M	751593	11	10589770	Y	49790	the rate																				
+74	AI-XC	20131119122054	500	500	H	N	N	F	751634	11	10589776	Y	49790	N is the bacteria																				
+75	AI-XC	20131119122054	500	500	NR	N	N	F	752231	11	10589842	Y	49790	The rate that the bacteria multiplies by.																				
+76	AI-XC	20131119122054	500	500	W			F	752381	11	10589846	Y	49790	Population of bacteria																				
+77	AI-XC	20131119122054	500	500	W	N	N	M	752387	11	10589849	Y	49790	The rate in which bateria multiplies.																				
+78	AI-XC	20131119122054	500	500	W	N	N	F	752468	11	10589855	Y	49790	number of bacteria																				
+79	AI-XC	20131119122054	500	500	W			F	753205	11	10589916	Y	49790	bacteria multipied																				
+80	AI-XC	20131119122054	500	500	H			M	753247	11	10590024	Y	49790	represents the number of times the bacteria multiples																				
+81	AI-XC	20131119122054	500	500	W			F	753316	11	10590028	Y	49790	njbvg8injl																				
+82	AI-XC	20131119122054	500	500	B			M	755273	11	10590034	Y	49790	the rate wich the bacteria populates																				
+83	AI-XC	20131119122054	500	500	H	N	N	M	755689	11	10590102	Y	49790	The starting number of bacteria																				
+84	AI-XC	20131119122054	500	500	W	N	N	M	755813	11	10590105	Y	49790	LIFE																				
+85	AI-XC	20131119122054	500	500	W	N	N	F	755818	11	10590110	Y	49790	the rate it multiplies																				
+86	AI-XC	20131119122054	500	500	W	N	N	F	755885	11	10590115	Y	49790	N represents the number of bacteria.																				
+87	AI-XC	20131119122054	500	500	W	N	N	F	756080	11	10590164	Y	49790	current population of the bacteria																				
+88	AI-XC	20131119122054	500	500	W	N	N	M	756498	11	10590168	Y	49790	number of bacteria																				
+89	AI-XC	20131119122054	500	500	W	N	N	F	756704	11	10590174	Y	49790	starting amount of bacteria																				
+90	AI-XC	20131119122054	500	500	B	N	N	M	756846	11	10590180	Y	49790	one type of bacteria																				
+91	AI-XC	20131119122054	500	500	NR			F	757140	11	10590242	Y	49790	Don't know don't care																				
+92	AI-XC	20131119122054	500	500	H	N	N	F	767516	11	10590246	Y	49790	The Antibiotic																				
+93	AI-XC	20131119122054	500	500	H	N	N	M	767518	11	10590253	Y	49790	the number N represents the bacteria population																				
+94	AI-XC	20131119122054	500	500	H	N	Y	M	768128	11	10590259	Y	49790	(1.1)																				
+95	AI-XC	20131119122054	500	500	NR			F	773997	11	10590322	Y	49790	antibiotic																				
+96	AI-XC	20131119122054	500	500	W	N	N	M	774761	11	10590326	Y	49790	Bacteria																				
+97	AI-XC	20131119122054	500	500	W	N	N	M	775802	11	10590330	Y	49790	N represents the starting amount of bacteria.																				
+98	AI-XC	20131119122054	500	500	W	N	N	F	776014	11	10590338	Y	49790	number of bacteria																				
+99	AI-XC	20131119122054	500	500	NR			M	776075	11	10590396	Y	49790	n=10,000																				
+100	AI-XC	20131119122054	500	500	W	Y	N	M	776508	11	10590454	Y	49790	10																				
+101	AI-XC	20131119122054	500	500	NR			M	776740	11	10590520	Y	49790	The starting amount of bacteria.																				
+102	AI-XC	20131119122054	500	500	NR			M	777852	11	10590573	Y	49790	bacteria population after time																				
+103	AI-XC	20131119122054	500	500	B			F	777937	11	10590579	Y	49790	N is represented as 60%																				
+104	AI-XC	20131119122054	500	500	NR			F	778115	11	10590624	Y	49790	rate																				
+105	AI-XC	20131119122054	500	500	NR			M	778196	11	10590630	Y	49790	bacteria																				
+106	AI-XC	20131119122054	500	500	P	N	N	M	778484	11	10590680	Y	49790	number of the bacteria																				
+107	AI-XC	20131119122054	500	500	NR			M	778965	11	10590727	Y	49790	14th letter in the alphabet																				
+108	AI-XC	20131119122054	500	500	W	N	N	M	779310	11	10590734	Y	49790	The rate the bacteria multiplies at.																				
+109	AI-XC	20131119122054	500	500	NR			M	780417	11	10590781	Y	49790	The population of the bacteria.																				
+110	AI-XC	20131119122054	500	500	W	N	N	M	780459	11	10590783	Y	49790	The initial amount of bacteria.																				
+111	AI-XC	20131119122054	500	500	A	N	N	F	780467	11	10590788	Y	49790	initial population																				
+112	AI-XC	20131119122054	500	500	W	N	N	F	780941	11	10590795	Y	49790	N represents the amount of bacteria population produced in a certain number of days, without antibiotics.																				
+113	AI-XC	20131119122054	500	500	A	N	N	F	780959	11	10590854	Y	49790	Number N represents the number of bacteria.																				
+114	AI-XC	20131119122054	500	500	W	N	N	F	782214	11	10590904	Y	49790	the rate of decrease.																				
+115	AI-XC	20131119122054	500	500	NR			F	784418	11	10590909	Y	49790	number of bacteria at the start																				
+116	AI-XC	20131119122054	500	500	H	N	Y	F	784700	11	10590915	Y	49790	n=10.000																				
+117	AI-XC	20131119122054	500	500	W	N	N	F	784864	11	10590962	Y	49790	N represents the number of bacteria initially.																				
+118	AI-XC	20131119122054	500	500	W	N	N	F	785707	11	10590965	Y	49790	The original bacteria population																				
+119	AI-XC	20131119122054	500	500	NR			M	786304	11	10590972	Y	49790	N represents the number of starting bacteria.																				
+120	AI-XC	20131119122054	500	500	NR			M	787002	11	10591026	Y	49790	The antibiotic added to the bacteria.																				
+121	AI-XC	20131119122054	500	500	H	N	N	M	788160	11	10591033	Y	49790	n represents the amount of bacteria																				
+122	AI-XC	20131119122054	500	500	NR			F	788226	11	10591039	Y	49790	The number of bacteria multiplied by (1.1)t																				
+123	AI-XC	20131119122054	500	500	W	N	N	F	789501	11	10591144	Y	49790	N represents Nitrogen																				
+124	AI-XC	20131119122054	500	500	W	N	N	F	789908	11	10591148	Y	49790	antibiotic																				
+125	AI-XC	20131119122054	500	500	W	N	N	M	790623	11	10591154	Y	49790	What the bacteria is multiplying by.																				
+126	AI-XC	20131119122054	500	500	W	N	N	M	790673	11	10591202	Y	49790	g																				
+127	AI-XC	20131119122054	500	500	W	N	N	F	790732	11	10591205	Y	49790	1.1																				
+128	AI-XC	20131119122054	500	500	W	Y	N	F	790951	11	10591210	Y	49790	2																				
+129	AI-XC	20131119122054	500	500	W	N	N	F	792082	11	10591215	Y	49790	bacteria																				
+130	AI-XC	20131119122054	500	500	W	N	N	M	792102	11	10591263	Y	49790	Amount of bacteria																				
+131	AI-XC	20131119122054	500	500	W	N	N	M	793555	11	10591267	Y	49790	number of bacteria																				
+132	AI-XC	20131119122054	500	500	NR	N		F	794625	11	10591272	Y	49790	initial number of bacteria																				
+133	AI-XC	20131119122054	500	500	W	N	N	M	794648	11	10591277	Y	49790	Bacteria																				
+134	AI-XC	20131119122054	500	500	W	N	N	F	794771	11	10591326	Y	49790	N represents the amount of antibiotics																				
+135	AI-XC	20131119122054	500	500	B			M	795151	11	10591330	Y	49790	the number of bactieria multiplying																				
+136	AI-XC	20131119122054	500	500	W			F	795307	11	10591337	Y	49790	Rate of reduction.																				
+137	AI-XC	20131119122054	500	500	W	N	N	F	795388	11	10591393	Y	49790	antibiotic																				
+138	AI-XC	20131119122054	500	500	H	N	N	F	795485	11	10591400	Y	49790	The remaining bacteria.																				
+139	AI-XC	20131119122054	500	500	W	Y	N	M	795605	11	10591458	Y	49790	How many bacteria were alive in the begining of the study.																				
+140	AI-XC	20131119122054	500	500	W	N	N	F	796073	11	10591517	Y	49790	The number 'N' represents the number of different types of bacteria.																				
+141	AI-XC	20131119122054	500	500	W	N	N	F	796074	11	10591582	Y	49790	number of bacteria																				
+142	AI-XC	20131119122054	500	500	H	N	N	M	796129	11	10591585	Y	49790	n=t																				
+143	AI-XC	20131119122054	500	500	B	N	N	F	796130	11	10591589	Y	49790	the antibiotic																				
+144	AI-XC	20131119122054	500	500	W			M	796546	11	10591594	Y	49790	The number N represents the number of bacteria.																				
+145	AI-XC	20131119122054	500	500	H	N	N	M	797246	11	10591644	Y	49790	n is the bacteria																				
+146	AI-XC	20131119122054	500	500	H	N	N	F	797352	11	10591647	Y	49790	number of bacteria																				
+147	AI-XC	20131119122054	500	500	H	N	N	F	797446	11	10591651	Y	49790	The number N represents how many bacteria there is at the day of the expirement.																				
+148	AI-XC	20131119122054	500	500	B	N	N	M	798593	11	10591658	Y	49790	8====================D~~~~~~~																				
+149	AI-XC	20131119122054	500	500	W	N	N	M	799053	11	10591706	Y	49790	the rate of the bacteira multiplying																				
+150	AI-XC	20131119122054	500	500	W	N	N	M	799529	11	10591714	Y	49790	The starting number of bacteria																				
+151	AI-XC	20131119122054	500	500	W	N	N	F	799583	11	10591767	Y	49790	The initial bacteria population.																				
+152	AI-XC	20131119122054	500	500	H	N	Y	M	800312	11	10591775	Y	49790	population																				
+153	AI-XC	20131119122054	500	500	W	N	N	F	800646	11	10591841	Y	49790	the Antibiotic																				
+154	AI-XC	20131119122054	500	500	H	N	N	M	800925	11	10591846	Y	49790	how much bacteria there is																				
+155	AI-XC	20131119122054	500	500	W	N	N	F	801024	11	10591853	Y	49790	0																				
+156	AI-XC	20131119122054	500	500	H	N	N	F	801417	11	10591859	Y	49790	the result of p (T)																				
+157	AI-XC	20131119122054	500	500	H	N	N	F	801561	11	10591916	Y	49790	How many bacteria the biologist started with																				
+158	AI-XC	20131119122054	500	500	H	N	N	F	801631	11	10591968	Y	49790	N represents 10,000																				
+159	AI-XC	20131119122054	500	500	H	Y	N	F	801794	11	10591972	Y	49790	1.1																				
+160	AI-XC	20131119122054	500	500	H	N	N	F	803099	11	10591978	Y	49790	Number of Bacteria																				
+161	AI-XC	20131119122054	500	500	H	N	N	M	804024	11	10592066	Y	49790	Number of bacteria																				
+162	AI-XC	20131119122054	500	500	W	N	N	M	806413	11	10592072	Y	49790	The rate at which the bacteria multiplies.																				
+163	AI-XC	20131119122054	500	500	A	N	N	M	806464	11	10592118	Y	49790	Initial Bacteria																				
+164	AI-XC	20131119122054	500	500	H	N	N	F	806508	11	10592163	Y	49790	the number of antibiotic added																				
+165	AI-XC	20131119122054	500	500	W	N	N	M	807191	11	10592167	Y	49790	N is the number of bacteria left over after the population is reduced																				
+166	AI-XC	20131119122054	500	500	H	N	Y	M	808595	11	10592172	Y	49790	(1.1)																				
+167	AI-XC	20131119122054	500	500	H	N	N	F	808610	11	10592177	Y	49790	Nuber of bacteria.																				
+168	AI-XC	20131119122054	500	500	H			M	810684	11	10592221	Y	49790	N is the bacteria that is left over.																				
+169	AI-XC	20131119122054	500	500	H			M	810735	11	10592223	Y	49790	N represents the bacteria																				
+170	AI-XC	20131119122054	500	500	A			M	810773	11	10592227	Y	49790	Number of bacteria																				
+171	AI-XC	20131119122054	500	500	H	N	N	M	811619	11	10592229	Y	49790	Number of bacteria originally used in the study																				
+172	AI-XC	20131119122054	500	500	A	N	N	F	811645	11	10592235	Y	49790	the number that it multiplied by																				
+173	AI-XC	20131119122054	500	500	H	N	N	M	811659	11	10592282	Y	49790	N is the rate at which the bacteria multiplies.																				
+174	AI-XC	20131119122054	500	500	W	N	N	M	811938	11	10592285	Y	49790	One type of bacteria																				
+175	AI-XC	20131119122054	500	500	W			M	812394	11	10592290	Y	49790	Rate of growth																				
+176	AI-XC	20131119122054	500	500	H			F	812446	11	10592296	Y	49790	N represents one type of bacteria																				
+177	AI-XC	20131119122054	500	500	H	Y	Y	M	812970	11	10592384	Y	49790	Bacteria																				
+178	AI-XC	20131119122054	500	500	W	N	N	F	813076	11	10592392	Y	49790	the number wich the bacteria grows																				
+179	AI-XC	20131119122054	500	500	H	N	N	M	813510	11	10592447	Y	49790	the initial population																				
+180	AI-XC	20131119122054	500	500	H	N	N	M	814614	11	10592452	Y	49790	N represents the percentage of bacteria.																				
+181	AI-XC	20131119122054	500	500	W	N	N	F	815419	11	10592459	Y	49790	The number of units in the problem																				
+182	AI-XC	20131119122054	500	500	W	N	N	M	816114	11	10592510	Y	49790	numeric																				
+183	AI-XC	20131119122054	500	500	H	N	Y	M	816305	11	10592518	Y	49790	the bacteria																				
+184	AI-XC	20131119122054	500	500	W	N	N	M	816528	11	10592577	Y	49790	actual amount of bacteria																				
+185	AI-XC	20131119122054	500	500	H	N	N	F	816547	11	10592629	Y	49790	N represents the amount of bacteria without antibiotics added																				
+186	AI-XC	20131119122054	500	500	H	N	N	F	816553	11	10592635	Y	49790	the antibiotic added																				
+187	AI-XC	20131119122054	500	500	H	N	Y	M	816648	11	10592640	Y	49790	rate of bacteria																				
+188	AI-XC	20131119122054	500	500	W	N	N	F	820808	11	10592741	Y	49790	k																				
+189	AI-XC	20131119122054	500	500	H		N	M	820830	11	10592743	Y	49790	rate the can be modeled																				
+190	AI-XC	20131119122054	500	500	W	N	N	F	820876	11	10592747	Y	49790	number of bacteria																				
+191	AI-XC	20131119122054	500	500	W	N	N	F	821509	11	10592751	Y	49790	"I think ""N"" stands for the amount you multiply."																				
+192	AI-XC	20131119122054	500	500	W	N	N	M	821590	11	10592757	Y	49790	the bacteria																				
+193	AI-XC	20131119122054	500	500	H	N		F	821889	11	10592815	Y	49790	N is the answer of how much bacteria there is																				
+194	AI-XC	20131119122054	500	500	B	N	N	M	821921	11	10592867	Y	49790	44																				
+195	AI-XC	20131119122054	500	500	B	N	N	F	821924	11	10592873	Y	49790	the intial amount of bacteria																				
+196	AI-XC	20131119122054	500	500	W	Y		M	821934	11	10592879	Y	49790	how much antibiotic is added																				
+197	AI-XC	20131119122054	500	500	NR			F	822003	11	10592940	Y	49790	the bacteria																				
+198	AI-XC	20131119122054	500	500	W	N	N	M	822073	11	10592995	Y	49790	Number of bacteria																				
+199	AI-XC	20131119122054	500	500	W	N	N	F	822395	11	10593041	Y	49790	the bacteria																				
+200	AI-XC	20131119122054	500	500	NR			F	822528	11	10593042	Y	49790	the multiplied number																				
+201	AI-XC	20131119122054	500	500	H	N	N	F	822655	11	10593043	Y	49790	bacteria																				
+202	AI-XC	20131119122054	500	500	H		N	F	822679	11	10593046	Y	49790	The antibiotic added.																				
+203	AI-XC	20131119122054	500	500	W	N	N	M	822738	11	10593051	Y	49790	Bacteria																				
+204	AI-XC	20131119122054	500	500	H		N	M	822763	11	10593059	Y	49790	How many times it multiply's																				
+205	AI-XC	20131119122054	500	500	W			F	822820	11	10593114	Y	49790	rate at which the bacteria grows																				
+206	AI-XC	20131119122054	500	500	H	N		F	822910	11	10593164	Y	49790	The rate the bacteria goes up by.																				
+207	AI-XC	20131119122054	500	500	W	N		F	822954	11	10593168	Y	49790	number of bactiria in the beginning																				
+208	AI-XC	20131119122054	500	500	2	N		M	822990	11	10593175	Y	49790	a variable																				
+209	AI-XC	20131119122054	500	500	W	N	N	F	822991	11	10593228	Y	49790	the number N represents the amount of bacteria population and the time in days																				
+210	AI-XC	20131119122054	500	500	W	N	N	M	823051	11	10593235	Y	49790	the number of bacteria present at the start																				
+211	AI-XC	20131119122054	500	500	NR			M	823265	11	10593240	Y	49790	rate																				
+212	AI-XC	20131119122054	500	500	NR			F	823297	11	10593292	Y	49790	"the ""N"" represent a variable"																				
+213	AI-XC	20131119122054	500	500	W			M	823323	11	10593341	Y	49790	bacteria																				
+214	AI-XC	20131119122054	500	500	NR			M	823346	11	10593343	Y	49790	number of days																				
+215	AI-XC	20131119122054	500	500	H	N	N	M	823355	11	10593346	Y	49790	grh6h																				
+216	AI-XC	20131119122054	500	500	NR			M	823471	11	10593351	Y	49790	type of bacteria																				
+217	AI-XC	20131119122054	500	500	A			M	823648	11	10593357	Y	49790	bacteria																				
+218	AI-XC	20131119122054	500	500	H			F	823695	11	10593402	Y	49790	The bacteira																				
+219	AI-XC	20131119122054	500	500	NR			M	823764	11	10593405	Y	49790	idk																				
+220	AI-XC	20131119122054	500	500	H		N	M	823813	11	10593409	Y	49790	antibiotic																				
+221	AI-XC	20131119122054	500	500	W	N	N	F	823848	11	10593414	Y	49790	The number of bacteria in the study																				
+222	AI-XC	20131119122054	500	500	H	N	N	F	823961	11	10593420	Y	49790	number of bacteria																				
+223	AI-XC	20131119122054	500	500	W	N	N	F	824037	11	10593473	Y	49790	number of bacteria that has formed.																				
+224	AI-XC	20131119122054	500	500	W	N	N	M	824414	11	10593479	Y	49790	1.1																				
+225	AI-XC	20131119122054	500	500	H			M	824492	11	10593534	Y	49790	it represents the number of multiplies at a rate																				
+226	AI-XC	20131119122054	500	500	A		N	F	824566	11	10593540	Y	49790	The number of bacteria.																				
+227	AI-XC	20131119122054	500	500	NR		N	M	824661	11	10593597	Y	49790	(1.1)																				
+228	AI-XC	20131119122054	500	500	A		N	F	824664	11	10593649	Y	49790	At the beginning of the study, the number N represents the type of bacteria that multipies.																				
+229	AI-XC	20131119122054	500	500	B		N	F	824674	11	10593656	Y	49790	rate																				
+230	AI-XC	20131119122054	500	500	W	Y		F	824706	11	10593698	Y	49790	number remaining to be multiply																				
+231	AI-XC	20131119122054	500	500	W		N	M	824767	11	10593750	Y	49790	population																				
+232	AI-XC	20131119122054	500	500	A		N	M	824821	11	10593790	Y	49790	N represents the speed of the																				
+233	AI-XC	20131119122054	500	500	NR		N	F	824827	11	10593796	Y	49790	number of bacterias																				
+234	AI-XC	20131119122054	500	500	H	N	Y	M	824883	11	10593841	Y	49790	antibiotic																				
+235	AI-XC	20131119122054	500	500	H		N	F	824927	11	10593843	Y	49790	Bacteria																				
+236	AI-XC	20131119122054	500	500	W	N	N	F	825430	11	10593847	Y	49790	it represents the colors of the rainbow																				
+237	AI-XC	20131119122054	500	500	A	N	N	F	825486	11	10593851	Y	49790	Amount of antibiotics added to the bacteria																				
+238	AI-XC	20131119122054	500	500	A			M	825883	11	10593856	Y	49790	1.1																				
+239	AI-XC	20131119122054	500	500	W			F	825922	11	10593900	Y	49790	The number N represents the rate at which bacteria multiplies.																				
+240	AI-XC	20131119122054	500	500	W	N	N	F	826257	11	10593950	Y	49790	The starting amount of bacteria																				
+241	AI-XC	20131119122054	500	500	NR			F	826386	11	10593957	Y	49790	The initial number of bacteria.																				
+242	AI-XC	20131119122054	500	500	W			M	826455	11	10594019	Y	49790	The number of days																				
+243	AI-XC	20131119122054	500	500	H	N	N	F	826806	11	10594074	Y	49790	N represents the growth rate of the bacteria.																				
+244	AI-XC	20131119122054	500	500	H	N	N	M	827230	11	10594124	Y	49790	The bactertia...																				
+245	AI-XC	20131119122054	500	500	H	N	N	M	827270	11	10594129	Y	49790	N represents the rate it mulitiplies																				
+246	AI-XC	20131119122054	500	500	NR			F	827313	11	10594137	Y	49790	Number of original bacteria																				
+247	AI-XC	20131119122054	500	500	NR			F	827406	11	10594184	Y	49790	rate																				
+248	AI-XC	20131119122054	500	500	H			F	827439	11	10594191	Y	49790	number																				
+249	AI-XC	20131119122054	500	500	H	N	N	M	827468	11	10594199	Y	49790	the end rate of the bacteria.																				
+250	AI-XC	20131119122054	500	500	W	Y	N	F	827991	11	10594247	Y	49790	initial amont																				
+251	AI-XC	20131119122054	500	500	W			F	828070	11	10594255	Y	49790	N represents bacteria multiplying																				
+252	AI-XC	20131119122054	500	500	NR			F	828236	11	10594302	Y	49790	The original amount of bacteria you start with.																				
+253	AI-XC	20131119122054	500	500	NR			M	828239	11	10594306	Y	49790	The rate that it multiplies at.																				
+254	AI-XC	20131119122054	500	500	W			F	828301	11	10594313	Y	49790	how bacteria multiplies																				
+255	AI-XC	20131119122054	500	500	W	N	N	M	828654	11	10594349	Y	49790	The number N represents the amount of bacteria that are present at the start of the study.																				
+256	AI-XC	20131119122054	500	500	NR			M	828793	11	10594356	Y	49790	the antiotic bacteria																				
+257	AI-XC	20131119122054	500	500	W			M	828872	11	10594394	Y	49790	The initial amount of bacteria present																				
+258	AI-XC	20131119122054	500	500	B	Y		M	829092	11	10594435	Y	49790	P(t)=N(1.1)t																				
+259	AI-XC	20131119122054	500	500	NR			M	829353	11	10594440	Y	49790	N=.55																				
+260	AI-XC	20131119122054	500	500	NR			M	829622	11	10594484	Y	49790	the numbers of bacterias on a day																				
+261	AI-XC	20131119122054	500	500	NR			F	829713	11	10594488	Y	49790	number																				
+262	AI-XC	20131119122054	500	500	NR			F	830181	11	10594493	Y	49790	the number																				
+263	AI-XC	20131119122054	500	500	NR			M	830207	11	10594498	Y	49790	The rate at which the bacteria is multiplying.																				
+264	AI-XC	20131119122054	500	500	NR			F	830621	11	10594572	Y	49790	the rate																				
+265	AI-XC	20131119122054	500	500	NR			F	830684	11	10594618	Y	49790	amount of bacteria																				
+266	AI-XC	20131119122054	500	500	NR			M	830725	11	10594662	Y	49790	the initial number of the bacteria																				
+267	AI-XC	20131119122054	500	500	W	N	N	M	830880	11	10594665	Y	49790	N represtents the number of bacteria																				
+268	AI-XC	20131119122054	500	500	2	N	N	M	831179	11	10594673	Y	49790	N is the rate at which the bacteria multiplies.																				
+269	AI-XC	20131119122054	500	500	W	N	N	F	831182	11	10594714	Y	49790	The initial amount of bacteria																				
+270	AI-XC	20131119122054	500	500	P	N	N	M	831222	11	10594752	Y	49790	The number N represents the initial population of bacteria.																				
+271	AI-XC	20131119122054	500	500	P	N	N	F	831226	11	10594760	Y	49790	The number of bacteria that was started with																				
+272	AI-XC	20131119122054	500	500	P	Y	N	M	831367	11	10594808	Y	49790	1.1																				
+273	AI-XC	20131119122054	500	500	P	N	N	F	831653	11	10594815	Y	49790	N represents the bacteria after the antibiotic is added in.																				
+274	AI-XC	20131119122054	500	500	W	N	N	F	831876	11	10594850	Y	49790	the number of bacteria.																				
+275	AI-XC	20131119122054	500	500	W			M	832105	11	10594856	Y	49790	the bacteria																				
+276	AI-XC	20131119122054	500	500	NR			M	832398	11	10594892	Y	49790	The rate the bacteria multiplies.																				
+277	AI-XC	20131119122054	500	500	H	N	N	F	832627	11	10594940	Y	49790	nothing																				
+278	AI-XC	20131119122054	500	500	H	N	N	M	832680	11	10594984	Y	49790	it represents the bacteria.																				
+279	AI-XC	20131119122054	500	500	W	N	N	M	832867	11	10594988	Y	49790	it represets the bacteria mutiplied																				
+280	AI-XC	20131119122054	500	500	H	N	Y	M	833060	11	10594994	Y	49790	N represents how much the bacteria multiplies																				
+281	AI-XC	20131119122054	500	500	H	N	N	M	833534	11	10595031	Y	49790	The rate of the bacteria decreasing or increasing																				
+282	AI-XC	20131119122054	500	500	W			M	833541	11	10595037	Y	49790	antibiotics																				
+283	AI-XC	20131119122054	500	500	H	N	Y	F	833724	11	10595110	Y	49790	rate																				
+284	AI-XC	20131119122054	500	500	H	N	N	F	833745	11	10595119	Y	49790	N represents the original amount of bacteria in the equation before the bacteria either increases or decreases.																				
+285	AI-XC	20131119122054	500	500	H	N	N	M	833831	11	10595156	Y	49790	The original number of bacteria																				
+286	AI-XC	20131119122054	500	500	H	N	N	M	834915	11	10595193	Y	49790	bacteria1																				
+287	AI-XC	20131119122054	500	500	A		N	M	835367	11	10595227	Y	49790	n is total bactiria at the beginning																				
+288	AI-XC	20131119122054	500	500	W	N	N	F	836501	11	10595234	Y	49790	the rate at which the bacteria multipy.																				
+289	AI-XC	20131119122054	500	500	A	N	N	F	836637	11	10595265	Y	49790	bacteria population																				
+290	AI-XC	20131119122054	500	500	H	N	N	F	836682	11	10595272	Y	49790	rate that can be modled																				
+291	AI-XC	20131119122054	500	500	W	N	N	M	836925	11	10595280	Y	49790	The initial bacteria population size																				
+292	AI-XC	20131119122054	500	500	W	N	N	F	837136	11	10595341	Y	49790	number of bacteria																				
+293	AI-XC	20131119122054	500	500	A	N	N	M	837731	11	10595343	Y	49790	equation																				
+294	AI-XC	20131119122054	500	500	H	N	N	F	837764	11	10595346	Y	49790	antibiotics																				
+295	AI-XC	20131119122054	500	500	W	N	N	M	837901	11	10595351	Y	49790	Original population.																				
+296	AI-XC	20131119122054	500	500	W	N	N	F	837918	11	10595356	Y	49790	N represents the number of bacteria in a percentage																				
+297	AI-XC	20131119122054	500	500	W	N	N	F	837920	11	10595388	Y	49790	How many bacteria there were after P(t)																				
+298	AI-XC	20131119122054	500	500	NR	N	N	F	838975	11	10595395	Y	49790	bacteria																				
+299	AI-XC	20131119122054	500	500	NR	N	N	F	839013	11	10595422	Y	49790	bacteria																				
+300	AI-XC	20131119122054	500	500	2	N	N	F	839119	11	10595425	Y	49790	the amount of bacteria you start with																				
+301	AI-XC	20131119122054	500	500	B	N	N	M	839202	11	10595430	Y	49790	number of bacteria																				
+302	AI-XC	20131119122054	500	500	A	N	N	F	839203	11	10595438	Y	49790	bacteria																				
+303	AI-XC	20131119122054	500	500	H	N	Y	M	839265	11	10595469	Y	49790	The number of bacteria.																				
+304	AI-XC	20131119122054	500	500	W	N	N	M	839325	11	10595478	Y	49790	N represents how many bacteria there are																				
+305	AI-XC	20131119122054	500	500	A	N	N	F	839362	11	10595516	Y	49790	The initial value																				
+306	AI-XC	20131119122054	500	500	H	N	N	F	839412	11	10595547	Y	49790	N represents the rate that can be modeled																				
+307	AI-XC	20131119122054	500	500	2	N	N	F	839461	11	10595554	Y	49790	the rate of production.																				
+308	AI-XC	20131119122054	500	500	2	N	N	M	840120	11	10595584	Y	49790	number of bacteria																				
+309	AI-XC	20131119122054	500	500	2	N	N	M	840139	11	10595588	Y	49790	The beginning population.																				
+310	AI-XC	20131119122054	500	500	A	N	N	F	840151	11	10595593	Y	49790	the amount of days the antibiotic is added																				
+311	AI-XC	20131119122054	500	500	2	N	N	M	840660	11	10595599	Y	49790	Number of bacteria																				
+312	AI-XC	20131119122054	500	500	W	N	N	F	840702	11	10595629	Y	49790	N represents (1.1)																				
+313	AI-XC	20131119122054	500	500	A	N	N	F	840805	11	10595636	Y	49790	bacteria multiples																				
+314	AI-XC	20131119122054	500	500	B	N	N	F	868884	11	10595669	Y	49790	How much the reaction rate is produced.																				
+315	AI-XC	20131119122054	500	500	H			F	874851	11	10595704	Y	49790	N represents the rate																				
+316	AI-XC	20131119122054	500	500	H		N	M	880693	11	10595707	Y	49790	1.1																				
+317	AI-XC	20131119122054	500	500	H	N	N	F	880937	11	10595713	Y	49790	A number																				
+318	AI-XC	20131119122054	500	500	W	Y	N	M	880972	11	10595740	Y	49790	I HAVE NO IDEA																				
+319	AI-XC	20131119122054	500	500	W	N	N	M	881097	11	10595777	Y	49790	Starting number of bacteria																				
+320	AI-XC	20131119122054	500	500	H		N	M	881583	11	10595813	Y	49790	N represents the first number of bacteria.																				
+321	AI-XC	20131119122054	500	500	W	N	N	F	881929	11	10595900	Y	49790	rate																				
+322	AI-XC	20131119122054	500	500	W	N	N	F	882643	11	10595962	Y	49790	the rate it multiplies at																				
+323	AI-XC	20131119122054	500	500	H		N	M	882724	11	10595967	Y	49790	the bacteria being multiplied																				
+324	AI-XC	20131119122054	500	500	W	N	N	F	882802	11	10595974	Y	49790	type of bacteria																				
+325	AI-XC	20131119122054	500	500	W			M	882948	11	10596001	Y	49790	antibiotic needed																				
+326	AI-XC	20131119122054	500	500	W	N	N	F	882971	11	10596003	Y	49790	077314																				
+327	AI-XC	20131119122054	500	500	B	Y		M	883014	11	10596007	Y	49790	1.1																				
+328	AI-XC	20131119122054	500	500	W			M	883193	11	10596012	Y	49790	the starting amout of bacteria																				
+329	AI-XC	20131119122054	500	500	H	Y	Y	F	883207	11	10596018	Y	49790	N represents the rate.																				
+330	AI-XC	20131119122054	500	500	NR			F	883278	11	10596046	Y	49790	N represents the amount of bacteria.																				
+331	AI-XC	20131119122054	500	500	W			M	883404	11	10596052	Y	49790	P(t)=N																				
+332	AI-XC	20131119122054	500	500	W	N	N	M	883961	11	10596059	Y	49790	the initial population of bacteria																				
+333	AI-XC	20131119122054	500	500	W	N	N	F	884117	11	10596090	Y	49790	Type of bacteria																				
+334	AI-XC	20131119122054	500	500	A		N	F	884575	11	10596096	Y	49790	The number N represents the antibiotic.																				
+335	AI-XC	20131119122054	500	500	B			M	884689	11	10596122	Y	49790	the amount of bacteria that is multiplied																				
+336	AI-XC	20131119122054	500	500	NR		N	M	884830	11	10596125	Y	49790	123																				
+337	AI-XC	20131119122054	500	500	NR		N	F	884835	11	10596130	Y	49790	At the beginning of the study, the numer N represents the percent per day																				
+338	AI-XC	20131119122054	500	500	W			F	884880	11	10596136	Y	49790	At the beginning of the study, the number N represents the rate at which the bacteria is multiping at.																				
+339	AI-XC	20131119122054	500	500	B			F	885803	11	10596161	Y	49790	(1.1)																				
+340	AI-XC	20131119122054	500	500	NR			F	886185	11	10596163	Y	49790	the number of starting bacteria																				
+341	AI-XC	20131119122054	500	500	W	N	N	F	886407	11	10596164	Y	49790	Number of bacteria in the beginning																				
+342	AI-XC	20131119122054	500	500	W	N	N	F	886411	11	10596166	Y	49790	N represents the starting bacteria population.																				
+343	AI-XC	20131119122054	500	500	W			M	886871	11	10596170	Y	49790	Amount of anitibiotic																				
+344	AI-XC	20131119122054	500	500	A	N	N	F	886985	11	10596173	Y	49790	Rate																				
+345	AI-XC	20131119122054	500	500	NR			F	887143	11	10596179	Y	49790	The beginnning amount of bacteria																				
+346	AI-XC	20131119122054	500	500	B	Y	N	F	887316	11	10596218	Y	49790	n equal the number of bacteria																				
+347	AI-XC	20131119122054	500	500	NR		N	M	887420	11	10596252	Y	49790	n represents the rate																				
+348	AI-XC	20131119122054	500	500	H	N	N	F	887497	11	10596259	Y	49790	N represents the bacteria																				
+349	AI-XC	20131119122054	500	500	H	N	N	M	887499	11	10596297	Y	49790	The letter N represents the curberture of the bacteria.																				
+350	AI-XC	20131119122054	500	500	H			M	887524	11	10596333	Y	49790	The remaining bacteria.																				
+351	AI-XC	20131119122054	500	500	H	N	N	F	887558	11	10596340	Y	49790	The number it is multiplied																				
+352	AI-XC	20131119122054	500	500	W	N	N	M	887855	11	10596369	Y	49790	bacteria																				
+353	AI-XC	20131119122054	500	500	NR			F	888113	11	10596376	Y	49790	AMOUNT																				
+354	AI-XC	20131119122054	500	500	W	N		F	888144	11	10596404	Y	49790	Origional amount of bacteria																				
+355	AI-XC	20131119122054	500	500	NR			M	888206	11	10596408	Y	49790	the type of bacteria that multiplies																				
+356	AI-XC	20131119122054	500	500	W	N	N	F	888218	11	10596414	Y	49790	The number N represents the antibiotic that is added to the bacteria.																				
+357	AI-XC	20131119122054	500	500	W	N	N	M	888220	11	10596420	Y	49790	number																				
+358	AI-XC	20131119122054	500	500	W	N	N	M	888600	11	10596458	Y	49790	Initial amount of bacteria.																				
+359	AI-XC	20131119122054	500	500	W			M	888964	11	10596491	Y	49790	Initial amount of bacteria.																				
+360	AI-XC	20131119122054	500	500	W			M	889010	11	10596496	Y	49790	the number of bacteria that you start with.																				
+361	AI-XC	20131119122054	500	500	NR			M	889351	11	10596523	Y	49790	Bacteria																				
+362	AI-XC	20131119122054	500	500	NR			M	889449	11	10596528	Y	49790	bactiria																				
+363	AI-XC	20131119122054	500	500	NR			M	889704	11	10596532	Y	49790	A variable																				
+364	AI-XC	20131119122054	500	500	NR			M	889832	11	10596540	Y	49790	The remaining bacteria																				
+365	AI-XC	20131119122054	500	500	NR			F	889931	11	10596601	Y	49790	antibiotic																				
+366	AI-XC	20131119122054	500	500	NR			M	890269	11	10596603	Y	49790	Nutrions																				
+367	AI-XC	20131119122054	500	500	NR			F	890517	11	10596607	Y	49790	The bacteria.																				
+368	AI-XC	20131119122054	500	500	W			F	890655	11	10596611	Y	49790	Total amount of bacteria																				
+369	AI-XC	20131119122054	500	500	P	N	N	F	890886	11	10596618	Y	49790	the number N represents the amount of antibiotic that is added each day																				
+370	AI-XC	20131119122054	500	500	P	N	N	M	890938	11	10596644	Y	49790	the variable																				
+371	AI-XC	20131119122054	500	500	NR			F	891014	11	10596648	Y	49790	bacteria population																				
+372	AI-XC	20131119122054	500	500	W	N	N	M	891033	11	10596653	Y	49790	1.1																				
+373	AI-XC	20131119122054	500	500	NR			F	891258	11	10596660	Y	49790	Antibiotic																				
+374	AI-XC	20131119122054	500	500	W	N	N	M	891420	11	10596694	Y	49790	The bacteria.																				
+375	AI-XC	20131119122054	500	500	W	N	N	F	891514	11	10596700	Y	49790	I don't know.																				
+376	AI-XC	20131119122054	500	500	NR			M	891670	11	10596733	Y	49790	bacteria																				
+377	AI-XC	20131119122054	500	500	NR			M	891736	11	10596740	Y	49790	N represents the current number of bacteria before an antibiotic is given to the bacteria.																				
+378	AI-XC	20131119122054	500	500	P	N	N	M	891793	11	10596777	Y	49790	The number N represents Rate																				
+379	AI-XC	20131119122054	500	500	P	N	N	M	891795	11	10596806	Y	49790	At the beginning of the study the N represents the rate																				
+380	AI-XC	20131119122054	500	500	NR			M	891888	11	10596812	Y	49790	bacteria																				
+381	AI-XC	20131119122054	500	500	W			F	891964	11	10596819	Y	49790	N represents the number of bacteria.																				
+382	AI-XC	20131119122054	500	500	B			M	892009	11	10596854	Y	49790	The number of bacteria.																				
+383	AI-XC	20131119122054	500	500	W	N	N	F	892096	11	10596881	Y	49790	next																				
+384	AI-XC	20131119122054	500	500	NR			F	892097	11	10596883	Y	49790	nights																				
+385	AI-XC	20131119122054	500	500	NR			F	892177	11	10596887	Y	49790	bacteria																				
+386	AI-XC	20131119122054	500	500	NR			F	892184	11	10596891	Y	49790	the rate																				
+387	AI-XC	20131119122054	500	500	NR			M	892225	11	10596898	Y	49790	10,000																				
+388	AI-XC	20131119122054	500	500	W			M	892382	11	10596938	Y	49790	Number of bacteria																				
+389	AI-XC	20131119122054	500	500	NR			F	892387	11	10596974	Y	49790	the antibiotic added to the bacteria																				
+390	AI-XC	20131119122054	500	500	H	N	N	F	892402	11	10597002	Y	49790	N represents (1.1)t																				
+391	AI-XC	20131119122054	500	500	H	N	Y	M	892405	11	10597005	Y	49790	p(t)= N(2.2)																				
+392	AI-XC	20131119122054	500	500	H	N	N	M	893153	11	10597010	Y	49790	N represents the antibiotic																				
+393	AI-XC	20131119122054	500	500	W		N	M	894172	11	10597015	Y	49790	N = .60																				
+394	AI-XC	20131119122054	500	500	H		N	F	894705	11	10597043	Y	49790	The number N represents the antibiotic that is added to reduce the number of bacteria.																				
+395	AI-XC	20131119122054	500	500	W		N	F	895417	11	10597047	Y	49790	the antibiotic																				
+396	AI-XC	20131119122054	500	500	W	N	N	M	895510	11	10597052	Y	49790	number of bacteria																				
+397	AI-XC	20131119122054	500	500	H	N	N	M	895513	11	10597058	Y	49790	number of bacteria																				
+398	AI-XC	20131119122054	500	500	W	N	N	M	895621	11	10597098	Y	49790	the number of bacteria at the start																				
+399	AI-XC	20131119122054	500	500	W	N	N	M	895736	11	10597132	Y	49790	Rate of multiplication																				
+400	AI-XC	20131119122054	500	500	NR			M	897275	11	10597138	Y	49790	the number of bacteria																				
+401	AI-XC	20131119122054	500	500	W	N	N	M	898527	11	10597164	Y	49790	bacteria																				
+402	AI-XC	20131119122054	500	500	H	N	N	M	898536	11	10597168	Y	49790	N represents (1.1)																				
+403	AI-XC	20131119122054	500	500	W	N	N	M	898542	11	10597174	Y	49790	How much antibiotic you have.																				
+404	AI-XC	20131119122054	500	500	W	N	N	M	899025	11	10597222	Y	49790	ni																				
+405	AI-XC	20131119122054	500	500	W	N	N	F	899064	11	10597225	Y	49790	bacteria																				
+406	AI-XC	20131119122054	500	500	B	N	N	M	899456	11	10597230	Y	49790	antibiotic																				
+407	AI-XC	20131119122054	500	500	A	N	N	M	899457	11	10597240	Y	49790	The amount of bacteria to begin with.																				
+408	AI-XC	20131119122054	500	500	NR	N	N	F	899591	11	10597279	Y	49790	the number of bacteria																				
+409	AI-XC	20131119122054	500	500	NR	N	N	M	899632	11	10597316	Y	49790	Number of bacteria																				
+410	AI-XC	20131119122054	500	500	NR	Y	N	F	899679	11	10597346	Y	49790	bacteria																				
+411	AI-XC	20131119122054	500	500	NR	N	N	M	899816	11	10597351	Y	49790	The intervals at wich the Bacteria multiplies, or the rate.																				
+412	AI-XC	20131119122054	500	500	A	N	N	M	899927	11	10597358	Y	49790	1.1																				
+413	AI-XC	20131119122054	500	500	W	N	N	M	900005	11	10597384	Y	49790	an antibotic																				
+414	AI-XC	20131119122054	500	500	W	N	N	F	902027	11	10597388	Y	49790	the rate																				
+415	AI-XC	20131119122054	500	500	H	N	Y	M	902053	11	10597394	Y	49790	p(t)-N(1.1)t																				
+416	AI-XC	20131119122054	500	500	A	N	N	F	902122	11	10597437	Y	49790	bacteria																				
+417	AI-XC	20131119122054	500	500	2	N	N	M	902163	11	10597466	Y	49790	N is the number of bacteria.																				
+418	AI-XC	20131119122054	500	500	B			F	939481	11	10597471	Y	49790	The rate at which it is going																				
+419	AI-XC	20131119122054	500	500	NR			F	945271	11	10597477	Y	49790	rate																				
+420	AI-XC	20131119122054	500	500	NR			M	946062	11	10597501	Y	49790	1.1																				
+421	AI-XC	20131119122054	500	500	W			F	948521	11	10597503	Y	49790	Number that the bacteria started at																				
+422	AI-XC	20131119122054	500	500	W	N	N	F	951776	11	10597505	Y	49790	the missing number																				
+423	AI-XC	20131119122054	500	500	B	Y		F	953918	11	10597509	Y	49790	antibiotic																				
+424	AI-XC	20131119122054	500	500	W	N	N	M	954290	11	10597513	Y	49790	bacteria																				
+425	AI-XC	20131119122054	500	500	H		N	M	954612	11	10597520	Y	49790	the remaining bacteria																				
+426	AI-XC	20131119122054	500	500	B	N	N	F	955206	11	10597553	Y	49790	Numerator																				
+427	AI-XC	20131119122054	500	500	W			F	955504	11	10597560	Y	49790	The amount of antibiotic																				
+428	AI-XC	20131119122054	500	500	NR			F	955521	11	10597589	Y	49790	The multiplication rate																				
+429	AI-XC	20131119122054	500	500	NR	N		F	955526	11	10597595	Y	49790	rate																				
+430	AI-XC	20131119122054	500	500	H	N	N	M	955568	11	10597622	Y	49790	n represents the amount of bacteria																				
+431	AI-XC	20131119122054	500	500	NR			M	955704	11	10597625	Y	49790	number of how much it goes down																				
+432	AI-XC	20131119122054	500	500	NR			F	955746	11	10597630	Y	49790	The amount of bacteria at the start.																				
+433	AI-XC	20131119122054	500	500	NR			F	955747	11	10597636	Y	49790	N represents the rate																				
+434	AI-XC	20131119122054	500	500	A		N	M	955756	11	10597662	Y	49790	Number of bacteria reduced																				
+435	AI-XC	20131119122054	500	500	B	Y		M	956143	11	10597665	Y	49790	Number																				
+436	AI-XC	20131119122054	500	500	H	N	N	F	956148	11	10597670	Y	49790	Bacteria added.																				
+437	AI-XC	20131119122054	500	500	B	N	N	F	956361	11	10597676	Y	49790	The rate																				
+438	AI-XC	20131119122054	500	500	W			M	956397	11	10597698	Y	49790	the intial amount of bacteria																				
+439	AI-XC	20131119122054	500	500	NR			M	957284	11	10597725	Y	49790	The initial amount of bacteria																				
+440	AI-XC	20131119122054	500	500	B			M	957387	11	10597729	Y	49790	how much bacteria is reduced.																				
+441	AI-XC	20131119122054	500	500	W	N	N	M	957430	11	10597735	Y	49790	rate in which it multiplies																				
+442	AI-XC	20131119122054	500	500	W	N	N	F	957901	11	10597740	Y	49790	Time in days.																				
+443	AI-XC	20131119122054	500	500	W	N	N	M	959005	11	10597764	Y	49790	remaining bacteria																				
+444	AI-XC	20131119122054	500	500	W	N	Y	M	960045	11	10597768	Y	49790	N represents the rate.																				
+445	AI-XC	20131119122054	500	500	W	N	N	F	960834	11	10597773	Y	49790	n is the initial population																				
+446	AI-XC	20131119122054	500	500	H	N	N	M	961289	11	10597778	Y	49790	The rate at which it is multiplied.																				
+447	AI-XC	20131119122054	500	500	A	N	N	F	961290	11	10597804	Y	49790	Number of initial bacteria.																				
+448	AI-XC	20131119122054	500	500	A	N	N	M	961365	11	10597808	Y	49790	the antibiotic that is added to the bacteria																				
+449	AI-XC	20131119122054	500	500	2	N	N	F	961635	11	10597814	Y	49790	Rate at which the bacteria is produced.																				
+450	AI-XC	20131119122054	500	500	W	N	N	M	961646	11	10597820	Y	49790	Initial population of bacteria																				
+451	AI-XC	20131119122054	500	500	A	N	N	M	961650	11	10597853	Y	49790	N represents the starting amount of bacteria																				
+452	AI-XC	20131119122054	500	500	NR			M	968998	11	10597859	Y	49790	multiplication rate																				
+453	AI-XC	20131119122054	500	500	W			F	970120	11	10597884	Y	49790	the the final population amount after so many days																				
+454	AI-XC	20131119122054	500	500	W	N	N	F	974010	11	10597888	Y	49790	the number of the bacteria																				
+455	AI-XC	20131119122054	500	500	H	N	Y	M	976583	11	10597892	Y	49790	IDK																				
+456	AI-XC	20131119122054	500	500	H	N	N	M	979132	11	10597896	Y	49790	N represents the amount of days.																				
+457	AI-XC	20131119122054	500	500	A	N	Y	M	982436	11	10597921	Y	49790	the number of bacterias initially in the container																				
+458	AI-XC	20131119122054	500	500	A	N	N	F	982654	11	10597923	Y	49790	The N represents the amount of antibiotic added to the bacteria.																				
+459	AI-XC	20131119122054	500	500	W	N	N	M	984799	11	10597927	Y	49790	the origional number of bacteria																				
+460	AI-XC	20131119122054	500	500	W			M	985307	11	10597932	Y	49790	N represents the initial population of bacteria																				
+461	AI-XC	20131119122054	500	500	H	N	N	M	986638	11	10597936	Y	49790	antibiotic																				
+462	AI-XC	20131119122054	500	500	W	N	N	F	987642	11	10597962	Y	49790	number of bacteria																				
+463	AI-XC	20131119122054	500	500	H	N	N	M	991931	11	10597965	Y	49790	The starting population.																				
+464	AI-XC	20131119122054	500	500	H		N	F	998734	11	10597970	Y	49790	N represents the rate the poplution is reduced at per day.																				
+465	AI-XC	20131119122054	500	500	W	N	N	F	999134	11	10597975	Y	49790	the bacteria																				
+466	AI-XC	20131119122054	500	500	H			M	1000234	11	10597997	Y	49790	N represents the percent or rate of change (60%)																				
+467	AI-XC	20131119122054	500	500	H			F	1000275	11	10598021	Y	49790	The starting quantity of bacteria																				
+468	AI-XC	20131119122054	500	500	W		Y	M	1000450	11	10598023	Y	49790	the beginning ammount of bacteria																				
+469	AI-XC	20131119122054	500	500	H			F	1000535	11	10598027	Y	49790	how many bacteria have multiplied																				
+470	AI-XC	20131119122054	500	500	H			F	1000619	11	10598031	Y	49790	The initial amount of bacteria.																				
+471	AI-XC	20131119122054	500	500	W			M	1000625	11	10598036	Y	49790	The number of bacteria at the beginning of the study.																				
+472	AI-XC	20131119122054	500	500	W	N	N	F	1000631	11	10598062	Y	49790	Rate at which the bacteria multiplies																				
+473	AI-XC	20131119122054	500	500	W			F	1000705	11	10598064	Y	49790	Represents bacteria population																				
+474	AI-XC	20131119122054	500	500	NR			M	1000740	11	10598068	Y	49790	it represents the initial amount of bacteria																				
+475	AI-XC	20131119122054	500	500	W			M	1000766	11	10598073	Y	49790	Number																				
+476	AI-XC	20131119122054	500	500	W	N	N	M	1001546	11	10598077	Y	49790	Rate of Reproduction																				
+477	AI-XC	20131119122054	500	500	W	Y	N	M	1001571	11	10598097	Y	49790	N represents the bacteria																				
+478	AI-XC	20131119122054	500	500	A	N	N	F	1001575	11	10598122	Y	49790	number of bacteria																				
+479	AI-XC	20131119122054	500	500	NR		N	F	1001749	11	10598123	Y	49790	the rate that amount of antibiotic																				
+480	AI-XC	20131119122054	500	500	A	N	N	F	1001769	11	10598127	Y	49790	the number of bacteria present at the beginning of the experiment, or the bacteria population when t=0.																				
+481	AI-XC	20131119122054	500	500	A	N	N	M	1001854	11	10598182	Y	49790	"""N"" represents the population."																				
+482	AI-XC	20131119122054	500	500	A	N	N	F	1001964	11	10598184	Y	49790	constant																				
+483	AI-XC	20131119122054	500	500	H	N	Y	M	1002055	11	10598190	Y	49790	antibiotic																				
+484	AI-XC	20131119122054	500	500	W	Y		M	1002185	11	10598216	Y	49790	The total number of bacteria in the amount of time it was given.																				
+485	AI-XC	20131119122054	500	500	H	N	N	M	1002220	11	10598242	Y	49790	The letter N represents the amount of time in long term like years.																				
+486	AI-XC	20131119122054	500	500	H	N	Y	F	1002221	11	10598245	Y	49790	1.1																				
+487	AI-XC	20131119122054	500	500	B	Y		F	1002523	11	10598250	Y	49790	The antibiotic																				
+488	AI-XC	20131119122054	500	500	A	N	N	F	1002645	11	10598253	Y	49790	the original population																				
+489	AI-XC	20131119122054	500	500	NR			F	1002882	11	10598260	Y	49790	amount of bacteria																				
+490	AI-XC	20131119122054	500	500	B	Y		M	1003107	11	10598286	Y	49790	The population after day one.																				
+491	AI-XC	20131119122054	500	500	W	N	N	M	1004821	11	10598292	Y	49790	N represents the initial number of bacteria.																				
+492	AI-XC	20131119122054	500	500	NR			F	1005721	11	10598297	Y	49790	Number of bacteria.																				
+493	AI-XC	20131119122054	500	500	W	N	N	M	1005963	11	10598326	Y	49790	A letter.																				
+494	AI-XC	20131119122054	500	500	W	N	N	M	1006119	11	10598332	Y	49790	The initital population of Bacteria before they multiply.																				
+495	AI-XC	20131119122054	500	500	NR			F	1006238	11	10598337	Y	49790	the n represents the number of antibiotic that was added to the bacteria																				
+496	AI-XC	20131119122054	500	500	A	N	N	M	1008407	11	10598361	Y	49790	Starting population																				
+497	AI-XC	20131119122054	500	500	H	N	N	F	1008701	11	10598363	Y	49790	antibiotic																				
+498	AI-XC	20131119122054	500	500	W	N	N	F	1010222	11	10598367	Y	49790	N represents the speed the bacteria is growning at.																				
+499	AI-XC	20131119122054	500	500	H			F	1013574	11	10598371	Y	49790	idk																				

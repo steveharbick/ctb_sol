@@ -1,0 +1,12 @@
+
+EssayText<-gsub("1","one",EssayText)
+EssayText<-gsub("2","two",EssayText)
+EssayText<-gsub("3","three",EssayText)
+EssayText<-gsub("4","four",EssayText)
+EssayText<-gsub("5","five",EssayText)
+EssayText<-gsub("6","six",EssayText)
+EssayText<-gsub("7","seven",EssayText)
+EssayText<-gsub("8","eight",EssayText)
+EssayText<-gsub("9","nine",EssayText)
+EssayText<-gsub("10","ten",EssayText)
+Store(EssayText)

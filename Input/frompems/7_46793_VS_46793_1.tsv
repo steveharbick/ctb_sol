@@ -1,0 +1,501 @@
+	AI_Prov_Name	File_Date	File_Count	Group_Count	Ethnicity	IEP	LEP	Gender	Ven_Stud_ID	Grade	Stud_Test_ID	Score_Flag	Item_ID	Item_Response	Final_Score	Data_Point	Read1_Date	Read1_ID	Read1_Score	Read1_Cond	Read2_Date	Read2_ID	Read2_Score	Read2_Cond	Read3_Date	Read3_ID	Read3_Score	Read3_Cond	Read5_Date	Read5_ID	Read5_Score	Read5_Cond	Alert_Code	Alert_ReaderID
+0	AI-XC	20131119122054	500	500	2	N	N	F	748133	7	10604790	Y	46793	Yes,it can be equal to whatever the tempature is.How?Well,at first celsius is only cold tempature and fahrenheit is hot tempature.																				
+1	AI-XC	20131119122054	500	500	W	Y		M	807586	7	10604791	Y	46793	because it should have 9 over 5 not 1.8																				
+2	AI-XC	20131119122054	500	500	H	N	N	M	807622	7	10604792	Y	46793	Yes because 1.8 is equal to the fraction used in the temperature formula.																				
+3	AI-XC	20131119122054	500	500	A		N	M	807812	7	10604793	Y	46793	No it can not be used to acurtlely convert temperatures because 9/5 does not equal 1.8.																				
+4	AI-XC	20131119122054	500	500	W			F	807846	7	10604794	Y	46793	No because that might not always be right																				
+5	AI-XC	20131119122054	500	500	W	N	N	F	808097	7	10604795	Y	46793	Yes, the equation F=1.8C + 32 can be used accurately because if you convert 9/5 into a decimal it is 1.8 so it would be accurate.																				
+6	AI-XC	20131119122054	500	500	W	N	N	F	817940	7	10604796	Y	46793	yes.																				
+7	AI-XC	20131119122054	500	500	H	N	N	F	818119	7	10604797	Y	46793	no beaus to convrt is to be use in a fraction not a decimal. and caelcius is below 30 degrees which is a negative result.																				
+8	AI-XC	20131119122054	500	500	NR	N	N	M	818211	7	10604798	Y	46793	Yes. 5/9 is the equivelant fraction to 1.8, so you would be able to use it in place of the fraction.																				
+9	AI-XC	20131119122054	500	500	NR	N	N	F	818527	7	10604799	Y	46793	because 32 is freezing and 1.8 is the fahrenheit degrees.																				
+10	AI-XC	20131119122054	500	500	H			F	818583	7	10604800	Y	46793	no because it should equal -15 degrees fahrenheit.																				
+11	AI-XC	20131119122054	500	500	NR			M	819091	7	10604801	Y	46793	No because the teperature can cange.																				
+12	AI-XC	20131119122054	500	500	NR			M	819105	7	10604802	Y	46793	No because they are not in the same tempature group																				
+13	AI-XC	20131119122054	500	500	W			M	819120	7	10604803	Y	46793	I am not sure																				
+14	AI-XC	20131119122054	500	500	NR			F	819158	7	10604804	Y	46793	no becuase on a thermometer the temp in fahrenheit is not 30 dgress more than it would be in celsius . it would be more like 5 or 10 degress more in fahrenheit so the eqauation would tyhen be f=1.8c+5 or 10.																				
+15	AI-XC	20131119122054	500	500	B	Y	N	F	819234	7	10604805	Y	46793	no bcause it doesnt work like that.																				
+16	AI-XC	20131119122054	500	500	W	N	N	M	819258	7	10604806	Y	46793	yes because 1.8C is equal to 9/5C so your using the same meathod so yes.																				
+17	AI-XC	20131119122054	500	500	NR			M	819290	7	10604807	Y	46793	Autumn wants the ...																				
+18	AI-XC	20131119122054	500	500	W	Y		F	819381	7	10604808	Y	46793	i dont know																				
+19	AI-XC	20131119122054	500	500	W			M	819382	7	10604809	Y	46793	no i dont even know what you are asking																				
+20	AI-XC	20131119122054	500	500	NR			F	819513	7	10604810	Y	46793	yes because you can easily do 1.8 times c plus 32																				
+21	AI-XC	20131119122054	500	500	NR			F	822153	7	10604811	Y	46793	Yes, because 9 divided by 5 is 1.8 so you could use that number and it would be easier.																				
+22	AI-XC	20131119122054	500	500	NR			F	822468	7	10604812	Y	46793	Yes because 9/5= 1 4/5+ 1.8 or 180% and you are still keeping the second number the same. In conclusion, yes it will work just the same as before.																				
+23	AI-XC	20131119122054	500	500	NR	N	N	F	823223	7	10604813	Y	46793	no , because it wont work accurately																				
+24	AI-XC	20131119122054	500	500	B	N	N	M	823228	7	10604814	Y	46793	Q4																				
+25	AI-XC	20131119122054	500	500	NR			M	823861	7	10604815	Y	46793	yes because it is accurately																				
+26	AI-XC	20131119122054	500	500	W	Y	N	M	823908	7	10604816	Y	46793	yes because f=1.8c + 32 anyways																				
+27	AI-XC	20131119122054	500	500	NR			F	824142	7	10604817	Y	46793	No, because 1.8C dosn't equal the right amount for the tempeture to be positive.																				
+28	AI-XC	20131119122054	500	500	W	N	N	M	824265	7	10604818	Y	46793	Yes because fractions can be converted into decimals.																				
+29	AI-XC	20131119122054	500	500	B	N	N	M	827657	7	10604819	Y	46793	45																				
+30	AI-XC	20131119122054	500	500	W	N	N	F	827864	7	10604820	Y	46793	yes, because 1.8 is 9/5 in decimal form																				
+31	AI-XC	20131119122054	500	500	W	N	N	F	828917	7	10604821	Y	46793	no because 32 does not have a given temperatre																				
+32	AI-XC	20131119122054	500	500	H	N	N	F	830990	7	10604822	Y	46793	Yes, because if u divide 9 over 5 u will get 1.8.																				
+33	AI-XC	20131119122054	500	500	H	N	Y	M	832606	7	10604823	Y	46793	45621																				
+34	AI-XC	20131119122054	500	500	B	N	N	F	834189	7	10604824	Y	46793	987																				
+35	AI-XC	20131119122054	500	500	H	N	N	M	835177	7	10604825	Y	46793	it isnt because f is more degrees that c																				
+36	AI-XC	20131119122054	500	500	H	N	N	M	837985	7	10604826	Y	46793	yes because they just changed 9/5 into 1.8																				
+37	AI-XC	20131119122054	500	500	H	N	N	F	838263	7	10604827	Y	46793	i think it can because it is fahrenheit & celcius																				
+38	AI-XC	20131119122054	500	500	B	N	N	M	838423	7	10604828	Y	46793	yes																				
+39	AI-XC	20131119122054	500	500	H	N	N	F	838774	7	10604829	Y	46793	Yes, because you can subtract 32 from both sides.																				
+40	AI-XC	20131119122054	500	500	H	N	N	M	839774	7	10604830	Y	46793	YES																				
+41	AI-XC	20131119122054	500	500	W			M	839785	7	10604831	Y	46793	eep																				
+42	AI-XC	20131119122054	500	500	H	N	Y	F	840078	7	10604832	Y	46793	no because it is higger																				
+43	AI-XC	20131119122054	500	500	H	N	Y	F	840357	7	10604833	Y	46793	No because it is not a fraction																				
+44	AI-XC	20131119122054	500	500	H	N	Y	F	840520	7	10604834	Y	46793	truth is i dont get this problem si i dont know																				
+45	AI-XC	20131119122054	500	500	A	N	N	F	840603	7	10604835	Y	46793	Yes because 1.8 is the same thing as 9/5.																				
+46	AI-XC	20131119122054	500	500	NR	N		F	840898	7	10604836	Y	46793	yes it can because 1.8c +32=5.0 or 50																				
+47	AI-XC	20131119122054	500	500	H		Y	M	841018	7	10604837	Y	46793	it has 1.8 and it wont work																				
+48	AI-XC	20131119122054	500	500	W	N	N	F	841367	7	10604838	Y	46793	Yes, because 9/5 in decimal form is 1.80. If you put 9/5 into simplest form you would get 1 4/5 and 4/5 as a decimal is .80 so if you add the 1 then you would get 1.80  and still be able to get the same answer.																				
+49	AI-XC	20131119122054	500	500	NR			M	841402	7	10604839	Y	46793	because 1.8 is equivilent to1 8/40 wich equals 9/5																				
+50	AI-XC	20131119122054	500	500	W	N	N	F	841457	7	10604840	Y	46793	yes because its a true equation																				
+51	AI-XC	20131119122054	500	500	W			F	841553	7	10604841	Y	46793	yes because 1.8 is equivlant to 9/5.																				
+52	AI-XC	20131119122054	500	500	W	N	N	M	841663	7	10604842	Y	46793	idk																				
+53	AI-XC	20131119122054	500	500	H	N	N	M	841689	7	10604843	Y	46793	IDK																				
+54	AI-XC	20131119122054	500	500	H	N	N	M	841909	7	10604844	Y	46793	no becouse there tempatures nd they equal the same																				
+55	AI-XC	20131119122054	500	500	W	Y		M	842484	7	10604845	Y	46793	444																				
+56	AI-XC	20131119122054	500	500	H	N	N	F	842507	7	10604846	Y	46793	9045oijwrefo;ijewa																				
+57	AI-XC	20131119122054	500	500	A			F	842610	7	10604847	Y	46793	yes, because in the original equation it is 9/5c and 9/5 converted into a decimal is 1.8.																				
+58	AI-XC	20131119122054	500	500	W	N		F	842700	7	10604848	Y	46793	No because if you do that equation it will equal out to be 40 degrees it will not be equal.																				
+59	AI-XC	20131119122054	500	500	NR			F	842711	7	10604849	Y	46793	No, because that is not the formula to find Celsius.																				
+60	AI-XC	20131119122054	500	500	W	N	N	F	842748	7	10604850	Y	46793	Yes because 1.8 is equal to 18/10, which, if you simplify that reduces to 9/5.																				
+61	AI-XC	20131119122054	500	500	W	N	N	M	842920	7	10604851	Y	46793	No because the other equation is the only way to find the answer in Fahrenheit.																				
+62	AI-XC	20131119122054	500	500	H		N	M	843018	7	10604862	Y	46793	yes because thats what -15 c equals in fahrenheit																				
+63	AI-XC	20131119122054	500	500	W	N	N	M	843079	7	10604866	Y	46793	no i guessed																				
+64	AI-XC	20131119122054	500	500	B	N		M	843438	7	10604870	Y	46793	the reason no is because 1.8c =32 its not even what weather man use to tell weather																				
+65	AI-XC	20131119122054	500	500	H	N	Y	F	843757	7	10604874	Y	46793	yes, because sometimes the temperatures wont be  in the exact place some times it would be cooler and some times it  would  hot and temperatures can be like that .																				
+66	AI-XC	20131119122054	500	500	H	N	Y	F	844321	7	10604880	Y	46793	No, it can't because you don't know the celsius so you can't multiply																				
+67	AI-XC	20131119122054	500	500	W	N	N	M	844339	7	10604886	Y	46793	no BECAUSE THATS not the formula																				
+68	AI-XC	20131119122054	500	500	W			F	844365	7	10604892	Y	46793	yes because if you add the 2 together then you will get your answer.																				
+69	AI-XC	20131119122054	500	500	W	N	N	F	844421	7	10604897	Y	46793	33.8																				
+70	AI-XC	20131119122054	500	500	H	N	N	F	844599	7	10604902	Y	46793	no because 9/5 does not equal to 1.8																				
+71	AI-XC	20131119122054	500	500	W	N	N	F	844661	7	10604905	Y	46793	yes, because it tells you how much celsius is so you can figure out what fahrenheit is.																				
+72	AI-XC	20131119122054	500	500	W	N	N	M	844699	7	10604912	Y	46793	No, because 9/5 is not equal to 1.8.																				
+73	AI-XC	20131119122054	500	500	B	N	N	M	844876	7	10604918	Y	46793	NO,because you couldn't add without converting																				
+74	AI-XC	20131119122054	500	500	W		N	F	844969	7	10604923	Y	46793	you can because thats how math works																				
+75	AI-XC	20131119122054	500	500	NR	N	N	M	845231	7	10604929	Y	46793	No, because it is a decimal it cant have the two number ratio like the faction does.																				
+76	AI-XC	20131119122054	500	500	NR			M	845618	7	10604935	Y	46793	No because 1.8 isn't the decimal form of 9/5.																				
+77	AI-XC	20131119122054	500	500	W	N	N	F	845713	7	10604939	Y	46793	Yes, because 1.8 is equivalent to 9/5. The formulas have the same steps so they are equal.																				
+78	AI-XC	20131119122054	500	500	H	Y	Y	M	846083	7	10604946	Y	46793	f=1.8C+32=84																				
+79	AI-XC	20131119122054	500	500	NR			F	846502	7	10604951	Y	46793	yes because 9/5 = 1 and 4/5 which equals 1.8																				
+80	AI-XC	20131119122054	500	500	W			M	846517	7	10604955	Y	46793	yes																				
+81	AI-XC	20131119122054	500	500	W	N	N	F	846545	7	10604961	Y	46793	All you have to do is divide																				
+82	AI-XC	20131119122054	500	500	NR			M	847144	7	10604963	Y	46793	1.8c+32=?																				
+83	AI-XC	20131119122054	500	500	A		Y	F	847336	7	10604967	Y	46793	beause it is bigger than the other																				
+84	AI-XC	20131119122054	500	500	H			M	847900	7	10604971	Y	46793	no becuase it cant be dat waytho																				
+85	AI-XC	20131119122054	500	500	H		Y	F	847981	7	10604976	Y	46793	because it is jasbfkjc																				
+86	AI-XC	20131119122054	500	500	W	N	N	F	848075	7	10604982	Y	46793	kgklnngklnfdhgdh																				
+87	AI-XC	20131119122054	500	500	H	N	N	F	848189	7	10604987	Y	46793	Yes, because that how you use the formula to find the Fahrenheit of Celsius.																				
+88	AI-XC	20131119122054	500	500	NR	N		M	848491	7	10604990	Y	46793	Yes, because 1.8 is equivlient to the fraction 9/5.																				
+89	AI-XC	20131119122054	500	500	NR			M	849091	7	10604996	Y	46793	no you cant have decimal in temp																				
+90	AI-XC	20131119122054	500	500	W	N	N	F	851274	7	10605000	Y	46793	yes because 1.8 is the decimal of 9 over 5																				
+91	AI-XC	20131119122054	500	500	H	N	Y	M	851276	7	10605006	Y	46793	?																				
+92	AI-XC	20131119122054	500	500	W	N	N	F	851877	7	10605012	Y	46793	because it changes																				
+93	AI-XC	20131119122054	500	500	NR			M	855933	7	10605017	Y	46793	why not because you can't not change the equation.																				
+94	AI-XC	20131119122054	500	500	H	N	N	F	856769	7	10605022	Y	46793	Yes, it can be used to accurately convert temperatures because 1.8 is the same as 9/5. They are equal and it is easier to find the answer because the fraction has been turned to a number.																				
+95	AI-XC	20131119122054	500	500	H	N	Y	M	856775	7	10605025	Y	46793	yes it still possible																				
+96	AI-XC	20131119122054	500	500	W		N	M	857726	7	10605029	Y	46793	Yes, this is true because F=1.8C+32 is equivelent to F=9/5C+32																				
+97	AI-XC	20131119122054	500	500	B	N	N	F	857730	7	10605035	Y	46793	yes, I do think so beause 1.8 is the decimal form to 9/5, and when you add thirty-two you will get the same anwser.																				
+98	AI-XC	20131119122054	500	500	W		N	M	858581	7	10605043	Y	46793	ji																				
+99	AI-XC	20131119122054	500	500	W	N		M	858856	7	10605049	Y	46793	yes it works because thats the rule it says at question 11 so if thats the rule it should work out really go its the rule is real si if that then it should work but not then i dont know because thats the rule.																				
+100	AI-XC	20131119122054	500	500	H	N	N	F	859837	7	10605054	Y	46793	yes because 9/5 as a decimal is 1.8																				
+101	AI-XC	20131119122054	500	500	I	Y	N	F	860020	7	10605059	Y	46793	yes because when you are finding the answer to find the temperatures then you can find your answer by doing math.																				
+102	AI-XC	20131119122054	500	500	H	N	Y	F	860813	7	10605063	Y	46793	Yes, it can be used accurately because the numbers are accurate.																				
+103	AI-XC	20131119122054	500	500	W	N	N	M	860824	7	10605067	Y	46793	Nope,because it is a decimal and the other number is not																				
+104	AI-XC	20131119122054	500	500	H	N	N	M	861126	7	10605070	Y	46793	no because there is no decimals in temp.																				
+105	AI-XC	20131119122054	500	500	W		N	F	861414	7	10605074	Y	46793	Yes, F=1.8+32 can be used accurately to convert temperatures because 1.8 is equal to 9/5, so both equations are stating the same thing.																				
+106	AI-XC	20131119122054	500	500	W	Y	N	M	861463	7	10605078	Y	46793	Yes, because that is how it is.																				
+107	AI-XC	20131119122054	500	500	W	N	N	F	862073	7	10605084	Y	46793	yes																				
+108	AI-XC	20131119122054	500	500	H	N	N	M	862141	7	10605089	Y	46793	No beacause 1.82 + 32 does not eqall thee same as 9/5C+32																				
+109	AI-XC	20131119122054	500	500	W		N	F	862230	7	10605096	Y	46793	Yes, this equation can be used to covert temperature because if you multiply your celcius temperature by 1.8 and add 32 then you get the correct amount.																				
+110	AI-XC	20131119122054	500	500	I	Y	N	M	862755	7	10605101	Y	46793	NOT A ANSER																				
+111	AI-XC	20131119122054	500	500	H	N	N	F	863553	7	10605103	Y	46793	no becaus ethats not the right formula to turn fahrenheit into celsius																				
+112	AI-XC	20131119122054	500	500	W	N	N	M	863621	7	10605106	Y	46793	idk																				
+113	AI-XC	20131119122054	500	500	W	N	N	M	863627	7	10605110	Y	46793	No, because when you do the problem it would not be correct. The problem states that farenheit equals 1.8C but it should be a fraction that becaomes before the C.																				
+114	AI-XC	20131119122054	500	500	NR			M	863852	7	10605114	Y	46793	I t can be used to convert the temperature becuase it is how the people that invented temperature converted it.																				
+115	AI-XC	20131119122054	500	500	W			F	864159	7	10605118	Y	46793	yes because all you have to do to it is add sudtract or times or divid.																				
+116	AI-XC	20131119122054	500	500	W		Y	M	864463	7	10605123	Y	46793	yes 1.8 is the decimal equivalent of 9/5																				
+117	AI-XC	20131119122054	500	500	H	N	N	M	865459	7	10605127	Y	46793	yes becouse a decimal could be use in fahrenheit																				
+118	AI-XC	20131119122054	500	500	H			F	865681	7	10605131	Y	46793	No because when you divide the equation my answer will be with a decimal and temperatures can come with decimal only positive and negative numbers.																				
+119	AI-XC	20131119122054	500	500	NR			M	867152	7	10605135	Y	46793	yes, because 9/5 converted to a decimal is 1.8																				
+120	AI-XC	20131119122054	500	500	W	N	N	M	867559	7	10605139	Y	46793	P.S. I'd rather fill in bubbles																				
+121	AI-XC	20131119122054	500	500	B	N	N	M	867598	7	10605143	Y	46793	It's incorrect because 1.8C doesnt equal farrnhit.																				
+122	AI-XC	20131119122054	500	500	H	N	N	F	867599	7	10605147	Y	46793	i think yes because 1.8 can be a fraction if you convert it to an improper fraction.																				
+123	AI-XC	20131119122054	500	500	W	N	N	F	867727	7	10605150	Y	46793	no because its not the right format or converted correctly.																				
+124	AI-XC	20131119122054	500	500	H	N	Y	M	867961	7	10605154	Y	46793	RISIN UP BACK ON THE STREETS DID MY TIME TOOK MY CHANCES WENT THE DISTANCE NOW IM BACK ON MY FEET JUST A MAN WITH A WILL TO SURVIE SO MAY TIME I THAR RKG N																				
+125	AI-XC	20131119122054	500	500	H			M	868071	7	10605158	Y	46793	32																				
+126	AI-XC	20131119122054	500	500	H	N	N	F	868087	7	10605162	Y	46793	it cannot accuratley convernt tempertures because the decimal is the wrong place.																				
+127	AI-XC	20131119122054	500	500	H	N	Y	M	869704	7	10605164	Y	46793	7898779																				
+128	AI-XC	20131119122054	500	500	NR			F	870286	7	10605168	Y	46793	no because when you divide the fract 9/5 out it doesnt come to an even 1.8 it comes out to be something way less than that.																				
+129	AI-XC	20131119122054	500	500	NR			M	870431	7	10605172	Y	46793	Yes because it emds up as a convert temperature.																				
+130	AI-XC	20131119122054	500	500	H	N	Y	M	870554	7	10605176	Y	46793	324																				
+131	AI-XC	20131119122054	500	500	NR			F	870787	7	10605180	Y	46793	No, 1.8 isn't the same as 9 over 5.																				
+132	AI-XC	20131119122054	500	500	H	N	N	M	870868	7	10605186	Y	46793	yes it converts through dividing and changing to positive or negative																				
+133	AI-XC	20131119122054	500	500	H	Y	N	M	871014	7	10605190	Y	46793	to know what tempeture is in fahreheit																				
+134	AI-XC	20131119122054	500	500	H	N	N	F	871021	7	10605194	Y	46793	Yes,because this an equation and you can plug things in.																				
+135	AI-XC	20131119122054	500	500	W			F	871601	7	10605198	Y	46793	The equation F = 1.8C + 32 can be used accurately to convert temperatures. This is becuase 32 is what you use in convertions of temperature while 1.8C makes it so you can convert something.																				
+136	AI-XC	20131119122054	500	500	B	N	N	M	873155	7	10605202	Y	46793	wefweewfwefwefwef																				
+137	AI-XC	20131119122054	500	500	W	N	N	F	873290	7	10605206	Y	46793	38456																				
+138	AI-XC	20131119122054	500	500	W	N	N	F	873712	7	10605210	Y	46793	No because 9/5 is egual to 1.2 not 1.8 so you would get a higher number using 1.8																				
+139	AI-XC	20131119122054	500	500	W	N	N	M	874182	7	10605214	Y	46793	Yes, because the 32 is the freezing point of water in degrees Fahrenheit.																				
+140	AI-XC	20131119122054	500	500	NR			M	874376	7	10605217	Y	46793	No because the equation don't make sense.																				
+141	AI-XC	20131119122054	500	500	B	N	N	F	874610	7	10605221	Y	46793	no because there is a decimal point																				
+142	AI-XC	20131119122054	500	500	NR			M	874859	7	10605224	Y	46793	No because you have to have a fraction.																				
+143	AI-XC	20131119122054	500	500	W	N	N	M	875413	7	10605227	Y	46793	yes because it equels what farehit would be																				
+144	AI-XC	20131119122054	500	500	H	N	N	F	875728	7	10605231	Y	46793	no																				
+145	AI-XC	20131119122054	500	500	NR			F	875861	7	10605236	Y	46793	No, Because of the way they set the problem up wrong.																				
+146	AI-XC	20131119122054	500	500	W	N	N	M	876101	7	10605240	Y	46793	Yes,because it's still the same thing just as a decimal																				
+147	AI-XC	20131119122054	500	500	W	Y	N	M	876140	7	10605245	Y	46793	no because  the equation used to convert temperatures is F=9.5C+32																				
+148	AI-XC	20131119122054	500	500	W	N	N	F	876453	7	10605249	Y	46793	yes because 1.8 is the smae thing as 9/5.																				
+149	AI-XC	20131119122054	500	500	H	N	Y	M	876654	7	10605253	Y	46793	it may be possible but it is not 100% accurate																				
+150	AI-XC	20131119122054	500	500	H		N	M	876668	7	10605257	Y	46793	no,because decimals cannot be used to convert celcius to farenheight so there fore this equation  is in accurtae																				
+151	AI-XC	20131119122054	500	500	H	N	Y	F	876719	7	10605261	Y	46793	yes i belive it can beacuse its put together the same way.																				
+152	AI-XC	20131119122054	500	500	H	N	Y	M	876842	7	10605263	Y	46793	no																				
+153	AI-XC	20131119122054	500	500	NR	N	N	F	877739	7	10605267	Y	46793	yes because the formula is set up right																				
+154	AI-XC	20131119122054	500	500	NR	N	N	F	877749	7	10605269	Y	46793	2.32.																				
+155	AI-XC	20131119122054	500	500	H	N	Y	M	877779	7	10605272	Y	46793	k																				
+156	AI-XC	20131119122054	500	500	NR			M	877807	7	10605275	Y	46793	no because it needs the fraction to work or else is a really off number.																				
+157	AI-XC	20131119122054	500	500	W	Y	N	F	877927	7	10605278	Y	46793	why not because there is a deicemal in celsius number so  it can not be found out																				
+158	AI-XC	20131119122054	500	500	W	N	N	M	878123	7	10605281	Y	46793	No, because 1.8 cant be converted to a whole number.																				
+159	AI-XC	20131119122054	500	500	NR	N	N	F	878181	7	10605284	Y	46793	Yes. Because if you divide 5/9 you get 1.8 and thats the decimal form.																				
+160	AI-XC	20131119122054	500	500	H	N	Y	F	878238	7	10605286	Y	46793	no because the number is to high to convert temperatures																				
+161	AI-XC	20131119122054	500	500	NR			F	878480	7	10605338	Y	46793	well 1.8 isnt the same as 9/5 because onwe is an inproper fraction.																				
+162	AI-XC	20131119122054	500	500	H			M	878562	7	10605342	Y	46793	yes, because its converting fahrenheit to celsius																				
+163	AI-XC	20131119122054	500	500	NR			F	878663	7	10605345	Y	46793	khfrsexfvhll,,,,,,,,,																				
+164	AI-XC	20131119122054	500	500	NR			M	878664	7	10605349	Y	46793	i have no idea																				
+165	AI-XC	20131119122054	500	500	NR	N	N	M	878746	7	10605352	Y	46793	no																				
+166	AI-XC	20131119122054	500	500	W	N	N	M	879019	7	10605355	Y	46793	no it can not																				
+167	AI-XC	20131119122054	500	500	W	N	N	M	879280	7	10605358	Y	46793	33.8c																				
+168	AI-XC	20131119122054	500	500	W	N	N	M	879317	7	10605361	Y	46793	yes																				
+169	AI-XC	20131119122054	500	500	H			M	879377	7	10605363	Y	46793	no because 1.8c is not a even number for 32																				
+170	AI-XC	20131119122054	500	500	W			M	879591	7	10605366	Y	46793	Because ??																				
+171	AI-XC	20131119122054	500	500	W	N	N	F	879630	7	10605369	Y	46793	nujhgbgb																				
+172	AI-XC	20131119122054	500	500	NR			M	879715	7	10605372	Y	46793	Yes because 32 doesn't have a unit.																				
+173	AI-XC	20131119122054	500	500	NR			M	879719	7	10605375	Y	46793	56																				
+174	AI-XC	20131119122054	500	500	NR			M	879757	7	10605378	Y	46793	no you cant add 32 to1.8c																				
+175	AI-XC	20131119122054	500	500	NR			F	879762	7	10605380	Y	46793	no because they can not add because one has a c and the other number dosent.																				
+176	AI-XC	20131119122054	500	500	NR			M	879771	7	10605383	Y	46793	Yes because F and C are the same thing just swiched.																				
+177	AI-XC	20131119122054	500	500	NR	N	N	M	880234	7	10605386	Y	46793	yes because 9 divided by 5 is 1.8																				
+178	AI-XC	20131119122054	500	500	W			F	881437	7	10605389	Y	46793	i dont know																				
+179	AI-XC	20131119122054	500	500	H	Y		M	881556	7	10605392	Y	46793	Yes because both 9/5 and 1.8 are the same but different syntax. Therefor they can be use either way																				
+180	AI-XC	20131119122054	500	500	NR			F	882032	7	10605395	Y	46793	No, because you don't know what C is yet.																				
+181	AI-XC	20131119122054	500	500	NR			F	882295	7	10605398	Y	46793	No,because it doe not have the same equation to slove the problem.																				
+182	AI-XC	20131119122054	500	500	NR	Y		F	882340	7	10605400	Y	46793	Yes it can be. It has the degrees for celcius and the number thirty-two so all you would need to do is add it together.																				
+183	AI-XC	20131119122054	500	500	NR			F	882344	7	10605402	Y	46793	Yes because the 9/5 is the same as the new 1.8 so there for it is just a decimal instead of a fraction.																				
+184	AI-XC	20131119122054	500	500	W	N	N	M	882733	7	10605404	Y	46793	i dont know OF																				
+185	AI-XC	20131119122054	500	500	W	N	N	F	883073	7	10605406	Y	46793	yes because it is what the difference in tempertures is.																				
+186	AI-XC	20131119122054	500	500	W	N	N	M	883248	7	10605408	Y	46793	no it can not																				
+187	AI-XC	20131119122054	500	500	B	N	N	M	883288	7	10605410	Y	46793	9900																				
+188	AI-XC	20131119122054	500	500	NR			F	883306	7	10605412	Y	46793	no because 1.8 dont have nothing to do with it																				
+189	AI-XC	20131119122054	500	500	A	N	N	M	883545	7	10605414	Y	46793	jahil was here																				
+190	AI-XC	20131119122054	500	500	W	N	N	M	883689	7	10605416	Y	46793	ygnfbgcdygdgb																				
+191	AI-XC	20131119122054	500	500	NR			F	883739	7	10605418	Y	46793	Yes it can because it gets the same answer using 1.8 instead of 9/5																				
+192	AI-XC	20131119122054	500	500	NR			F	884064	7	10605420	Y	46793	Yes, because 1.8 is 9/5 as a decimal, therefore it would act as the same purpose.																				
+193	AI-XC	20131119122054	500	500	NR			M	884153	7	10605422	Y	46793	no because they all dont add up the same so the tempture would not be right																				
+194	AI-XC	20131119122054	500	500	W	N	N	M	884184	7	10605424	Y	46793	Yes it can because, 1.8 is equal to 9/5.																				
+195	AI-XC	20131119122054	500	500	NR			M	884192	7	10605426	Y	46793	nope																				
+196	AI-XC	20131119122054	500	500	W	N	N	F	884242	7	10605428	Y	46793	yes because 9/5 is 1.8 so its the same as doing 9/5																				
+197	AI-XC	20131119122054	500	500	W	Y	N	F	884598	7	10605430	Y	46793	yes it could because 1.8c + 32 is 1.32 for f has to be 1.32																				
+198	AI-XC	20131119122054	500	500	A	N	N	M	885355	7	10605432	Y	46793	No because you need to have a whole number inorder to convert perfectly and accuratly.																				
+199	AI-XC	20131119122054	500	500	W	N	N	F	885458	7	10605435	Y	46793	This equation can not be used accuratley to convert numbers because the digits that are being multiplyed by the variable, that number is a decimal. You can never be positive if the answer is correct in an equation if you use a decimal. Where if you use a fraction you can check if it is right and fractions are a lot easier to use in an equation like this where you are using fahrenheit and celsius.																				
+200	AI-XC	20131119122054	500	500	W	N	N	M	885462	7	10605438	Y	46793	yes beacuse f is equel to a number which is equel to nother number meaning that this test is hard																				
+201	AI-XC	20131119122054	500	500	W	N	N	F	886304	7	10605441	Y	46793	yes.																				
+202	AI-XC	20131119122054	500	500	A			M	887475	7	10605444	Y	46793	I DONT KNOW ???????????																				
+203	AI-XC	20131119122054	500	500	W	N	N	M	887745	7	10605447	Y	46793	idk																				
+204	AI-XC	20131119122054	500	500	W	N	Y	F	888468	7	10605450	Y	46793	one direction!!!																				
+205	AI-XC	20131119122054	500	500	NR			M	889470	7	10605453	Y	46793	1																				
+206	AI-XC	20131119122054	500	500	2	N	N	F	890268	7	10605456	Y	46793	Yes, because Fahrenheit and Celsius have a 32 degrees difference. So it should work...																				
+207	AI-XC	20131119122054	500	500	W	N	N	F	890884	7	10605459	Y	46793	Yes, because if converted to a fraction, 1.8 would equal 9/5.																				
+208	AI-XC	20131119122054	500	500	W	Y	N	M	891309	7	10605462	Y	46793	not the rigeh one																				
+209	AI-XC	20131119122054	500	500	W	N	N	M	891357	7	10605465	Y	46793	Yes because it will be right																				
+210	AI-XC	20131119122054	500	500	NR	N		M	891808	7	10605468	Y	46793	no																				
+211	AI-XC	20131119122054	500	500	W	N	N	M	892169	7	10605471	Y	46793	yes because  it is a degree																				
+212	AI-XC	20131119122054	500	500	H	Y	Y	M	893519	7	10605474	Y	46793	becuse...																				
+213	AI-XC	20131119122054	500	500	H	N	Y	M	893864	7	10605477	Y	46793	68																				
+214	AI-XC	20131119122054	500	500	W	N	N	M	895422	7	10605482	Y	46793	it is																				
+215	AI-XC	20131119122054	500	500	NR			F	897390	7	10605485	Y	46793	Yes, because its the proper formula for converting fahrnheit to celsius, I think, but I didnt learn it in math class and all this on the computer is very confusing.																				
+216	AI-XC	20131119122054	500	500	NR			M	897400	7	10605488	Y	46793	jgjgrlfyugerytertieroytiuerlaeirutylieeryiutgyeriluyelrteyiureytiuyriytlytiytiytieuyierytiryetyerityieruyrtieytiuuerytiuygiuhhhhgieriutyiuuty3ityioerytierytieyityerihyyihieriutyierughiueriug34iutyryiughelriutqhelriutyqlituyerioutyutirygvhfkgkjfghgughkjjghkshgkhgfdghfkhgksjdhgreiuyihittlereg gish is awewsomee tbkdbgsg																				
+217	AI-XC	20131119122054	500	500	B	N	N	F	899099	7	10605491	Y	46793	efbhe																				
+218	AI-XC	20131119122054	500	500	H	N	N	M	899237	7	10605494	Y	46793	No, because it is not a helpful equation.																				
+219	AI-XC	20131119122054	500	500	H	N	N	F	899509	7	10605497	Y	46793	because they work together																				
+220	AI-XC	20131119122054	500	500	H	N	N	F	899805	7	10605500	Y	46793	No, because the 1.8 has a decimal and you cant convert the numbers into different temperatures when it is a decimal. So therefore the equation     F= 1.8C + 32 cant be converted into a different temperature because it is a decimal.																				
+221	AI-XC	20131119122054	500	500	B	N	N	F	899806	7	10605504	Y	46793	yes																				
+222	AI-XC	20131119122054	500	500	W	N	N	M	901132	7	10605506	Y	46793	yes because F=9/5C+32 is the same as F=1.8C+32 it is that because 9/5=1.8																				
+223	AI-XC	20131119122054	500	500	W	N	N	M	901284	7	10605509	Y	46793	no because 1.8 is not equal to 9/5																				
+224	AI-XC	20131119122054	500	500	H	N	Y	F	901583	7	10605512	Y	46793	yes because, it shows a math equation witch would help get the awnser.																				
+225	AI-XC	20131119122054	500	500	H	N	N	M	901706	7	10605515	Y	46793	no because the problem has its saying f and c and it cant be both																				
+226	AI-XC	20131119122054	500	500	H	N	N	F	901815	7	10605518	Y	46793	4856867978070																				
+227	AI-XC	20131119122054	500	500	H	N	N	F	902299	7	10605521	Y	46793	Yes, because it makes the problem easier to solve.																				
+228	AI-XC	20131119122054	500	500	NR			M	902398	7	10605524	Y	46793	2.12c																				
+229	AI-XC	20131119122054	500	500	W		N	F	902500	7	10605527	Y	46793	No because if you multiply 1.8 times -15 it will give you -2.70 and when you add 32 to that it will give you a decimal answer.																				
+230	AI-XC	20131119122054	500	500	W	N	N	F	902581	7	10605530	Y	46793	No, many will come out a decimal where you then have to round.																				
+231	AI-XC	20131119122054	500	500	W		N	F	902632	7	10605532	Y	46793	Yes, this equation can be used to convert temperatures. 9/5 is equal to 1.8.																				
+232	AI-XC	20131119122054	500	500	H	N	N	M	902794	7	10605535	Y	46793	11891196																				
+233	AI-XC	20131119122054	500	500	B		N	F	902799	7	10605538	Y	46793	No because if you are trying to get your answer and you do the inverse operation you will not get the same answer as you did the first time.																				
+234	AI-XC	20131119122054	500	500	B	N		M	902844	7	10605541	Y	46793	yes because if you divide 9 by 5 you will get 1.8c add 1.8 in the problem instead of 9/5 get the same answer 5.0																				
+235	AI-XC	20131119122054	500	500	H	N	N	F	903006	7	10605544	Y	46793	1.7+0.1=1.8 c + 32=50f																				
+236	AI-XC	20131119122054	500	500	H	Y	Y	M	903051	7	10605547	Y	46793	no																				
+237	AI-XC	20131119122054	500	500	NR			M	903109	7	10605550	Y	46793	no because dose not add up to the right math equation																				
+238	AI-XC	20131119122054	500	500	W	N	N	F	903313	7	10605553	Y	46793	no, it wouldn' equal the same thing as the right equation would equal																				
+239	AI-XC	20131119122054	500	500	W	N	N	M	903416	7	10605556	Y	46793																					
+240	AI-XC	20131119122054	500	500	H	N	N	M	903460	7	10605559	Y	46793	No because you are not supose to use decimals in the formula.																				
+241	AI-XC	20131119122054	500	500	W	N	N	M	903528	7	10605562	Y	46793	it can it is just the same exact thing																				
+242	AI-XC	20131119122054	500	500	NR			F	903562	7	10605565	Y	46793	Yes, because 1.8 is the same thing as 9/5. So yes that would be an accurate way to show to equation.																				
+243	AI-XC	20131119122054	500	500	W	N	N	M	903599	7	10605568	Y	46793	yes because 1.8 is 9/5 as a decimal.																				
+244	AI-XC	20131119122054	500	500	W	N	N	F	903713	7	10605571	Y	46793	yes, because 1.8+32=50 so that can be 50*C																				
+245	AI-XC	20131119122054	500	500	W	N	N	M	903829	7	10605574	Y	46793	no becasue 9/5 does not equal 1.8																				
+246	AI-XC	20131119122054	500	500	A			M	903930	7	10605577	Y	46793	Yes because it shows how much temerature the hot or cold has risen or fallen.																				
+247	AI-XC	20131119122054	500	500	H			F	904020	7	10605580	Y	46793	yes, because 9/5 is equal to 1.8. So you can just switch 9/5 for 1.8.																				
+248	AI-XC	20131119122054	500	500	B			F	904101	7	10605583	Y	46793	yes because if the answer will want to be f than thats the temp																				
+249	AI-XC	20131119122054	500	500	H	N	N	M	904162	7	10605586	Y	46793																					
+250	AI-XC	20131119122054	500	500	W	Y	N	M	904531	7	10605590	Y	46793	33.8																				
+251	AI-XC	20131119122054	500	500	H	N	N	M	904533	7	10605593	Y	46793	idk																				
+252	AI-XC	20131119122054	500	500	H	N	N	M	904535	7	10605596	Y	46793	No, beacause of the celsius of the question																				
+253	AI-XC	20131119122054	500	500	H		Y	M	904621	7	10605598	Y	46793	33.8																				
+254	AI-XC	20131119122054	500	500	H	Y	N	M	904678	7	10605600	Y	46793	no																				
+255	AI-XC	20131119122054	500	500	2			M	904759	7	10605602	Y	46793	Yes it can be as long as change the dicemal to a number																				
+256	AI-XC	20131119122054	500	500	W	N	N	M	904855	7	10605604	Y	46793	This can not be used to convert temperatures because you can not use decimals.																				
+257	AI-XC	20131119122054	500	500	W	N	N	F	904916	7	10605606	Y	46793	no because it says so																				
+258	AI-XC	20131119122054	500	500	W	N	N	F	904921	7	10605608	Y	46793	My milkshake brings all the boys to the yard																				
+259	AI-XC	20131119122054	500	500	NR			M	904943	7	10605610	Y	46793	Yes, because 1.8 is equvilent to the fraction 9 over 5.																				
+260	AI-XC	20131119122054	500	500	W	N	N	F	905150	7	10605612	Y	46793	NO,BECAUSE YOU JUST NEED NUMBERS AND NOT AN EQUSATION TO FIND THE TEMPRATURS. *NOT F=1.8C+32																				
+261	AI-XC	20131119122054	500	500	W	N	N	M	905342	7	10605614	Y	46793	yes																				
+262	AI-XC	20131119122054	500	500	W	N	N	M	905873	7	10605616	Y	46793	yes because 1.8 is = to 9/5.																				
+263	AI-XC	20131119122054	500	500	A	N	N	M	905900	7	10605618	Y	46793	no, because the equation is not acurate to find fahrenheit																				
+264	AI-XC	20131119122054	500	500	W	Y	N	M	905917	7	10605620	Y	46793	yes  just  add them																				
+265	AI-XC	20131119122054	500	500	W	N	N	M	906019	7	10605622	Y	46793	It can, because 1.8C is equivelent to 9/5C																				
+266	AI-XC	20131119122054	500	500	NR			M	906046	7	10605625	Y	46793	awww																				
+267	AI-XC	20131119122054	500	500	B	N	N	M	906050	7	10605628	Y	46793	no, because it's not aprroximate enough																				
+268	AI-XC	20131119122054	500	500	H	N	Y	M	906247	7	10605631	Y	46793	no cuz 1.8 is a decimal																				
+269	AI-XC	20131119122054	500	500	B	N	N	M	906411	7	10605634	Y	46793	yes it can because the equsation is useing the celsius number and turning it into a fraction to make the equation make sence so the answer can be easier to figure out only if you know how to add fraction and convert a whole number into a fraction																				
+270	AI-XC	20131119122054	500	500	NR			F	906566	7	10605637	Y	46793	I do not think so because if u have decimal temperatures it would be hard to convert those numbers to get it farenheit.																				
+271	AI-XC	20131119122054	500	500	P			M	906590	7	10605640	Y	46793	yes because can																				
+272	AI-XC	20131119122054	500	500	I	Y		F	906679	7	10605643	Y	46793	yes it can																				
+273	AI-XC	20131119122054	500	500	H	N	N	F	906924	7	10605646	Y	46793	yes it can causethe celsius is in the right amout as the problem given																				
+274	AI-XC	20131119122054	500	500	H	N	N	F	907241	7	10605649	Y	46793	yes it can be converted becaues if you put it in to a fraction you can use it																				
+275	AI-XC	20131119122054	500	500	H	N	Y	M	907246	7	10605652	Y	46793	yes because it is not hard to do this because i was talt by my teacher																				
+276	AI-XC	20131119122054	500	500	W	N	N	F	907330	7	10605655	Y	46793	Well to me yes, because the way i worked out my problem before this it helped alot...																				
+277	AI-XC	20131119122054	500	500	W			M	907439	7	10605658	Y	46793	I dont know																				
+278	AI-XC	20131119122054	500	500	NR	N	N	M	907452	7	10605661	Y	46793	Yes because 9/5 is equivalent to 1.8																				
+279	AI-XC	20131119122054	500	500	NR			F	907617	7	10605664	Y	46793	I dont know																				
+280	AI-XC	20131119122054	500	500	B	N	N	F	907803	7	10605667	Y	46793	No the formula F = 1.8C + 32 can not be used because in order for us to get an accurate answer we must use the formula F=9/5C+32. 1.8 is not equivelant to 9/5. Also to prove that this formula does not work i tried on my previous problem and compared the answers using the two formulas. The answer for the two were different. So therefore I am asuming that this formnula IS WRONG.																				
+281	AI-XC	20131119122054	500	500	W	N	N	M	907883	7	10605670	Y	46793	dont know																				
+282	AI-XC	20131119122054	500	500	W	N	N	M	907884	7	10605673	Y	46793	sdf																				
+283	AI-XC	20131119122054	500	500	W	N	N	F	908060	7	10605676	Y	46793	yes becaues 1.8 and9/5 are equil																				
+284	AI-XC	20131119122054	500	500	NR	N	N	M	908116	7	10605679	Y	46793	no becouse they dont equal out																				
+285	AI-XC	20131119122054	500	500	W		N	F	908190	7	10605682	Y	46793	Yes, because 1.8 is equal to 9/5. It is basically the same equation just wrote a little differently. Because you still multiply by 1.8 or 9/5 and add on 32, you will get the same answer.																				
+286	AI-XC	20131119122054	500	500	B			F	908596	7	10605685	Y	46793	No because it is not a fraction.																				
+287	AI-XC	20131119122054	500	500	NR			M	908707	7	10605688	Y	46793	Yes, it is the same as the fraction 9/5.																				
+288	AI-XC	20131119122054	500	500	B		N	F	908755	7	10605691	Y	46793	yes																				
+289	AI-XC	20131119122054	500	500	H	N	N	F	908854	7	10605694	Y	46793	"No, because the ""F= 1.8"" has to have a litlte bit of a higher number so it could be close to 32."																				
+290	AI-XC	20131119122054	500	500	NR			F	908935	7	10605697	Y	46793	Yes																				
+291	AI-XC	20131119122054	500	500	NR	N	N	F	909006	7	10605700	Y	46793	Yes because 1.8 is the same thing as 9/5																				
+292	AI-XC	20131119122054	500	500	W	N	N	F	910286	7	10605703	Y	46793	yes becasuse you can convert farenheit to celcius and 9/5C+32 is used for farenheit too.																				
+293	AI-XC	20131119122054	500	500	W	N	N	M	911057	7	10605706	Y	46793	yes because by using the decimals you can figure out how many degrees C it will have.																				
+294	AI-XC	20131119122054	500	500	W			M	912351	7	10605709	Y	46793	Yes because 9/5 is equal to 180% or 1.8 in decimal form.																				
+295	AI-XC	20131119122054	500	500	W	Y	N	M	912428	7	10605712	Y	46793	15*2																				
+296	AI-XC	20131119122054	500	500	W	N	N	F	912790	7	10605715	Y	46793	yes because you can change the temerature by useing the formula.																				
+297	AI-XC	20131119122054	500	500	B	N	N	M	912837	7	10605718	Y	46793	Yes because they have to be added and then you got your answer.																				
+298	AI-XC	20131119122054	500	500	W	Y	N	M	914480	7	10605721	Y	46793	yes becaues its the same  sequins but in desimal.																				
+299	AI-XC	20131119122054	500	500	NR			F	915644	7	10605724	Y	46793	yes because 1.8 is equal to 9/5																				
+300	AI-XC	20131119122054	500	500	W	N	N	M	915888	7	10605727	Y	46793	no there wrong numbers																				
+301	AI-XC	20131119122054	500	500	NR			F	918447	7	10605730	Y	46793	no because its not the same formula																				
+302	AI-XC	20131119122054	500	500	NR			F	918510	7	10605734	Y	46793	Yes, because 1.8 is the same as 9/5 but it is just put into a decimal instead of a fraction. So if you were to  use that equation you would get the same outcome as F= 9/5C+32.																				
+303	AI-XC	20131119122054	500	500	NR			F	918600	7	10605736	Y	46793	because its an estament its not completlacurate																				
+304	AI-XC	20131119122054	500	500	W		N	M	919189	7	10605739	Y	46793	No, because it is not 9/5ths																				
+305	AI-XC	20131119122054	500	500	W		N	M	919370	7	10605741	Y	46793	its is about 30 degrees F wich is like the freezing piont of water or whatever. Thats how i remember it.																				
+306	AI-XC	20131119122054	500	500	W		N	F	919415	7	10605743	Y	46793	No, because 1.8 is not the same as the fraction used to convert.																				
+307	AI-XC	20131119122054	500	500	NR			F	920152	7	10605745	Y	46793	yes because 9/5 is an improper fraction an if its converted into a proper fraction and then into a decimal it equals 1.8.																				
+308	AI-XC	20131119122054	500	500	W	N	N	M	920512	7	10605747	Y	46793	yes it can be used accurately. Why? Because 9/5 can be converted to 1.8, so yes it can convert tempuratures.																				
+309	AI-XC	20131119122054	500	500	H	N	Y	M	922094	7	10605750	Y	46793	no because its celsius and fahrenheit they dont maTCH TOGETHER																				
+310	AI-XC	20131119122054	500	500	B	N	N	F	922342	7	10605753	Y	46793	Yes because you can figure out what c equals then that is when you get to convert the temperatures																				
+311	AI-XC	20131119122054	500	500	NR			F	922403	7	10605755	Y	46793	Yes, it can be converted into tempatures because it obviously can c=																				
+312	AI-XC	20131119122054	500	500	W	N	N	F	922423	7	10605757	Y	46793	No, Because the 9/5 dosen't make sense and it was very difficult to anwser the quetions using this formula becuase it was not very easy to understang what to do.																				
+313	AI-XC	20131119122054	500	500	H	N	N	F	922462	7	10605759	Y	46793	No																				
+314	AI-XC	20131119122054	500	500	W			M	922470	7	10605761	Y	46793	yes it can  because it would be more accurate for many people.																				
+315	AI-XC	20131119122054	500	500	NR			F	922978	7	10605763	Y	46793	yes, because you cna multiply the numbers together and get a degrees in farenheight.																				
+316	AI-XC	20131119122054	500	500	W	N	N	M	923048	7	10605766	Y	46793	This conversion for Fahrenheit to Celsius can be accurately used seeing as 1.8 is equivalent to the fraction 9/5.																				
+317	AI-XC	20131119122054	500	500	W	Y	N	M	923072	7	10605768	Y	46793	no																				
+318	AI-XC	20131119122054	500	500	W	N	N	M	923087	7	10605770	Y	46793	Yes, because 1.8 is 9 over 5 turned into a decimal.																				
+319	AI-XC	20131119122054	500	500	W			F	923305	7	10605773	Y	46793	Yes, because, 9 over 5 is equal to 1 and 4 over 5. And when you take and times the 4 and the 5 by 2, the 4 becomes an 8 and the 5 becomes a 10. And 8 over 10 in decimal form is equal to .80 or .8. And if you add the whole back on to the equation it would be equal to 1.8																				
+320	AI-XC	20131119122054	500	500	W	N	N	M	923433	7	10605775	Y	46793	No it can not because we do not know what c means in 1.8c																				
+321	AI-XC	20131119122054	500	500	H	N	Y	M	923560	7	10605794	Y	46793	No because 32 has no fahrenheit																				
+322	AI-XC	20131119122054	500	500	W	N	N	M	924776	7	10605796	Y	46793	Yes it can because the formula says to divide 9 over 5. When you solve that it does come out to equal 1.8. The formula also says to add 32 to 1.8 and if you do those steps you will come out with the right answer.																				
+323	AI-XC	20131119122054	500	500	A	N	N	M	925099	7	10605799	Y	46793	yes																				
+324	AI-XC	20131119122054	500	500	H	N	N	M	925414	7	10605800	Y	46793	Yes. Because 1.8 as a fraction is 8 over 10 which is equal to 1 and 4 over 5, which is 9 over 5.																				
+325	AI-XC	20131119122054	500	500	H	N	N	M	925419	7	10605802	Y	46793	No it can't because you can't divide 1.8 from 32 because it will not be a whole number.																				
+326	AI-XC	20131119122054	500	500	H	N	Y	F	925481	7	10605804	Y	46793	the equation can't be accurately convert to the tempature because its in celsius and isn't represented into degrees																				
+327	AI-XC	20131119122054	500	500	W	N	N	M	926484	7	10605806	Y	46793	Yes, because one and 1.8 is equal to one and four-fifths and add 32 because fahrenheit's freezing temperature in 32 degrees fahrenheit.																				
+328	AI-XC	20131119122054	500	500	W	N	N	F	926741	7	10605808	Y	46793	Yes, because it gives you how to solve the problem. The only thing you have to find is what the temputure is in Celsius.																				
+329	AI-XC	20131119122054	500	500	H	N	Y	M	927101	7	10605810	Y	46793	yes because you could subtract it																				
+330	AI-XC	20131119122054	500	500	H	N	N	F	927282	7	10605812	Y	46793	Yes, because if u divide 9/5 into a decimal, it becomes 1.8.																				
+331	AI-XC	20131119122054	500	500	H	N	Y	F	927292	7	10605814	Y	46793	i dont know how to do any of this !																				
+332	AI-XC	20131119122054	500	500	H	N	N	F	927363	7	10605816	Y	46793	because one of the questions doesnt have the letter c																				
+333	AI-XC	20131119122054	500	500	W	N	N	M	927699	7	10605818	Y	46793	fgrr																				
+334	AI-XC	20131119122054	500	500	W		N	F	927918	7	10605820	Y	46793	yes because it is a way to get the answer and the two ways shown both have an answer of 32																				
+335	AI-XC	20131119122054	500	500	H	N	Y	F	928264	7	10605822	Y	46793	33.8																				
+336	AI-XC	20131119122054	500	500	W		Y	M	928376	7	10605824	Y	46793	Yes, because 9/5= 1.8																				
+337	AI-XC	20131119122054	500	500	H	N	Y	M	928789	7	10605825	Y	46793	yes becase it is 9/5 in decimal from.																				
+338	AI-XC	20131119122054	500	500	NR			M	928825	7	10605826	Y	46793	no because the eqaution has to be exact although that may work on another problem																				
+339	AI-XC	20131119122054	500	500	H	N	Y	M	928893	7	10605827	Y	46793	yes,because its big																				
+340	AI-XC	20131119122054	500	500	H	N	N	M	929183	7	10605828	Y	46793	IT CANT BECAUSE IT JUST CANT																				
+341	AI-XC	20131119122054	500	500	A	N	N	F	929227	7	10605829	Y	46793	The reson why F= 1.8C + 32 is not acurrate because 9/5 is not equal to 1.8																				
+342	AI-XC	20131119122054	500	500	H	N	Y	M	929695	7	10605830	Y	46793	f .																				
+343	AI-XC	20131119122054	500	500	H	N	Y	M	929758	7	10605831	Y	46793	yes because 1.8C is like nine-fiths but just in a decamel																				
+344	AI-XC	20131119122054	500	500	H	N	Y	M	929760	7	10605832	Y	46793	yes																				
+345	AI-XC	20131119122054	500	500	H	N	N	M	929786	7	10605833	Y	46793	gfretear 4																				
+346	AI-XC	20131119122054	500	500	H	N	N	M	929818	7	10605834	Y	46793	yes																				
+347	AI-XC	20131119122054	500	500	H	N	N	M	929976	7	10605835	Y	46793	Yes because it can.																				
+348	AI-XC	20131119122054	500	500	NR			M	930246	7	10605836	Y	46793	yes because 9 5ths equals 1.8																				
+349	AI-XC	20131119122054	500	500	NR			M	930319	7	10605837	Y	46793	i have no idea but im geussing no																				
+350	AI-XC	20131119122054	500	500	NR			F	930347	7	10605838	Y	46793	yes																				
+351	AI-XC	20131119122054	500	500	NR			F	930376	7	10605839	Y	46793	yes because in the example it is a whole number + a fraction																				
+352	AI-XC	20131119122054	500	500	B	N	N	F	930571	7	10605840	Y	46793	no because that is not the correct formula																				
+353	AI-XC	20131119122054	500	500	B	Y	N	F	930625	7	10605841	Y	46793	yes the equation can be like that because thats how you solve it.																				
+354	AI-XC	20131119122054	500	500	B	N	N	M	931992	7	10605843	Y	46793	yes																				
+355	AI-XC	20131119122054	500	500	NR			F	932769	7	10605845	Y	46793	it cant because you dont know what the other veraible is for 32 so you wont know if you it has to be celsius or hafrenheit.																				
+356	AI-XC	20131119122054	500	500	H		N	M	932927	7	10605847	Y	46793	0r2rj0r8jrwije20 jb'[ojpijbuvgjckutdfigugu r0hj208 3																				
+357	AI-XC	20131119122054	500	500	W	N	N	F	933458	7	10605849	Y	46793	yes 1.8c is equal to 9/5																				
+358	AI-XC	20131119122054	500	500	W	Y	N	M	933469	7	10605851	Y	46793	yes they can use togather in accurately convert temperatures																				
+359	AI-XC	20131119122054	500	500	NR			F	933622	7	10605853	Y	46793	Yes because it's about the same way as the equation I just did at the top.																				
+360	AI-XC	20131119122054	500	500	NR	Y		M	933717	7	10605855	Y	46793	46																				
+361	AI-XC	20131119122054	500	500	H	N	Y	F	933774	7	10605857	Y	46793	yes																				
+362	AI-XC	20131119122054	500	500	H	Y	N	M	933788	7	10605859	Y	46793	145+685																				
+363	AI-XC	20131119122054	500	500	NR			F	933862	7	10605861	Y	46793	NO BECAUSE THE NUMBERS DON'T MATCH UP																				
+364	AI-XC	20131119122054	500	500	W	Y	N	F	933867	7	10605863	Y	46793	no there is no desmils in temperatures																				
+365	AI-XC	20131119122054	500	500	W	Y	N	M	935694	7	10605865	Y	46793	no it can not																				
+366	AI-XC	20131119122054	500	500	H	N	N	F	935948	7	10605867	Y	46793	i dont know i am geussing																				
+367	AI-XC	20131119122054	500	500	W	N	N	F	935985	7	10605869	Y	46793	Yes. It is an equation that works.																				
+368	AI-XC	20131119122054	500	500	NR	N	N	M	936126	7	10605871	Y	46793	Yes becuse its the same thing as 9/5 + 32																				
+369	AI-XC	20131119122054	500	500	W	N	N	M	936224	7	10605873	Y	46793	no because it has a decimal.																				
+370	AI-XC	20131119122054	500	500	NR			F	936370	7	10605875	Y	46793	yes you can use the formula to solve what the fahrenheit is.																				
+371	AI-XC	20131119122054	500	500	W		N	M	936570	7	10605877	Y	46793	yes because 1.8 is equivalent to 9/5																				
+372	AI-XC	20131119122054	500	500	W	N	N	M	937222	7	10605879	Y	46793	no, because if you use -15 as C then you will get the answer 15 and when you use the correct formula you would get 8																				
+373	AI-XC	20131119122054	500	500	W	N	N	M	937784	7	10605881	Y	46793	F=1.8C+32 can be acureatly used to convert fahenheit to Celsius																				
+374	AI-XC	20131119122054	500	500	NR			F	937854	7	10605883	Y	46793	No, because 1.8 does not go into 32.																				
+375	AI-XC	20131119122054	500	500	NR			M	937880	7	10605885	Y	46793	Yes, because 1.8 is the same as 9/5																				
+376	AI-XC	20131119122054	500	500	B	N	N	F	938052	7	10605887	Y	46793	yes because it is the same as the other one																				
+377	AI-XC	20131119122054	500	500	B	N	N	F	938054	7	10605889	Y	46793	yes because all you have to do is just convert the decimal to an whole number then add it.																				
+378	AI-XC	20131119122054	500	500	W	N	N	M	938089	7	10605891	Y	46793	No becaues that formula is not accurate and may confuse others if not talt right.																				
+379	AI-XC	20131119122054	500	500	B			M	938217	7	10605893	Y	46793	mx xlis nssisnn s[sdi nsbsid did kd																				
+380	AI-XC	20131119122054	500	500	NR			M	939623	7	10605895	Y	46793	yes because it is the correct method for doing so																				
+381	AI-XC	20131119122054	500	500	NR			M	939799	7	10605897	Y	46793	no becuase it isnt the right way to figure out the equation above this short answer :)																				
+382	AI-XC	20131119122054	500	500	NR			M	940243	7	10605899	Y	46793	no, it has to be 2.2C or it will not work because 1.8 isn't equal to 9/5.																				
+383	AI-XC	20131119122054	500	500	P	N	N	M	940669	7	10605901	Y	46793	This equation could be used accurately, because as it said in the beginning you have to add 32 degrees to get your temperture from Celsius to Fahrenheit.																				
+384	AI-XC	20131119122054	500	500	W	N	N	F	941559	7	10605903	Y	46793	i honestley don't know if it is acurateely converted tempertures but with the mulitipling of celcius and 1.8... i stll don't know																				
+385	AI-XC	20131119122054	500	500	W	N	N	F	941866	7	10605905	Y	46793	No it can not be used acurtley because you dont know what c equals.																				
+386	AI-XC	20131119122054	500	500	B	N	N	F	943211	7	10605907	Y	46793	Yes, 1.8 is just the decimal version of the fraction 9/5.																				
+387	AI-XC	20131119122054	500	500	W	N	N	F	944114	7	10605909	Y	46793	Yes because 9/5 is equivalent to 1.8. The equation can be completed accurately using 1.8.																				
+388	AI-XC	20131119122054	500	500	NR			M	946841	7	10605911	Y	46793	No because it doesnt give us all the information.																				
+389	AI-XC	20131119122054	500	500	B	N	N	F	946908	7	10605913	Y	46793	no because it is not the right temperature																				
+390	AI-XC	20131119122054	500	500	NR			M	949443	7	10605915	Y	46793	no it needs to be 95 because i will be wrong if you use 1.8.																				
+391	AI-XC	20131119122054	500	500	B	N	N	M	951653	7	10605917	Y	46793	it is because it is c																				
+392	AI-XC	20131119122054	500	500	W	N	N	F	952336	7	10605919	Y	46793	yes, because for every 1.8 degrees celcius, there is one degree fahrenheit																				
+393	AI-XC	20131119122054	500	500	W	N	N	M	952530	7	10605921	Y	46793																					
+394	AI-XC	20131119122054	500	500	NR			F	952800	7	10605923	Y	46793	The F=1.8C + 32 cannot be used in the order as it is because F dose not equal 1.8C it would equal 1.40 that is what it would equalbecause you have to add the equevolent fractions as it would be already the number says + no - so if there is a minus there would be more see{-F=1.8C - 32 minus we subbtracted from the number that was before that 1.8C - 32 would be you couldnt subbtracte from  1.8 no waay soyou would add thats why i agree...																				
+395	AI-XC	20131119122054	500	500	H	Y	Y	M	953049	7	10605925	Y	46793	no because they wont match with the number																				
+396	AI-XC	20131119122054	500	500	W	N	N	F	953517	7	10605927	Y	46793	Yes, because 9/5 is equal to 1.8.																				
+397	AI-XC	20131119122054	500	500	W	N	N	F	953567	7	10605929	Y	46793	no because,they could be writting the wrong numbers or even the person dosent fully understand the equation																				
+398	AI-XC	20131119122054	500	500	NR			F	954327	7	10605931	Y	46793	no, it would have to be 9 over 5 divided by c-32																				
+399	AI-XC	20131119122054	500	500	P	N	Y	F	954393	7	10605933	Y	46793	yes, because it follows the formula used to accuratly find the fahrenheit.																				
+400	AI-XC	20131119122054	500	500	W	N	N	F	954663	7	10605935	Y	46793	Yes, because once  you addd them up it will have a whole number and a decimal ora fraction. So it comes out accurate.																				
+401	AI-XC	20131119122054	500	500	H	N	N	F	954665	7	10605937	Y	46793	The equation can be used to convert temperatures because 1.8 is the decimal of 9/5.																				
+402	AI-XC	20131119122054	500	500	W	N		M	956391	7	10605939	Y	46793	It can not be used to accurately to convert questions because I have no idea what it means.																				
+403	AI-XC	20131119122054	500	500	NR			F	957341	7	10605941	Y	46793	yes cause you add 32.																				
+404	AI-XC	20131119122054	500	500	H	N	Y	F	959554	7	10605943	Y	46793	yes!!  cause the right answer comes out!!! (idk)																				
+405	AI-XC	20131119122054	500	500	H	N	Y	F	959618	7	10605945	Y	46793	no because it wouldn't be accurate																				
+406	AI-XC	20131119122054	500	500	NR			M	960098	7	10605947	Y	46793	no																				
+407	AI-XC	20131119122054	500	500	NR			M	960101	7	10605949	Y	46793	the shkowdslf stay the same beccashseuy of the ;high temp																				
+408	AI-XC	20131119122054	500	500	NR			M	960916	7	10605951	Y	46793	yes 1.8 is the same as 9/5																				
+409	AI-XC	20131119122054	500	500	W	N	N	F	961918	7	10605953	Y	46793	no because the equation can not be used accurately to convert temperatures																				
+410	AI-XC	20131119122054	500	500	H	N	N	M	962394	7	10605955	Y	46793	No, It will not be accurate because, it will be either equal or about.																				
+411	AI-XC	20131119122054	500	500	A	N	N	F	962564	7	10605957	Y	46793	no because the decimal does not match the fraction in the formula and it doesnt come out the same answer.																				
+412	AI-XC	20131119122054	500	500	W	N	N	F	962990	7	10605959	Y	46793	Yes, because if you multiply 1.8 with for example 40 it will equal 72 and if you add that with 32 it will equal 104 degrees. It is the same equation as in F= 9/5C + 32.																				
+413	AI-XC	20131119122054	500	500	A	N	N	F	963174	7	10605961	Y	46793	No because the answer I got from this equation does not equal the answer I got from the formula above. Also, the fraction 9/5 in the formula as a decimal does not equal 1.8 in the equation. That's why F=1.8c+32 cannot be used to accurately convert tempuratures.																				
+414	AI-XC	20131119122054	500	500	H	N	Y	M	963254	7	10605963	Y	46793	No, because it would not get the same answer as if you were adding F= 9 over 5 +32.																				
+415	AI-XC	20131119122054	500	500	W	N	N	M	963283	7	10605965	Y	46793	no, because you don't have the 9/5 part.																				
+416	AI-XC	20131119122054	500	500	H	N	N	M	963284	7	10605967	Y	46793																					
+417	AI-XC	20131119122054	500	500	B	N	N	M	963355	7	10605969	Y	46793	no it can not accurately be used to convert tempatures bescause the equation F=1.8C+32 is not equvilent to F=9/5C+32.																				
+418	AI-XC	20131119122054	500	500	A	N	N	F	963374	7	10605971	Y	46793	Yes, because the fraction 9/5 is equal to the decimal 1.8: 9/5=1 and 4/5, and 4/5 is equal to (0.8).																				
+419	AI-XC	20131119122054	500	500	NR			F	963534	7	10605973	Y	46793	fjgtityfk																				
+420	AI-XC	20131119122054	500	500	B			M	964714	7	10605975	Y	46793	1.40c																				
+421	AI-XC	20131119122054	500	500	W	N	N	F	964935	7	10605977	Y	46793	no because 1.8 does not equal 9/5																				
+422	AI-XC	20131119122054	500	500	NR			F	965063	7	10605979	Y	46793	8																				
+423	AI-XC	20131119122054	500	500	W	N	N	M	965077	7	10605981	Y	46793	i do not know that yet																				
+424	AI-XC	20131119122054	500	500	W	N	N	M	965165	7	10605983	Y	46793																					
+425	AI-XC	20131119122054	500	500	W	Y	N	M	965753	7	10605985	Y	46793	9																				
+426	AI-XC	20131119122054	500	500	H	N	Y	M	966126	7	10605987	Y	46793	NO BECAUSE NO ONE WOULD UNDERSTAND IT AND ITS NOT POSSIBLE.																				
+427	AI-XC	20131119122054	500	500	NR			M	966425	7	10605989	Y	46793	no, you should not add 32.																				
+428	AI-XC	20131119122054	500	500	W	Y	N	M	966599	7	10605991	Y	46793	20																				
+429	AI-XC	20131119122054	500	500	H	N	N	F	966997	7	10605993	Y	46793	no because i tried it with the orgin prob. and it didnt get the same awnser i originally got																				
+430	AI-XC	20131119122054	500	500	W	N	N	F	967010	7	10605995	Y	46793	fjkhgukryrjgh																				
+431	AI-XC	20131119122054	500	500	W	N	N	F	967626	7	10605997	Y	46793	Equation 1.8C cannot be used to convert temperatures, because to convert temperatures into Fahrenheit it has to be 9/5C.																				
+432	AI-XC	20131119122054	500	500	H		N	F	967693	7	10605999	Y	46793	47446.65																				
+433	AI-XC	20131119122054	500	500	W	N	N	F	967846	7	10606001	Y	46793	No, the equation F=1.8C+32 cannot be used to accuratly convert temperatures because it is not equal to 9\5.																				
+434	AI-XC	20131119122054	500	500	B	N	N	M	968765	7	10606003	Y	46793	I ?? ??because 1.8 is ?? ?? ?? 9/5???in celsius?																				
+435	AI-XC	20131119122054	500	500	W	N		M	973341	7	10606005	Y	46793	yes. because i think it can																				
+436	AI-XC	20131119122054	500	500	B	Y		F	980766	7	10606007	Y	46793	yes it can																				
+437	AI-XC	20131119122054	500	500	W			F	980998	7	10606009	Y	46793	5556																				
+438	AI-XC	20131119122054	500	500	B	N	N	M	981095	7	10606011	Y	46793	yes																				
+439	AI-XC	20131119122054	500	500	W	N	N	F	981105	7	10606014	Y	46793	32																				
+440	AI-XC	20131119122054	500	500	W	N	N	F	981156	7	10606016	Y	46793	Yes it can because if you make 9/5 a decimal that is equal to 1.8 and F= 1.8C +32 uses 1.8.																				
+441	AI-XC	20131119122054	500	500	W	N	N	F	981251	7	10606018	Y	46793	Yes because 1.8 is the same as 9/5, except in decimal form. If you use 1.8 instead of 9/5 you will get the same answer as you did using 9/5.																				
+442	AI-XC	20131119122054	500	500	W	Y	N	F	981673	7	10606020	Y	46793	yes because 1.8 is the same as 9/5																				
+443	AI-XC	20131119122054	500	500	A	N	N	F	983066	7	10606022	Y	46793	no because tempretures dont have numbers																				
+444	AI-XC	20131119122054	500	500	A	N	N	F	983122	7	10606024	Y	46793	Yes, the equation can be used to convert temperatures because if 9/5 is in a decimal form, it would be 1.8.																				
+445	AI-XC	20131119122054	500	500	W	N	N	M	983616	7	10606026	Y	46793	i																				
+446	AI-XC	20131119122054	500	500	I	Y	N	M	985051	7	10606028	Y	46793																					
+447	AI-XC	20131119122054	500	500	W	N	N	F	985405	7	10606030	Y	46793	Yes, because once you solve the equation F=1.8C+32, it comes out as 114 degrees instead of an irrational number.																				
+448	AI-XC	20131119122054	500	500	H	N	N	F	986815	7	10606032	Y	46793	yes, the equation F=1.8C+32 would accuratley convert temperatures, because 1.8 is the decimal form of the fraction 9/5.																				
+449	AI-XC	20131119122054	500	500	B	N		F	986907	7	10606034	Y	46793	Yes because 9/5 equal 1.8 so hence you will have the same answer.																				
+450	AI-XC	20131119122054	500	500	H	N	Y	F	987797	7	10606036	Y	46793	no beacuse 1.8c+32=2.12																				
+451	AI-XC	20131119122054	500	500	W	N	N	M	989935	7	10606038	Y	46793	yes, because 9/5 is equal to 1.8																				
+452	AI-XC	20131119122054	500	500	NR			F	992575	7	10606040	Y	46793	no becuase 1.8 is not equivalent to 9/5																				
+453	AI-XC	20131119122054	500	500	NR			M	992586	7	10606042	Y	46793	Yes, because nine divided by five is one and eight tenths.																				
+454	AI-XC	20131119122054	500	500	NR			M	992628	7	10606044	Y	46793	No, it would not be a soulution because you would go 9 divided by 5 and it would equal 1.08.																				
+455	AI-XC	20131119122054	500	500	B	N	N	F	994242	7	10606046	Y	46793																					
+456	AI-XC	20131119122054	500	500	W			M	994562	7	10606048	Y	46793	no it would have to be f=1.4c+32																				
+457	AI-XC	20131119122054	500	500	H	N	N	M	995563	7	10606050	Y	46793	I really,honestly dont have a clue if it can be used to accurately convert temperatures.																				
+458	AI-XC	20131119122054	500	500	W	N	N	M	996011	7	10606052	Y	46793	yes the the deimal will make it closer to the accurate convert.																				
+459	AI-XC	20131119122054	500	500	H	Y	N	M	996397	7	10606054	Y	46793	153																				
+460	AI-XC	20131119122054	500	500	W	N	N	M	996558	7	10606056	Y	46793	Yes because 9/5 converts to 1.8 so the new formula could be that.																				
+461	AI-XC	20131119122054	500	500	NR	Y	Y	M	996828	7	10606058	Y	46793	no because 1.8 is not = to 9/5																				
+462	AI-XC	20131119122054	500	500	H		N	M	997120	7	10606060	Y	46793	yes because 9/5 is the same as 1.8.																				
+463	AI-XC	20131119122054	500	500	W	N	N	M	997296	7	10606062	Y	46793	Yes, because 1.8 = 9/5. They are equal.																				
+464	AI-XC	20131119122054	500	500	NR			M	997633	7	10606064	Y	46793	jhfgkhgfyipiyt																				
+465	AI-XC	20131119122054	500	500	W	N	N	F	997798	7	10606066	Y	46793																					
+466	AI-XC	20131119122054	500	500	H	N	N	F	997867	7	10606068	Y	46793	Yes, because it shows an equation on how to Convert.Otherwise nine over five is just like division prolem in an order of operation.																				
+467	AI-XC	20131119122054	500	500	NR	N	N	M	997965	7	10606070	Y	46793	Yes, because it's true.																				
+468	AI-XC	20131119122054	500	500	NR			F	998037	7	10606072	Y	46793	i can not convert ovbisoly because the right and lefer are not equal to do it like a pro math is																				
+469	AI-XC	20131119122054	500	500	W			F	998062	7	10606074	Y	46793	I Think not because It's not a whole number so it will be very difficult.																				
+470	AI-XC	20131119122054	500	500	W	Y		F	998235	7	10606076	Y	46793	yes, because 32 is bigger than 1.8																				
+471	AI-XC	20131119122054	500	500	W			F	998264	7	10606078	Y	46793	yes because 1.8 is the same as nine fiths just in decimal form																				
+472	AI-XC	20131119122054	500	500	NR			M	1000882	7	10606080	Y	46793	no because u dont know the tempature for F																				
+473	AI-XC	20131119122054	500	500	H	N	N	F	1001219	7	10606082	Y	46793	Yes we can use 1.8 to accurately convert tempearatures because the fraction 9/5 chanes into 1.8. If you were to simplify it into a mixed number it would be 1 and 4/5, and 1 4/5 is 1.8 or 9/5																				
+474	AI-XC	20131119122054	500	500	NR			F	1001527	7	10606084	Y	46793	no																				
+475	AI-XC	20131119122054	500	500	P			F	1001918	7	10606086	Y	46793	No																				
+476	AI-XC	20131119122054	500	500	W	N	N	F	1002604	7	10606088	Y	46793	No because you will not get the same answer as you do with the original formula there for it is not correct or accurate																				
+477	AI-XC	20131119122054	500	500	P			F	1004149	7	10606090	Y	46793	It can becuase the faction 9/5 can also be 1 4/5 and 1.8 is the decimal of 1 4/5's fraction.																				
+478	AI-XC	20131119122054	500	500	W	N	N	F	1004543	7	10606092	Y	46793	I haven't learned this yet so I don't know.																				
+479	AI-XC	20131119122054	500	500	W		Y	F	1005017	7	10606094	Y	46793	yes becauswe its almost like the same thing but in decimals																				
+480	AI-XC	20131119122054	500	500	H	Y	N	F	1005136	7	10606096	Y	46793	no because the equation to the left is the only one you are able to use																				
+481	AI-XC	20131119122054	500	500	H	Y	N	F	1005333	7	10606125	Y	46793	no because its not possible.																				
+482	AI-XC	20131119122054	500	500	W	N	N	F	1005443	7	10606127	Y	46793	I believe that you can not accurately or evenly convert these temperatures because there is a decimal and most times when you have a decimal you cant convert eqautions evenly.																				
+483	AI-XC	20131119122054	500	500	H	N	N	M	1007034	7	10606129	Y	46793	yes because u can just add the number and the temperture will just go up and it gets warmer.																				
+484	AI-XC	20131119122054	500	500	NR	N	N	M	1007089	7	10606131	Y	46793	yes, beacause 9/5 is equivalent to 1.8																				
+485	AI-XC	20131119122054	500	500	A	N	N	F	1007197	7	10606133	Y	46793	Yes, Because 9/5 converted to a decimal equals 1.8																				
+486	AI-XC	20131119122054	500	500	W	N	N	M	1007202	7	10606134	Y	46793	Yes																				
+487	AI-XC	20131119122054	500	500	H		N	M	1007379	7	10606135	Y	46793	No, because it dosn't have to do the number five																				
+488	AI-XC	20131119122054	500	500	W	Y	N	M	1007638	7	10606136	Y	46793	i dont under stand this stuff																				
+489	AI-XC	20131119122054	500	500	H		Y	M	1007679	7	10606137	Y	46793	It could be used to convert temperatures because 1.8C is a kind of tempearature that can be used in degrees Fahrenheit.																				
+490	AI-XC	20131119122054	500	500	I		N	M	1007711	7	10606138	Y	46793	because 1.8 in C wont make it to 32 in fahrenheit																				
+491	AI-XC	20131119122054	500	500	NR	N	N	F	1007915	7	10606139	Y	46793	No.Without doing the math, one could tell that this is wrong because in degrees Celcius you add 32. If you added 32 to degrees Fahrenheit, you would have a much bigger than the answer.																				
+492	AI-XC	20131119122054	500	500	H			F	1008358	7	10606140	Y	46793	yes because 1.8 is the decimal form of 9/5																				
+493	AI-XC	20131119122054	500	500	H	N	N	M	1008978	7	10606141	Y	46793	no because i don't know																				
+494	AI-XC	20131119122054	500	500	W	N	N	F	1009235	7	10606142	Y	46793	Yes, because 9/5 is a repeating decimal...UNICORNS.																				
+495	AI-XC	20131119122054	500	500	W	N	N	M	1009236	7	10606143	Y	46793	"No, because it isnt the correct way of doing it.. When you look at the top it says, ""F = 9/5C + 32."""																				
+496	AI-XC	20131119122054	500	500	W	N	N	F	1010260	7	10606144	Y	46793	No because you would have to subtract the number 1.8-32 in order to get the accurate temperatures.																				
+497	AI-XC	20131119122054	500	500	H			F	1010756	7	10606146	Y	46793	i think yes !																				
+498	AI-XC	20131119122054	500	500	W	N		F	1013257	7	10606148	Y	46793	Yes, it can beacuse 1.8 is equal to 9/5																				
+499	AI-XC	20131119122054	500	500	B	N	N	M	1013372	7	10606150	Y	46793	Yes because F=32 ,so if you wanted to convert C to F you would add the given #of C by 32. So F= 1.8C + 32= 33.8.																				

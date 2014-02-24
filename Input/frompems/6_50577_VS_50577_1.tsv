@@ -1,0 +1,501 @@
+	AI_Prov_Name	File_Date	File_Count	Group_Count	Ethnicity	IEP	LEP	Gender	Ven_Stud_ID	Grade	Stud_Test_ID	Score_Flag	Item_ID	Item_Response	Final_Score	Data_Point	Read1_Date	Read1_ID	Read1_Score	Read1_Cond	Read2_Date	Read2_ID	Read2_Score	Read2_Cond	Read3_Date	Read3_ID	Read3_Score	Read3_Cond	Read5_Date	Read5_ID	Read5_Score	Read5_Cond	Alert_Code	Alert_ReaderID
+0	AI-XC	20131119122054	500	500	W	N	N	M	363633	6	10601991	Y	50577	"""Stephan may you make sure that Trixie has a good time while I'm away?"""																				
+1	AI-XC	20131119122054	500	500	NR			M	363651	6	10601993	Y	50577	"The sentence is:   He entered his brother room and asked,""Stefan will you make sure that Trixie has a good time while iI'm away""? Stefan put his book down and answered, ""I promise you, Trixie won't be bored!"" The correct way to write it is:  He entered his brother's room and asked,''Stefan will you make sure Trixie has a good time while I'm away?'' Stefan put down his book and answered,''I promise you, Trixie won't be bored!''"																				
+2	AI-XC	20131119122054	500	500	W	N	N	F	364606	6	10601995	Y	50577	Marcus knew he could not bring his dog Trixie, with him to camp.																				
+3	AI-XC	20131119122054	500	500	W	N	N	F	365667	6	10601997	Y	50577	"wrong way = ""Stefan will you make sure that Trixie has a good time while I'm away""? correct way = ""Stefan will you make sure that Trixie has a good time while im away?"""																				
+4	AI-XC	20131119122054	500	500	A	N	N	M	365671	6	10601999	Y	50577	in the story where it says, '' Stefan will you make sure Trixie has a good time while im away''? but the authors supposed to put the question mark before the quotes. The second one is that is it says ''He entered his brother room and asked, but its Brother's room.																				
+5	AI-XC	20131119122054	500	500	H	N	N	F	366269	6	10602001	Y	50577	He entered his brother room and asked Stefan will you make sure taht Trixie has a good time while I'm away.																				
+6	AI-XC	20131119122054	500	500	W	N	N	F	366270	6	10602002	Y	50577	"""stefan, will you make sure that Trixie has a good time when i'm away?"""																				
+7	AI-XC	20131119122054	500	500	2	N	N	M	366860	6	10602004	Y	50577	Stefan  put his book down and answered I promiseyou,trixie wont be bored''																				
+8	AI-XC	20131119122054	500	500	W	N	N	M	366914	6	10602006	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure Trixie has a good time while I'm away?"""																				
+9	AI-XC	20131119122054	500	500	W	N	N	F	366917	6	10602008	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+10	AI-XC	20131119122054	500	500	NR			F	367048	6	10602010	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+11	AI-XC	20131119122054	500	500	NR			F	367213	6	10602012	Y	50577	"He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good time while I'm away""?"																				
+12	AI-XC	20131119122054	500	500	NR			M	367522	6	10602014	Y	50577	"The incorrect sentance says: ""Stefan will you make sure that Trixie has a good time while I'm away""?  It should look like this:         ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+13	AI-XC	20131119122054	500	500	W	N	N	F	367620	6	10602016	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trxie has a good time while I'm away?"""																				
+14	AI-XC	20131119122054	500	500	NR			F	367690	6	10602017	Y	50577	"He entered his brother room and asked, ""Stephan will you make sure that Trixie has a good time while I'm away""? He entered his brother's room and asked, Stephan, ""Will you make sure that Trixie has a good time while I'm away?"""																				
+15	AI-XC	20131119122054	500	500	NR	Y		F	367751	6	10602019	Y	50577	Marcus knows that he could not bring his dog to trixieto camp.																				
+16	AI-XC	20131119122054	500	500	B	Y		M	368999	6	10602022	Y	50577	peaded stefamn																				
+17	AI-XC	20131119122054	500	500	W	N	N	M	369171	6	10602024	Y	50577	"The third sentence. He entered his brother's room and asked, ""Stefan, will you make sure that trixie has a good time while I'm away?"""																				
+18	AI-XC	20131119122054	500	500	W	N	N	M	369174	6	10602026	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+19	AI-XC	20131119122054	500	500	H	N	Y	F	369355	6	10602028	Y	50577	"One of the mistakes is that in the sentance that says ""Stefan will you make sure that Trixie has a good time while I'm away''? the ? is supposed to be before the '' its suposed to be ''Stefan will you make sure that Trixie has a good time while I'm away?''. The second mistake is when stefan said ''i promise you, Trixie won't be bored"																				
+20	AI-XC	20131119122054	500	500	B	N		M	370473	6	10602030	Y	50577	he pleased his parents to for days to let him bring Trixie to camp																				
+21	AI-XC	20131119122054	500	500	NR			M	372200	6	10602031	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure Trixie has a good time while I'm away?"""																				
+22	AI-XC	20131119122054	500	500	W	N	N	F	372438	6	10602034	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+23	AI-XC	20131119122054	500	500	W	N	N	M	373903	6	10602036	Y	50577	Marcus knew he could not bring his dog, Trixie, with him to camp. he pleaded with his parents for days to let him bring Trixie with him. He entered his brother room and asked '' stefan will you make sure that Trixie has a good time while I'm away?'' Stefan put his book down and answered, ''I promise you, Trixie won't be bored!''																				
+24	AI-XC	20131119122054	500	500	W	N	N	F	375356	6	10602038	Y	50577	Marcus knew he couldnt bring his dog Trixie with him to camp.																				
+25	AI-XC	20131119122054	500	500	W	N	N	F	375661	6	10602040	Y	50577	"The one sentence in this paragraph that has many errors is ""Marcus knew he could not bring his dog, Trixie, with him to camp."" The author used comas where they were not needed."																				
+26	AI-XC	20131119122054	500	500	NR			F	376811	6	10602041	Y	50577	"Stefan put his book down and answered,"" I promise you that Trixie won't be bored."""																				
+27	AI-XC	20131119122054	500	500	NR			F	377739	6	10602043	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+28	AI-XC	20131119122054	500	500	H	N	N	F	379098	6	10602045	Y	50577	"Stefan put his book down and answered, ""I promise you Trixie won't be bored."""																				
+29	AI-XC	20131119122054	500	500	W	N	N	M	379763	6	10602048	Y	50577	"""Stefan, will you make sure that Trixie will have a good time while I'm away?"""																				
+30	AI-XC	20131119122054	500	500	A			F	380767	6	10602049	Y	50577	"The sentence with grammatical errors is the thirde sentence in the paragraph.  He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+31	AI-XC	20131119122054	500	500	A	N	N	M	382780	6	10602050	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+32	AI-XC	20131119122054	500	500	B	N	N	F	383276	6	10602052	Y	50577	"""I promise you,Trixie won't be borad""!"																				
+33	AI-XC	20131119122054	500	500	W	N	N	F	383819	6	10602053	Y	50577	"Marcus knew he could not bring his dog, Trixie, with him to camp. He pleaded with his parents for days to let him bring Trixie with him. He entered his brothers room and asked,'' Stefan will you make sure that Trixie has a good time while I'm away?'' Stefan put his book down and answered, ""I promise you, Trixie won't be bored!"""																				
+34	AI-XC	20131119122054	500	500	H	N	Y	F	384586	6	10602055	Y	50577	"He entered his brothers room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+35	AI-XC	20131119122054	500	500	H	N	Y	F	385056	6	10602056	Y	50577	"""Stephan will you make sure that trixie has a good time while I'm away?"""																				
+36	AI-XC	20131119122054	500	500	A	N	Y	M	385058	6	10602058	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away""?Correct:I'm away?""the? has to go before the """																				
+37	AI-XC	20131119122054	500	500	H	N	Y	M	386077	6	10602060	Y	50577	Stefan will you make sure that Trixie has a wonderful time while im away ?																				
+38	AI-XC	20131119122054	500	500	W	N	N	M	386153	6	10602062	Y	50577	"Stefan put down his book and answered,""I promise you Trixie won't be bored!'"																				
+39	AI-XC	20131119122054	500	500	W	N	N	M	387275	6	10602064	Y	50577	will not																				
+40	AI-XC	20131119122054	500	500	W	N	Y	M	387553	6	10602066	Y	50577	Trixie, went with him to camp.																				
+41	AI-XC	20131119122054	500	500	W	N	N	M	387811	6	10602068	Y	50577	He entered his brothers room .																				
+42	AI-XC	20131119122054	500	500	W	N	N	M	387894	6	10602070	Y	50577	"Stefan put his book down,and answered,""I promise you Trixie will not be bored."""																				
+43	AI-XC	20131119122054	500	500	H	N	N	M	389495	6	10602072	Y	50577	"He entered his brother's room and asked,""Stefan,will you make sure that Trixie has a good time while I'm away?"""																				
+44	AI-XC	20131119122054	500	500	A		N	M	389529	6	10602074	Y	50577	"He entered his brother's room and asked,""Stefan,will you make sure that Trixie has a good time while I'm away""?"																				
+45	AI-XC	20131119122054	500	500	W	N	N	M	389571	6	10602076	Y	50577	"He entered his brother's roomand asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+46	AI-XC	20131119122054	500	500	A	N	N	F	390768	6	10602078	Y	50577	"The sentence that is wrong is the one where Marcus asks his brother to take care of Trixie. The correct way to write the sentence is: He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+47	AI-XC	20131119122054	500	500	W	N	N	F	391296	6	10602080	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+48	AI-XC	20131119122054	500	500	W			M	393291	6	10602082	Y	50577	He pleaded his parents for days to let him bring Trixie with him.																				
+49	AI-XC	20131119122054	500	500	W			F	393927	6	10602084	Y	50577	"Marcus knew he couldnt bring his dog, Trixie, to camp with him. He pleaded his parents for days to let him bring Trixie with him. He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+50	AI-XC	20131119122054	500	500	B	N	N	M	395157	6	10602086	Y	50577	He entered his brothers room and asked																				
+51	AI-XC	20131119122054	500	500	NR			F	397035	6	10602088	Y	50577	"He entered his brother's room and asked ,""Stefab will u make sure that Trixie has a good time while im away?""Stefan put his book down and answered,""I promise you,Trixie wont be bored!"""																				
+52	AI-XC	20131119122054	500	500	NR			M	397088	6	10602089	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie will have a good time while I'm away""?"																				
+53	AI-XC	20131119122054	500	500	W			M	400499	6	10602092	Y	50577	stefan will you make sure that trixie has a good time while im away ?																				
+54	AI-XC	20131119122054	500	500	H	N	Y	M	403901	6	10602094	Y	50577	Marcus knew he couldn't bring his dog, Trixie with him to camp																				
+55	AI-XC	20131119122054	500	500	NR			F	404032	6	10602096	Y	50577	"The 3rd sentance has the errors. He entered his brothers room and asked, ""Stefan, will you make sure the Trixie has a good time while im away?"""																				
+56	AI-XC	20131119122054	500	500	W	N	N	F	407838	6	10602098	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie will have a good time while I'm away""?"																				
+57	AI-XC	20131119122054	500	500	B	N	N	M	408264	6	10602099	Y	50577	feels very sad and incucure																				
+58	AI-XC	20131119122054	500	500	H	N	Y	F	408849	6	10602101	Y	50577	"He entered his brother's roomand asked, ""Stefan will you make sure that Trixie has a good time while im away.!"																				
+59	AI-XC	20131119122054	500	500	H	N	N	F	409737	6	10602103	Y	50577	"He entered his brother`s room and asked, ""Stefan will you make sure that Trixie has a good time while I`m away?"""																				
+60	AI-XC	20131119122054	500	500	NR			M	410186	6	10602105	Y	50577	"Stefan put hus book down  and said"" i promise you, trixie well not be bored"""																				
+61	AI-XC	20131119122054	500	500	W			F	410204	6	10602107	Y	50577	marcus entered his brothers room and asked steven will u make sure that trixie good time while i am away.  steven put his book down and answered i promise that trixie won,t be boared.																				
+62	AI-XC	20131119122054	500	500	2	N	N	M	410777	6	10602387	Y	50577	"the thrid sentence is wrong. ""Stefan will you make sure that Trixie has a good time while im away?"""																				
+63	AI-XC	20131119122054	500	500	NR			M	411563	6	10602389	Y	50577	they just needed some time out and away from the famly																				
+64	AI-XC	20131119122054	500	500	NR			M	411566	6	10602392	Y	50577	one she went to her dad and two she allmost got her dog taken away																				
+65	AI-XC	20131119122054	500	500	W	N	N	M	411669	6	10602394	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+66	AI-XC	20131119122054	500	500	W	N	N	M	411793	6	10602396	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+67	AI-XC	20131119122054	500	500	A	N	N	M	411794	6	10602398	Y	50577	"He entered his brother's room and, ""Stefan, will you make sure Trixie has a good time while I'm away?"""																				
+68	AI-XC	20131119122054	500	500	H	N	Y	M	412173	6	10602400	Y	50577	i dont know																				
+69	AI-XC	20131119122054	500	500	H	Y	N	M	413347	6	10602402	Y	50577	asked for days.																				
+70	AI-XC	20131119122054	500	500	NR			M	414527	6	10602409	Y	50577	Marcus knew he could not bring his dog , Trixie with him to camp.																				
+71	AI-XC	20131119122054	500	500	H	N	N	M	415978	6	10602411	Y	50577	stephie will you make sure that trickie has a good time while im away																				
+72	AI-XC	20131119122054	500	500	W	N	N	F	416002	6	10602413	Y	50577	"He entered his brother room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"" Stefan put his book down and answered, ""I promise that Trixie won't be bored!"""																				
+73	AI-XC	20131119122054	500	500	NR			M	416271	6	10602415	Y	50577	"when they say marcus bring his dog Trixie they should of said ""Trixie""."																				
+74	AI-XC	20131119122054	500	500	W	N	N	M	416294	6	10602416	Y	50577	"""Stefan will you make sure that Trixi has a good time while im away?"""																				
+75	AI-XC	20131119122054	500	500	H	N	N	F	416578	6	10602418	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while im away?"""																				
+76	AI-XC	20131119122054	500	500	A	N	N	F	417582	6	10602420	Y	50577	"He entered his brother's room and asked,""Stefan can you make sure that Trixie has a good time while I am away?"""																				
+77	AI-XC	20131119122054	500	500	H	N	Y	F	418055	6	10602422	Y	50577	"""Stepfan will you make sure that Trixie has a good time while I'm away?"" Marcus knew he could not bring his dog Trixie, with him to camp."																				
+78	AI-XC	20131119122054	500	500	W	N	N	M	420672	6	10602424	Y	50577	He pleaded his parents for days to let him bring Trixie with them. So he entered his brothers and asked																				
+79	AI-XC	20131119122054	500	500	A			M	420847	6	10602426	Y	50577	"The incorrect sentence is Stefan put his book down and answered,""I promise you,Trixie won't be bored!"" It should be written like this Stefan put his book down and answered, ""I promise you Trixie won't be bored."""																				
+80	AI-XC	20131119122054	500	500	W	N		M	421859	6	10602428	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+81	AI-XC	20131119122054	500	500	W	N		M	422076	6	10602430	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+82	AI-XC	20131119122054	500	500	W	N	N	M	422326	6	10602432	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+83	AI-XC	20131119122054	500	500	H	N		M	422384	6	10602434	Y	50577	Marcus knew he would not bring his dog, Trixi with him to camp.																				
+84	AI-XC	20131119122054	500	500	NR			M	422666	6	10602436	Y	50577	"Marcus entered his brother's room and  asked, ""Stefan will you make sure Trixie has a good time while I'm away?"" Stefan put his book down and answered ""I promise you, Trixie won't be bored!"""																				
+85	AI-XC	20131119122054	500	500	NR			M	422794	6	10602438	Y	50577	"""I promise you Trixe wont be bored!"""																				
+86	AI-XC	20131119122054	500	500	W	N	N	M	422841	6	10602439	Y	50577	trixie cunot go withhim to camp.																				
+87	AI-XC	20131119122054	500	500	H	N	Y	F	423020	6	10602441	Y	50577	He bentered his room,and asked,																				
+88	AI-XC	20131119122054	500	500	NR			F	423220	6	10602443	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+89	AI-XC	20131119122054	500	500	NR			M	423443	6	10602445	Y	50577	"He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+90	AI-XC	20131119122054	500	500	NR			M	423449	6	10602447	Y	50577	"Marcus knew he could not bring his dog, Trixie, with him to camp.He pleaded with his parents for days to let him bring Trixie with him. He entered his brother's foom and asked, ""Stephan will you make sure that Trixie has a good tume while I'm away?"" Stephan put his book down and answered, ""I promise you, Trixie will not be bored!"""																				
+91	AI-XC	20131119122054	500	500	W	N	N	M	423696	6	10602449	Y	50577	"marcus entered his brother's door and asked, ""stefan can you make sure that trixie has fun while i'm gone?"""																				
+92	AI-XC	20131119122054	500	500	H	N	N	M	424065	6	10602451	Y	50577	"He pleaded ""to"" his ""parent's"" to let him bring Trixie with him."																				
+93	AI-XC	20131119122054	500	500	W	N	N	M	424533	6	10602453	Y	50577	He pleaded with his parents for days to let him bring Trixie with him.																				
+94	AI-XC	20131119122054	500	500	NR			M	424904	6	10602456	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+95	AI-XC	20131119122054	500	500	B	N	N	F	424926	6	10602458	Y	50577	"Stefan will you make sure Trixie has a good time while im away""?"																				
+96	AI-XC	20131119122054	500	500	W	N	N	M	425315	6	10602460	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?''"																				
+97	AI-XC	20131119122054	500	500	W	N		M	425906	6	10602462	Y	50577	"""Stefan will u make sure Trixie has a good time while im away""?"																				
+98	AI-XC	20131119122054	500	500	H	Y	Y	M	425909	6	10602464	Y	50577	He enterd his brother's room																				
+99	AI-XC	20131119122054	500	500	W	N	N	F	426193	6	10602466	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away""?"																				
+100	AI-XC	20131119122054	500	500	W			F	429162	6	10602468	Y	50577	Marcus knew he couldn't bring his dog Trixie with him to camp.																				
+101	AI-XC	20131119122054	500	500	B	Y		M	429389	6	10602470	Y	50577	He entered his brother room and asked,''Stefan will you make sure that Trixie has a good time while i'm away?``																				
+102	AI-XC	20131119122054	500	500	H	N	N	M	429684	6	10602472	Y	50577	"Stefan put down his book,and answered, ""I promise Trixe, wont be bored."""																				
+103	AI-XC	20131119122054	500	500	W	N	N	F	429685	6	10602474	Y	50577	"The third sentance has a mistake.  Corrected sentance: ""He entered his brother's room and asked ,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+104	AI-XC	20131119122054	500	500	W	N	N	F	430727	6	10602476	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away""?"																				
+105	AI-XC	20131119122054	500	500	W	N	N	F	431779	6	10602479	Y	50577	"Sentance three contains the errors.  'Brother' needs an 's attatched to it, and the question mark needs to be inside the quotation.  This is the revised version.  He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+106	AI-XC	20131119122054	500	500	W	N	N	M	432072	6	10602481	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+107	AI-XC	20131119122054	500	500	W	Y	N	M	432425	6	10602484	Y	50577	marcus did not bring trixie to camp with him he beged them to brimg to camp with him.																				
+108	AI-XC	20131119122054	500	500	W	N	N	M	434767	6	10602486	Y	50577	"He entered his brother's room and asked, ""Stefan, Will you make sure Trixie has a good time while im away?"""																				
+109	AI-XC	20131119122054	500	500	W			F	435127	6	10602488	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+110	AI-XC	20131119122054	500	500	W	N	N	M	435908	6	10602489	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I am away""?"																				
+111	AI-XC	20131119122054	500	500	W	N	N	F	436695	6	10602491	Y	50577	"He entered his brother's room and asked, ""Stefan will make sure that Trixie has a good time while I'm away?"""																				
+112	AI-XC	20131119122054	500	500	P	Y	N	M	438471	6	10602493	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while i'm away?"""																				
+113	AI-XC	20131119122054	500	500	B	N	N	F	438696	6	10602496	Y	50577	"Marcus knew he could not bring his dog, Trixie, with him to camp. he pleaded with his parents for days to let him bring Trixie with him. He entered his brothers room and said ""Stefan will you make sure that Trixie has a good time while i'm away?"" Stefan put his book down and answered, ""I promise you, Trixie wont be bored!"""																				
+114	AI-XC	20131119122054	500	500	H	N	N	F	438908	6	10602498	Y	50577	He entered his brother's room and asked, 'Stefan will you make sure that Trixie has a good time while I'm away'?																				
+115	AI-XC	20131119122054	500	500	2	N	N	F	439575	6	10602500	Y	50577	"He entered his brother's room and asked,""Stefan,will you make sure that Trixie has a good time while I'm away?"""																				
+116	AI-XC	20131119122054	500	500	B	N	N	M	440099	6	10602502	Y	50577	"He entered his brother room and asked"" Stefan will you make sure that Trixie has a good time while im away"""																				
+117	AI-XC	20131119122054	500	500	A	N	N	F	442510	6	10602505	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+118	AI-XC	20131119122054	500	500	H	N	Y	F	443862	6	10602507	Y	50577	"He entered his brother's room and asked,"" Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+119	AI-XC	20131119122054	500	500	H	N	N	F	444189	6	10602510	Y	50577	"He entered his brothers room and asked,""Stefan will you make sue Trixie will have a good time while i'm away""?"																				
+120	AI-XC	20131119122054	500	500	H	N	N	F	444190	6	10602513	Y	50577	marcus knew that he could not bring his dog trixie with him to camp,																				
+121	AI-XC	20131119122054	500	500	H	N	Y	F	444749	6	10602516	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+122	AI-XC	20131119122054	500	500	H	N	Y	M	445169	6	10602518	Y	50577	Stefan put his book down and awnsered,''prmise you,''Trixie won't be bored!''																				
+123	AI-XC	20131119122054	500	500	W	N	N	M	445524	6	10602520	Y	50577	Marcus knew he could not bring his dog, Trixie, with him to the camp.																				
+124	AI-XC	20131119122054	500	500	H	N	N	F	445729	6	10602522	Y	50577	"Marcus knew he could not bring his dog Trixie with him to camp. ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+125	AI-XC	20131119122054	500	500	W	N	N	M	445750	6	10602524	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+126	AI-XC	20131119122054	500	500	W	N	N	M	445758	6	10602526	Y	50577	"""Stefan will you mack sure that Trixie has a good time while I'm way?"""																				
+127	AI-XC	20131119122054	500	500	H	N	N	F	446966	6	10602528	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+128	AI-XC	20131119122054	500	500	W	N	N	M	447144	6	10602531	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+129	AI-XC	20131119122054	500	500	H	N	N	F	447149	6	10602533	Y	50577	"""Stephan, will you make sure Trixie has a good time while I'm away?"""																				
+130	AI-XC	20131119122054	500	500	H	N	Y	F	447405	6	10602535	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"" Stefan put his book down and answered, ""I promise you, Trixie won't be bored!"""																				
+131	AI-XC	20131119122054	500	500	W	N	N	M	447989	6	10602537	Y	50577	He entered his brothers room and asked if he could take good care of Trixie while he was away.																				
+132	AI-XC	20131119122054	500	500	H	N	Y	F	448139	6	10602539	Y	50577	''I promise you Trixie won't be bored.''																				
+133	AI-XC	20131119122054	500	500	NR	N		F	448927	6	10602540	Y	50577	"He entered his brothers room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+134	AI-XC	20131119122054	500	500	W	N	N	F	449142	6	10602542	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+135	AI-XC	20131119122054	500	500	H	N	N	F	449614	6	10602543	Y	50577	''Stefan will you make sure that trixiehas a good time while I'm away?''																				
+136	AI-XC	20131119122054	500	500	A	N	N	F	451042	6	10602545	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+137	AI-XC	20131119122054	500	500	A	N	Y	M	452060	6	10602547	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie will have a good time while I'm away''?"																				
+138	AI-XC	20131119122054	500	500	A	N	Y	M	452497	6	10602550	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"" Stefan put his book down and answered, ""I promise you, trixie won't be bored."""																				
+139	AI-XC	20131119122054	500	500	W	N	N	F	452788	6	10602552	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while im away?"""																				
+140	AI-XC	20131119122054	500	500	H	N	Y	F	452833	6	10602554	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?  He entered his brother's room and asked, ""Stefen, will you make sure that Trixie has a good time while I'm away?"""																				
+141	AI-XC	20131119122054	500	500	W	N	N	F	453234	6	10602556	Y	50577	"He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good time while i'm away?"""																				
+142	AI-XC	20131119122054	500	500	W	N	N	F	454591	6	10602558	Y	50577	"The sentence CORRECTLY: He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good while I'm away""?"																				
+143	AI-XC	20131119122054	500	500	NR			F	455499	6	10602559	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time when I'm away?"" Stefan put his book down and answered, ""i promise you, Trixie won't be bored!"""																				
+144	AI-XC	20131119122054	500	500	W			M	459767	6	10602561	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+145	AI-XC	20131119122054	500	500	H			F	459844	6	10602563	Y	50577	"it is the 2nd ,and 3rd sentence.he pleaded to his parents for days to let him bring trixie with him.he entered his brothers room and asked him,""stefan will you make sure trixie has a good time while i'm away?""."																				
+146	AI-XC	20131119122054	500	500	H			M	459849	6	10602565	Y	50577	f																				
+147	AI-XC	20131119122054	500	500	NR			F	461533	6	10602568	Y	50577	"""Stefen, will you make sure that Trixie has a good time while I'm away?"""																				
+148	AI-XC	20131119122054	500	500	W	Y	N	M	461630	6	10602570	Y	50577	Marcus																				
+149	AI-XC	20131119122054	500	500	H	N	N	M	463334	6	10602572	Y	50577	"He entered his brother room and asked,""Stefan will you amke sure that Trixie has a good time while I'm away?"""																				
+150	AI-XC	20131119122054	500	500	H	N	N	M	463362	6	10602574	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?                  brother is supposed to be brother's          and                                                                         the qoute should be after the question mark."																				
+151	AI-XC	20131119122054	500	500	W	N	N	F	465024	6	10602576	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+152	AI-XC	20131119122054	500	500	W			M	465533	6	10602578	Y	50577	"Marcus knows he could'nt bring his dog.Trixie, with him to camp. He pleaded with his parents for days to let him bring Trixie with him. He entered his brothers room and asked, ""Stefan will youy make sure Trixie has a good time while im away""? Stefan put his book down and answered, ""I promiseyou, Trixie won't be bored!"""																				
+153	AI-XC	20131119122054	500	500	H	N	N	M	466984	6	10602580	Y	50577	He entered his brother's room and asked,''Stefan will you make sure that Trixie has a good time while I'm away?''																				
+154	AI-XC	20131119122054	500	500	H	N	N	F	467681	6	10602582	Y	50577	Marcus kew he couldn't bring his dog,Trixie,with him to camp.																				
+155	AI-XC	20131119122054	500	500	W		N	F	469252	6	10602584	Y	50577	"""Stefan will you make sure that Trixie has a good time while i'm away""?  ""Stefan will you make sure that Trixie ha sa good time while im away?"""																				
+156	AI-XC	20131119122054	500	500	W			F	469275	6	10602586	Y	50577	"He entered his brothers room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away""?"																				
+157	AI-XC	20131119122054	500	500	W	N	N	M	469295	6	10602588	Y	50577	"''stefan will you make sure that trixie has a good time''? ""I promise you that trixie won't be bored!"""																				
+158	AI-XC	20131119122054	500	500	W	N	N	F	470608	6	10602590	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?""     Marcus knew he could not bring his dog Trixie, with him to camp."																				
+159	AI-XC	20131119122054	500	500	NR			M	470647	6	10602592	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp. He pleaded with his parents for days to let him bring Trixie with him . He entered his brothers room and asked  Stefan will you make sure that Trixie  has a good time while im away. Stefan put his book down and answered i promise you Trixie wont be bored.																				
+160	AI-XC	20131119122054	500	500	W		N	F	470917	6	10602594	Y	50577	"""Stefan will you make sure that Trixie has a good time while i'm away?"""																				
+161	AI-XC	20131119122054	500	500	H	N	N	M	471944	6	10602610	Y	50577	Marcus knew he could not bring his dog dog Trixie with him to camp. He pleaded with his parents for days to let him																				
+162	AI-XC	20131119122054	500	500	H	N	N	M	471945	6	10602612	Y	50577	k																				
+163	AI-XC	20131119122054	500	500	W	N	N	F	472536	6	10602614	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+164	AI-XC	20131119122054	500	500	W	N	N	M	473394	6	10602616	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"" I found three mistakes!"																				
+165	AI-XC	20131119122054	500	500	W	N	N	M	474295	6	10602618	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+166	AI-XC	20131119122054	500	500	W			F	474425	6	10602620	Y	50577	"Stephan put his book down and answered, ""i promise you Trixie won't be bored."""																				
+167	AI-XC	20131119122054	500	500	W	N	N	F	475987	6	10602622	Y	50577	He pleaded to his parents for days to let him bring Trixie with him.																				
+168	AI-XC	20131119122054	500	500	H	N	Y	M	475992	6	10602624	Y	50577	Marcus knew that he couldnt take his dog Trixie to camp. He peged that he could take her with him. His parents said no. So he went up to his brother room and said could you take care of her. I would i will not keep her board.																				
+169	AI-XC	20131119122054	500	500	W	N	N	F	477759	6	10602626	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a goos time while I'm away?"""																				
+170	AI-XC	20131119122054	500	500	A			M	478229	6	10602628	Y	50577	"He entered his brother's room and asked, ""Stefan,will you make sure that Trixie has a good time while I'm away?"""																				
+171	AI-XC	20131119122054	500	500	W	N	N	F	480271	6	10602630	Y	50577	"Stefan put his book down and answered,""I promise you ,Trixie wont be bored."																				
+172	AI-XC	20131119122054	500	500	W			M	480341	6	10602632	Y	50577	he entered his brother room. It should be he entered his brothers room.																				
+173	AI-XC	20131119122054	500	500	W	N	N	F	480794	6	10602633	Y	50577	"The sentence is: He entered his brother room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""?  The correction make the sentence: He entered his brother's room and asked,""Stefan, will you please make sure that Trixie has a good time while I'm away?"""																				
+174	AI-XC	20131119122054	500	500	W	N	N	M	480936	6	10602635	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+175	AI-XC	20131119122054	500	500	W	N		M	481514	6	10602638	Y	50577	Marcus knew he could'nt bring his dog Trixie to camp with him.																				
+176	AI-XC	20131119122054	500	500	NR			M	481703	6	10602640	Y	50577	He plaeded his parrents of the hole day to let him bring Trixie along!!																				
+177	AI-XC	20131119122054	500	500	NR			M	481741	6	10602642	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+178	AI-XC	20131119122054	500	500	NR			M	481950	6	10602644	Y	50577	"He entered hi brothers room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+179	AI-XC	20131119122054	500	500	NR			F	482521	6	10602646	Y	50577	"He entered his brothers room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+180	AI-XC	20131119122054	500	500	W		N	M	482632	6	10602648	Y	50577	''I promise you, Trixie will not be bored''																				
+181	AI-XC	20131119122054	500	500	NR			M	482775	6	10602649	Y	50577	stefan will make sure  that trixie has a good time while im gone. it should be period instead of ?																				
+182	AI-XC	20131119122054	500	500	H	N	Y	F	482786	6	10602650	Y	50577	"He entered his brothers room,and asked him, ""Stefan will you make sure that Trixie has a good time while im away?"""																				
+183	AI-XC	20131119122054	500	500	NR			M	482788	6	10602651	Y	50577	Did Trixie have a good time while I was away ?																				
+184	AI-XC	20131119122054	500	500	B	N		M	483566	6	10602652	Y	50577	"The first section I highlighted the word pleaded should be spelled pleeded. The second sentence I highlighted it should say ""He entered his brother's room."																				
+185	AI-XC	20131119122054	500	500	W	N	N	F	484496	6	10602653	Y	50577	"""I promise you, Trixie won't be bored."""																				
+186	AI-XC	20131119122054	500	500	H	N	Y	F	484843	6	10602654	Y	50577	The benning of the paragraph it is a mistakes because at first it said that he is going to take his dog with him and at the last is said that the dog is going to still home..																				
+187	AI-XC	20131119122054	500	500	I	N	N	F	485139	6	10602655	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+188	AI-XC	20131119122054	500	500	H	N	N	F	485654	6	10602656	Y	50577	"The sentence that contains incorrect grammer is the the sentence when Marcus entered his brothers room, it said  ""He entered his brother room and asked..............."" so the correct way to rewrite the sentence is ""He entered into his brothers room and asked him..........................""."																				
+189	AI-XC	20131119122054	500	500	W	N	N	M	486342	6	10602657	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+190	AI-XC	20131119122054	500	500	H	Y	Y	M	488561	6	10602658	Y	50577	And Trixie went with him.																				
+191	AI-XC	20131119122054	500	500	W			M	489179	6	10602659	Y	50577	"""I promise you, trixe"																				
+192	AI-XC	20131119122054	500	500	W			F	489781	6	10602660	Y	50577	"He entered his brither's room and asked ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+193	AI-XC	20131119122054	500	500	B	N	N	F	492539	6	10602661	Y	50577	"He entered his brothers room and asked ""Stefan will you make sure that Trixie has a good time while I'm away?""."																				
+194	AI-XC	20131119122054	500	500	NR			F	492544	6	10602662	Y	50577	"In the theird sentance add the 's to brother and move the ? behind the "". He enterd his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+195	AI-XC	20131119122054	500	500	NR			F	494019	6	10602663	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+196	AI-XC	20131119122054	500	500	H	N	Y	F	494090	6	10602665	Y	50577	"Trixie won't get bored."""																				
+197	AI-XC	20131119122054	500	500	B	N	N	F	494352	6	10602667	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+198	AI-XC	20131119122054	500	500	B	N	N	M	494592	6	10602669	Y	50577	"He entered his brother's room and asked,""Stefan,will you make sure that Trixie has a good time while I'm away""?"																				
+199	AI-XC	20131119122054	500	500	W	N	N	F	495372	6	10602671	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+200	AI-XC	20131119122054	500	500	W	Y	N	F	495403	6	10602673	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away""? ""Stefan will you make sure that Trixie, has a good time while i'm away?""."																				
+201	AI-XC	20131119122054	500	500	P			M	496812	6	10602675	Y	50577	marcus knew he could not bring his dog trixie with him to camp																				
+202	AI-XC	20131119122054	500	500	H	Y	N	M	497678	6	10602677	Y	50577	He pleaded to his parents for days for him to be able to take Trixie with him.																				
+203	AI-XC	20131119122054	500	500	W	N	N	F	498254	6	10602679	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+204	AI-XC	20131119122054	500	500	H	N	N	M	498384	6	10602681	Y	50577	brother room																				
+205	AI-XC	20131119122054	500	500	A	Y	Y	M	500098	6	10602683	Y	50577	"Stefan put his book down and answered,""I promise you, Trixixe won't be bored."""																				
+206	AI-XC	20131119122054	500	500	B	N	N	F	503577	6	10602685	Y	50577	marcus is going to camp and he wants to bring his dog named trixie. marcus new he could not bring his dog with him to camp.																				
+207	AI-XC	20131119122054	500	500	W			F	503730	6	10602687	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+208	AI-XC	20131119122054	500	500	NR			F	503951	6	10602689	Y	50577	He pleaded his parents for days to bring Trixie with him.																				
+209	AI-XC	20131119122054	500	500	NR			M	504029	6	10602691	Y	50577	Marcus knew he coulde'nt bring his dog, Trixie with him to camp.																				
+210	AI-XC	20131119122054	500	500	H	N	Y	F	504462	6	10602693	Y	50577	He entered his brother's room.																				
+211	AI-XC	20131119122054	500	500	W		N	M	505377	6	10602695	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+212	AI-XC	20131119122054	500	500	W			M	505639	6	10602697	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+213	AI-XC	20131119122054	500	500	H	N	N	F	505676	6	10602699	Y	50577	He entered his brother's room and asked,''Stefan will you make sure that Trixie has a good time while I'm away?''																				
+214	AI-XC	20131119122054	500	500	H	N	N	F	505678	6	10602701	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+215	AI-XC	20131119122054	500	500	H			M	505692	6	10602703	Y	50577	He said to Trixie you ant gonna be bord i promise.																				
+216	AI-XC	20131119122054	500	500	W	N	N	M	506727	6	10602705	Y	50577	"Marcus knew he could not bring his dog Trixie, with him to camp.  ""Stefan will you make sure that Trixie has a good time while I'm away"" ?"																				
+217	AI-XC	20131119122054	500	500	W	Y	N	F	506856	6	10602707	Y	50577	Trixie was going to misse his owner if he didn't get some compine																				
+218	AI-XC	20131119122054	500	500	H	N	N	M	506989	6	10602709	Y	50577	"...good time when I'm away?"""																				
+219	AI-XC	20131119122054	500	500	W	N	N	M	507148	6	10602711	Y	50577	it should be not bring his dog Trixie, to camp with him.  and the other mistake is that the exclamation point it should be i promise you, Trixie won't be bored.																				
+220	AI-XC	20131119122054	500	500	W			F	507287	6	10602713	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+221	AI-XC	20131119122054	500	500	W	N	N	M	509293	6	10602715	Y	50577	"""Stefan will you make sure Trixie has a good time while im away?"""																				
+222	AI-XC	20131119122054	500	500	H	N	N	F	509537	6	10602717	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixe has a good time while I'm away""?"																				
+223	AI-XC	20131119122054	500	500	A	N	N	M	509720	6	10602719	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+224	AI-XC	20131119122054	500	500	W	N	N	M	510884	6	10602721	Y	50577	"He entered his brothers room and asked, ""Stefan, will you make sure that Trixie has a good time while i'm away?"""																				
+225	AI-XC	20131119122054	500	500	H	N	N	F	511250	6	10602723	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+226	AI-XC	20131119122054	500	500	W	N	N	M	511305	6	10602725	Y	50577	"He entered his brothers room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+227	AI-XC	20131119122054	500	500	H	N	N	M	511353	6	10602727	Y	50577	"He entered his brother's room and asked Stefan ""Will you make sure that Trixie has a good time while I'm away?"""																				
+228	AI-XC	20131119122054	500	500	W			M	512473	6	10602729	Y	50577	He entered his brothers room and asked, Stefan will you make sure trixie has a good time while i'm away.																				
+229	AI-XC	20131119122054	500	500	H			M	512562	6	10602731	Y	50577	"He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+230	AI-XC	20131119122054	500	500	B	N	N	F	512800	6	10602733	Y	50577	Marcus  should have put brthers instead of brother and the quotqtions should have been on the outside of the other side of the questionmark .																				
+231	AI-XC	20131119122054	500	500	NR			F	513235	6	10602735	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+232	AI-XC	20131119122054	500	500	2	N	N	M	513901	6	10602737	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+233	AI-XC	20131119122054	500	500	W	N	N	F	513949	6	10602739	Y	50577	"He entered his brother's room and asked him, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+234	AI-XC	20131119122054	500	500	B			F	514380	6	10602741	Y	50577	Marcus knew he could not bring his dog, trixi with him to camp.																				
+235	AI-XC	20131119122054	500	500	W	N	N	M	516865	6	10602743	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while i'm away?"																				
+236	AI-XC	20131119122054	500	500	W	N	N	M	516866	6	10602745	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I am away?"""																				
+237	AI-XC	20131119122054	500	500	NR			F	518202	6	10602747	Y	50577	bring his dog Tixie																				
+238	AI-XC	20131119122054	500	500	B	Y	N	M	521329	6	10602749	Y	50577	pleased,																				
+239	AI-XC	20131119122054	500	500	H	Y	N	M	522806	6	10602751	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+240	AI-XC	20131119122054	500	500	H	N	N	M	523032	6	10602753	Y	50577	"He entered his brothers room and asked,""Stefan will you make sure that Trixie has a good time while i'm away?"""																				
+241	AI-XC	20131119122054	500	500	W	N	N	F	524382	6	10602755	Y	50577	''I promise you, Trixie will not be bored.																				
+242	AI-XC	20131119122054	500	500	A			M	525586	6	10602757	Y	50577	He pleaded his parents for days, asking if he could bring Trixe with him.																				
+243	AI-XC	20131119122054	500	500	NR			M	528612	6	10602759	Y	50577	He entered his brothers room and asked, Stefan will you make sure that Trixie has a good time while I am away.																				
+244	AI-XC	20131119122054	500	500	H	N	N	M	528789	6	10602761	Y	50577	"...""Stefan will you make shure that Trixie has a good time while i'm away?""     .....He entered his brother's room, and asked,"																				
+245	AI-XC	20131119122054	500	500	NR			F	528867	6	10602763	Y	50577	While I'm away Stefan will you  make sure  that Trixie has a good time																				
+246	AI-XC	20131119122054	500	500	B	N	N	F	529011	6	10602765	Y	50577	don't let trixxie be bored																				
+247	AI-XC	20131119122054	500	500	NR			M	529544	6	10602767	Y	50577	"The mistakes are that the question mark is in the wrong place and brother room dosent show ownership. It should be, He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+248	AI-XC	20131119122054	500	500	A	N	N	M	530357	6	10602769	Y	50577	"The sentence that has a grammer error is "" He entered his brother room and asked ."" it should be brothers not brother."																				
+249	AI-XC	20131119122054	500	500	H	N	Y	M	530452	6	10602771	Y	50577	''i promise you, Trixie won't be bored!																				
+250	AI-XC	20131119122054	500	500	B			F	531215	6	10602773	Y	50577	pleaded and trixie																				
+251	AI-XC	20131119122054	500	500	W		N	M	532905	6	10602775	Y	50577	"""Stefan will you make sure that trixie has a good time while i'm away?"" Stefan put his book down and answered, ""I promise you, trixie won't be board."""																				
+252	AI-XC	20131119122054	500	500	B	N	N	M	532935	6	10602777	Y	50577	He peaded his parents for days to let him bring Trixie.																				
+253	AI-XC	20131119122054	500	500	W			M	533662	6	10602779	Y	50577	"""Stefan, will you make sur Trixie has a good time when I'm away?"""																				
+254	AI-XC	20131119122054	500	500	W			M	534161	6	10602781	Y	50577	when the brothers are talking there is only one full paragragh and there is a question mark were there should be a period																				
+255	AI-XC	20131119122054	500	500	B	N	N	F	535569	6	10602783	Y	50577	"he entered his brother's room and asked, ""stefan will you make sure that Trixie has a good time while i'm away."																				
+256	AI-XC	20131119122054	500	500	W	N	N	F	535609	6	10602785	Y	50577	Msrcus knew he couldn't bring his dog, Trixie, with him to camp.																				
+257	AI-XC	20131119122054	500	500	B			M	535647	6	10602787	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?                          brother's                                                                                                                             i'm"																				
+258	AI-XC	20131119122054	500	500	W			F	535649	6	10602789	Y	50577	"Marcus knew he could not bring his dog,Trixie,with him to camp.He pleaded with his parents for days to let him bring Trixie with him.He entered his his brother's room and asked ,""Steven will you make sure that Trixie has a good time while I'm away?""Steven put his book down and answered,""I promise you,Trixie won't be bored!"""																				
+259	AI-XC	20131119122054	500	500	W			M	535697	6	10602791	Y	50577	"""Stefan will you make sure that trixie has a good time while i am away?"""																				
+260	AI-XC	20131119122054	500	500	W	N	N	F	535804	6	10602793	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+261	AI-XC	20131119122054	500	500	W	N	N	M	536000	6	10602796	Y	50577	He beged his parents for days to let him bring Trixie with him.																				
+262	AI-XC	20131119122054	500	500	NR			M	536321	6	10602798	Y	50577	"Sentence number 3: He entered his brothers' room and asked "" Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+263	AI-XC	20131119122054	500	500	W	N	N	F	536406	6	10602801	Y	50577	"The sentance that I believe has the mistakes is the one where Marcus askes his brother Stefan to make sure their dog Trixie won't get bored.   He entered his brother's room and asked,"" Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+264	AI-XC	20131119122054	500	500	H		Y	M	536624	6	10602804	Y	50577	brother should be brother's																				
+265	AI-XC	20131119122054	500	500	H	Y		M	536644	6	10602807	Y	50577	no dog camp																				
+266	AI-XC	20131119122054	500	500	H	N	N	M	537345	6	10602810	Y	50577	"""Stefan will you make sure trixie has a good time while i'm away?"""																				
+267	AI-XC	20131119122054	500	500	H	Y	N	M	537581	6	10602815	Y	50577	"""I promise you, Trixie won't be bored"""																				
+268	AI-XC	20131119122054	500	500	W			F	537616	6	10602817	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+269	AI-XC	20131119122054	500	500	W	N	N	M	538067	6	10602821	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+270	AI-XC	20131119122054	500	500	H	N	Y	M	538487	6	10602824	Y	50577	"Marcus knew he could not bring his dog, Trixie, with him to camp. He pleaded with his parents for days to him bring Trixie with him. He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"" Stefan put his book down and answered,""I promise you Trixie won't be bored!"""																				
+271	AI-XC	20131119122054	500	500	NR			F	540207	6	10602828	Y	50577	He enterd his brother's room and asked,.																				
+272	AI-XC	20131119122054	500	500	NR			M	540229	6	10602831	Y	50577	Marcus went to his brother's room and said ''Stefan will you watch Trixie while i'm gone.''																				
+273	AI-XC	20131119122054	500	500	NR			M	540761	6	10602835	Y	50577	He pleded with his parent to let trixie go with him.																				
+274	AI-XC	20131119122054	500	500	H	N	N	M	541135	6	10602839	Y	50577	"He entered his brother's room, and asked,""stefan will you make sure that trixie has a good time while i'm away?"""																				
+275	AI-XC	20131119122054	500	500	W			F	541292	6	10602842	Y	50577	well marcus said that he was goin to bring trixie with him but he asked his brother if he can watch trixie an make sure she isn't																				
+276	AI-XC	20131119122054	500	500	H	N	Y	M	541797	6	10602845	Y	50577	Marcus knew he could not bring his dog.																				
+277	AI-XC	20131119122054	500	500	NR			M	542331	6	10602849	Y	50577	Marcus knew he could not bring his dog, Trixie to camp with him.																				
+278	AI-XC	20131119122054	500	500	W	N	N	M	542529	6	10602853	Y	50577	'', Stefan will you make sure that Trixie has a good time while I'm away ?''																				
+279	AI-XC	20131119122054	500	500	NR			M	543050	6	10602857	Y	50577	Marcus knew he could not bring his dog, Trixie, with him to camp.  Marcus knew he couldn't bring his dog, Trixie with him to camp.																				
+280	AI-XC	20131119122054	500	500	W	N	N	F	543245	6	10602860	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+281	AI-XC	20131119122054	500	500	NR			F	543582	6	10602864	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+282	AI-XC	20131119122054	500	500	W	N		F	543666	6	10602866	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+283	AI-XC	20131119122054	500	500	W	N	N	M	543772	6	10602870	Y	50577	"Stefan put down his book ,""I promise, Trixe won't be bored!"""																				
+284	AI-XC	20131119122054	500	500	W	N	N	M	543989	6	10602873	Y	50577	"He entered his brothers room and asked, ""Stefan, will you make sure Trixie has a good time while I'm away?"""																				
+285	AI-XC	20131119122054	500	500	2	N	N	M	544255	6	10602877	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+286	AI-XC	20131119122054	500	500	H	N	Y	M	544328	6	10602884	Y	50577	Marcus knew he would not bring his dog,Trixie with him to camp.																				
+287	AI-XC	20131119122054	500	500	H	N	Y	F	544720	6	10602887	Y	50577	"He entered his brothers' room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+288	AI-XC	20131119122054	500	500	NR			M	544894	6	10602890	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that trixie has a good time while I'm away ?"""																				
+289	AI-XC	20131119122054	500	500	NR			F	544933	6	10602893	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+290	AI-XC	20131119122054	500	500	H	N	N	M	545248	6	10602896	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure Trixie has a good time while I'm away?"""																				
+291	AI-XC	20131119122054	500	500	W	N	N	F	546416	6	10602898	Y	50577	"He entered his brother's room and asked ""Stefan will you sure that Trixi has a good time while I am away?"" Stefan put his book down and answered, "" I promise you, Trixi won't be bored!"""																				
+292	AI-XC	20131119122054	500	500	W	N	N	M	546742	6	10602901	Y	50577	He begged his parents for days to alow him to bring trixie.																				
+293	AI-XC	20131119122054	500	500	A	N	Y	M	547177	6	10602904	Y	50577	He pleaded with his parents for days not to let him bring Trixie with him.																				
+294	AI-XC	20131119122054	500	500	W			F	548021	6	10602906	Y	50577	He pleaded to his parents for days to let him bring Trixie to camp.																				
+295	AI-XC	20131119122054	500	500	H	N	N	M	549308	6	10602909	Y	50577	"Incorrect: ""Stefan will you make sure that Trixie has a good time while I'm away""?  Correct: ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+296	AI-XC	20131119122054	500	500	W			M	552264	6	10602912	Y	50577	"""Stefan will you make sure that trixie has a good time while I'm away ?"""																				
+297	AI-XC	20131119122054	500	500	NR			M	552431	6	10602915	Y	50577	Marcus new he couldnot bring his dog Trixie, with him to camp.																				
+298	AI-XC	20131119122054	500	500	NR	Y		F	552598	6	10602917	Y	50577	''I promise you, Trixie won't be bored''!																				
+299	AI-XC	20131119122054	500	500	B	N	N	F	552672	6	10602920	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp																				
+300	AI-XC	20131119122054	500	500	W	N	N	F	554355	6	10602923	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixi has a good time while I'm away""?"																				
+301	AI-XC	20131119122054	500	500	H	Y	N	M	554829	6	10602926	Y	50577	"He entered his brothers room and asked ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+302	AI-XC	20131119122054	500	500	W	N	N	M	554857	6	10602928	Y	50577	He pleaded wih his parents fo days to let him bring Trixie wiyh him.																				
+303	AI-XC	20131119122054	500	500	H	N	Y	F	557617	6	10602931	Y	50577	"Marcus knew he could not bring his dog,Trixie,with him to camp.He pleaded with his parents for days to let him bring Trixie with him.He entered his, brother room and asked,""Stefan will you make sure that Trixie has a good time while I'm gone""? Stefan put his book down and answered him,"" i promise you, Trixie won't be bored!"""																				
+304	AI-XC	20131119122054	500	500	H	Y	N	F	557678	6	10602934	Y	50577	He entered his brothers room and asked ,''Stefan will you make sure that Trixie has a good time while im away''?																				
+305	AI-XC	20131119122054	500	500	NR			M	557799	6	10602937	Y	50577	He pleaded to his parents for days to let him bring, Trixie, with him.																				
+306	AI-XC	20131119122054	500	500	W	Y	N	M	559740	6	10602939	Y	50577	marcus knew he could not bring his dog trixie to camp.																				
+307	AI-XC	20131119122054	500	500	H	N	N	M	560055	6	10602942	Y	50577	Put the quotations after the question mark.																				
+308	AI-XC	20131119122054	500	500	W	N	N	M	561028	6	10602945	Y	50577	The second sentence is wrong. He entered his brother's room and asked,																				
+309	AI-XC	20131119122054	500	500	H	N	Y	F	563498	6	10602947	Y	50577	He entered his brothers room and asked ,''Stefan will you make sure trixie has a goode time while im away?''Stefan put his book down and answered,''i promise you yrixie wont be boared.																				
+310	AI-XC	20131119122054	500	500	W	N	N	M	563574	6	10602950	Y	50577	"""I promise you, Trixie won't be bored."																				
+311	AI-XC	20131119122054	500	500	W	N	N	F	563632	6	10602953	Y	50577	"He entered his brothers room and asked ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+312	AI-XC	20131119122054	500	500	NR			M	563947	6	10602956	Y	50577	He enterd his brother's room and asked, Stefen will you make shure trixie has a good time while im away?																				
+313	AI-XC	20131119122054	500	500	H	N	Y	M	564772	6	10602958	Y	50577	"Stefan put down his book and answered, ""I promise you, Trixie won't be bored."""																				
+314	AI-XC	20131119122054	500	500	B	N	N	F	565186	6	10602961	Y	50577	"The sentence with the errors is, He entered his brother room and asked, ""Stefan will you make sure that trixie has a good time while I'm away""? The right way is, He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+315	AI-XC	20131119122054	500	500	W	N	N	F	565753	6	10602963	Y	50577	He enteredhis brother's room and asked, ''Stefan will you make sure that Trixie has a good time while I'm away? ''																				
+316	AI-XC	20131119122054	500	500	W			F	565907	6	10602966	Y	50577	Marcus knew not to bring his dog, Trixie, with him to camp.																				
+317	AI-XC	20131119122054	500	500	H	N	N	M	565936	6	10602969	Y	50577	Stefan will you make sure that Trixie,has a good time while I'm away?Marcus new he  could not bring his dog.																				
+318	AI-XC	20131119122054	500	500	H			M	565995	6	10602971	Y	50577	"Stephan put his book down and answered,""I promise you, Trixie won't be bored."""																				
+319	AI-XC	20131119122054	500	500	W	N	N	F	566752	6	10602974	Y	50577	"Marcus knew he coulcn't bring his dog ,"" Trixie"" to camp. He asked his parent if Trixie can come with him but they said ""no"". Marcus beaged for days and they wouldn't alow him to, so Marcus asked his brother Stefan if he can take very good care of Trixie for him and makes shure that he dosen't get lonley or bored. Stefen promesed that he would take very good care and kept his word."																				
+320	AI-XC	20131119122054	500	500	W	N	N	F	566851	6	10602977	Y	50577	"He entered his brothers room and asked, ""Stefan, will you make sure that Trixie has a good time while i am away?"""																				
+321	AI-XC	20131119122054	500	500	W	N	N	F	567581	6	10603003	Y	50577	Marcus knew he couldn't bring his dog, Trixie with him to camp.																				
+322	AI-XC	20131119122054	500	500	W	N	N	F	567583	6	10603006	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+323	AI-XC	20131119122054	500	500	W	N	N	M	568348	6	10603009	Y	50577	"1.He entered his BROTHER'S room... 2.""Stefan,will you make sure that Trixie has a good time while I'm away?"""																				
+324	AI-XC	20131119122054	500	500	W	N	N	M	568732	6	10603012	Y	50577	He begged his parents to let him bring his dog,Trixie.																				
+325	AI-XC	20131119122054	500	500	H	N	N	M	569283	6	10603015	Y	50577	sentence 2 pleaded and sentence 5 there has to be a comma after and																				
+326	AI-XC	20131119122054	500	500	B	N	N	F	569360	6	10603018	Y	50577	"He entered his brother room and askes, ""Stefan will you make sure that Trixie has a good time while I'm away''?   He entered his brothers room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+327	AI-XC	20131119122054	500	500	H	Y	Y	M	572005	6	10603021	Y	50577	pleaded																				
+328	AI-XC	20131119122054	500	500	W			F	572630	6	10603023	Y	50577	He talked with his parents for days to let him take Trixie to camp.																				
+329	AI-XC	20131119122054	500	500	H	N	N	F	572672	6	10603026	Y	50577	"""Stefan will you make  sure that Trixie has a good time  while i'm away?"""																				
+330	AI-XC	20131119122054	500	500	W	N	N	F	574014	6	10603029	Y	50577	He pleaded to his parents to for days to let Trixie go to camp with him.																				
+331	AI-XC	20131119122054	500	500	I	N	N	F	574062	6	10603031	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time whole i'm away""?"																				
+332	AI-XC	20131119122054	500	500	H	N	Y	M	574928	6	10603033	Y	50577	?																				
+333	AI-XC	20131119122054	500	500	A	N	Y	M	575991	6	10603034	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away""?"																				
+334	AI-XC	20131119122054	500	500	H	N	Y	M	582154	6	10603036	Y	50577	"He entered his brothers room and asked,""Stefan will you make sure that Trixie has a good time while I'm away ?"""																				
+335	AI-XC	20131119122054	500	500	H	N	N	M	582810	6	10603038	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+336	AI-XC	20131119122054	500	500	W	N	N	F	583006	6	10603040	Y	50577	"Stefan put his book down and answered, ""I promise , Trixie won't get get bored ! """																				
+337	AI-XC	20131119122054	500	500	H	N	N	M	589002	6	10603042	Y	50577	"He entered his brother's room and asked, ""Stefan  will you make sure that Trixie has a good time while I'm away?"""																				
+338	AI-XC	20131119122054	500	500	W	N	N	M	589845	6	10603044	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure Trixie has a good time while I'm away""?  He put brother room it should be brothers room"																				
+339	AI-XC	20131119122054	500	500	P	N	N	F	590449	6	10603045	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that trixie has a good time while I'm away?"""																				
+340	AI-XC	20131119122054	500	500	H	N	N	F	590780	6	10603047	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+341	AI-XC	20131119122054	500	500	H	N	N	M	591732	6	10603049	Y	50577	he entered his brothers room																				
+342	AI-XC	20131119122054	500	500	W	Y	N	M	592108	6	10603051	Y	50577	I hope I get to go to space it wood be fun to go to space.																				
+343	AI-XC	20131119122054	500	500	H	N	Y	M	592712	6	10603053	Y	50577	marcus knew that he could not bring ,trixie home with him to camp																				
+344	AI-XC	20131119122054	500	500	H	N	Y	M	592714	6	10603055	Y	50577	"Marcus entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away ""? Stefanput his book and answered '"" I promise you, Trixie will not be bored."																				
+345	AI-XC	20131119122054	500	500	W	N	N	F	592740	6	10603057	Y	50577	"Marcus knew he could not bring his dog,Trixie with him to camp. Stefan put his book down and answered,""I promise you Trixie won't be bored""."																				
+346	AI-XC	20131119122054	500	500	W	N	N	F	594212	6	10603059	Y	50577	he entered his brothers room																				
+347	AI-XC	20131119122054	500	500	W	N	N	M	594259	6	10603062	Y	50577	"""Stefan, will you make sure Trixie has a good time while I'm away?"""																				
+348	AI-XC	20131119122054	500	500	W			F	594576	6	10603065	Y	50577	"Marcus knew he could not bring Trixie, his dog, with him to camp. ""Steffen will you make sure Trixie has a good time while I am away?"" "" I promise you Trixie won't be bored."""																				
+349	AI-XC	20131119122054	500	500	H	N	Y	F	595222	6	10603068	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixe has a good time while I'm away?"""																				
+350	AI-XC	20131119122054	500	500	NR			F	595884	6	10603070	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+351	AI-XC	20131119122054	500	500	W	N	N	F	595899	6	10603073	Y	50577	"He entered his brother room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""? He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+352	AI-XC	20131119122054	500	500	W	N		M	597019	6	10603076	Y	50577	Marcus knew he couldn't bring his dog, Trixie, with him to camp.																				
+353	AI-XC	20131119122054	500	500	W	N	N	M	597353	6	10603078	Y	50577	He pleaded to his parents for days to let him bring trixe with him.																				
+354	AI-XC	20131119122054	500	500	H	N	N	M	598468	6	10603081	Y	50577	"Marcus knew he could not bring his dog, Trixie, with him to camp. He pleaded with his parents for days to let him bring Trixie with him. He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away"". Stefan put his book down and answered, ""I promise you, Trixie wont be bored."""																				
+355	AI-XC	20131119122054	500	500	W	N	N	M	600332	6	10603083	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?  Corrected form: He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+356	AI-XC	20131119122054	500	500	W	N	N	M	600344	6	10603086	Y	50577	Marcus knew he could not bring his dog, Trixie with him to camp. He pleaded with his parents for days to let him bring Trixie to camp. He entered his brother's room and asked, ''Stefen, will you make sure that Trixie has a good time while im away? Stefen answered, '' I promise you Trixie won't be bored!''																				
+357	AI-XC	20131119122054	500	500	W	N	N	M	600400	6	10603089	Y	50577	Mar																				
+358	AI-XC	20131119122054	500	500	A			M	600663	6	10603092	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"" Stefan put his book down and answered, ""I promise you, Trixie won't be bored!"""																				
+359	AI-XC	20131119122054	500	500	B			M	601696	6	10603095	Y	50577	He pleaded with his parents for days to let him bring Trixie with him.																				
+360	AI-XC	20131119122054	500	500	W	N	N	F	601977	6	10603098	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+361	AI-XC	20131119122054	500	500	W	N		M	602088	6	10603101	Y	50577	(He pleaded) (He answered)																				
+362	AI-XC	20131119122054	500	500	NR			F	602112	6	10603104	Y	50577	"He entered his brothers room and said, ""Stefan will you make sure that Trixie has a good time while i'm away?"""																				
+363	AI-XC	20131119122054	500	500	H			M	602438	6	10603107	Y	50577	Maecus knew he could't bring his dog Trixie.  I promise you Trixie would not be bored.																				
+364	AI-XC	20131119122054	500	500	W	N	N	M	602597	6	10603110	Y	50577	i promise you trixie wont be bored																				
+365	AI-XC	20131119122054	500	500	NR			M	602752	6	10603113	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+366	AI-XC	20131119122054	500	500	W			F	602882	6	10603116	Y	50577	"Stefan put his book down and answered, ""I promise you , Trixie won't be bored""!   stefan layed his book down and answered, "" I promise you , Trixie won't be bored""!"																				
+367	AI-XC	20131119122054	500	500	NR			M	603003	6	10603119	Y	50577	"He entered his brothers room and asked, "" Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+368	AI-XC	20131119122054	500	500	2	N	N	F	603009	6	10603122	Y	50577	On the third sentence there has to be a comma after Stefan and the question mark has to be inside of the quotation marks.																				
+369	AI-XC	20131119122054	500	500	W			F	603497	6	10603125	Y	50577	"""Stefan,will you make sure Trixie has a good time while I'm away?'"																				
+370	AI-XC	20131119122054	500	500	W	N	N	F	603860	6	10603128	Y	50577	"The third sentence has the grammar and mechanical errors. ""He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good time while I'm away?""The first problem with the sentence is ""brother room"", it should really be ""brother's room"". The other problem is ""Stefan will you make sure Trixie has a good time while I'm away?"", it needs to be ""Stefan, will you make sure Trixie has a good time while I'm away?"""																				
+371	AI-XC	20131119122054	500	500	W	N	N	M	604324	6	10603131	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away."																				
+372	AI-XC	20131119122054	500	500	H	N	Y	M	604796	6	10603134	Y	50577	i dont know																				
+373	AI-XC	20131119122054	500	500	W	N	N	F	604944	6	10603137	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I am away?"""																				
+374	AI-XC	20131119122054	500	500	NR			F	605154	6	10603140	Y	50577	"""Stefan, could you make sure that trixie, has a good time wile i am away""?"																				
+375	AI-XC	20131119122054	500	500	A			M	605382	6	10603143	Y	50577	"""Stefan will you make sure that Trixie has a good time while im away?"""																				
+376	AI-XC	20131119122054	500	500	P			M	605506	6	10603146	Y	50577	"1.He pleaded to his parents for days to let him bring Trixie with him.  2.""I promise that Trixie won't be bored!"""																				
+377	AI-XC	20131119122054	500	500	W	N	N	M	606163	6	10603149	Y	50577	"The second sentence has to be fixed this way.  He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+378	AI-XC	20131119122054	500	500	H	Y	N	F	606811	6	10603152	Y	50577	"He entered his brother's room, Stefan and asked, ""Stefan will youmake sure that Trixie has a good time while i'm away?"""																				
+379	AI-XC	20131119122054	500	500	NR			M	608555	6	10603155	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+380	AI-XC	20131119122054	500	500	W	N	N	F	608801	6	10603158	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while i'm away?"""																				
+381	AI-XC	20131119122054	500	500	W			F	609121	6	10603161	Y	50577	"He entered his brother's room and asked, ""Stephan will you make sure that Trixie has a good time while i'm away?"""																				
+382	AI-XC	20131119122054	500	500	W	N	N	M	609269	6	10603164	Y	50577	"""I swear she wont get bored."""																				
+383	AI-XC	20131119122054	500	500	W	N	N	M	609278	6	10603167	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie will have a good time while I'm away""?"																				
+384	AI-XC	20131119122054	500	500	A	N	N	M	609734	6	10603170	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+385	AI-XC	20131119122054	500	500	NR			M	610849	6	10603173	Y	50577	"He entered his brother's room and asked, ""Stefan will make sure that Trixie has a good time while i'm away?"""																				
+386	AI-XC	20131119122054	500	500	A	N	N	M	611791	6	10603175	Y	50577	"""Stefan will you make sure that Trixie has a good time while I am away?"" He entered his brothers room."																				
+387	AI-XC	20131119122054	500	500	I	N	N	F	612089	6	10603177	Y	50577	"Marcus knew he couldnt bring his dog, Trixie, with him to camp. He talked with his parents for days to let him bring Trixie with him.He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""? Stefan put his book down and answered,""I promise you ,Trixie won't be bored!"""																				
+388	AI-XC	20131119122054	500	500	NR			M	612688	6	10603179	Y	50577	"Sentence 3, He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while i'm away""."																				
+389	AI-XC	20131119122054	500	500	H	N	N	M	613152	6	10603181	Y	50577	He went to his brother's room and asked																				
+390	AI-XC	20131119122054	500	500	NR			F	614284	6	10603183	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make ure that Trixie has a good time while I'm away""?"																				
+391	AI-XC	20131119122054	500	500	W			F	615908	6	10603185	Y	50577	He pleaded to his parents for days to let him bring Trixie with them.																				
+392	AI-XC	20131119122054	500	500	W	N	N	F	617220	6	10603187	Y	50577	Stefan, will you make sure Trixie has a good time while i'm away.																				
+393	AI-XC	20131119122054	500	500	NR			M	617299	6	10603189	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+394	AI-XC	20131119122054	500	500	H	N	N	M	618066	6	10603191	Y	50577	"""Stefan will you make sure Trixie has a good time while i'm away."" He pleaded to his parents for days to let Trixie come with him"																				
+395	AI-XC	20131119122054	500	500	H	N	N	F	618093	6	10603193	Y	50577	He entered his brother's room and asked,''Stefan, will you make sure that Trixie has a good time while I'm away?''																				
+396	AI-XC	20131119122054	500	500	H		Y	F	618517	6	10603195	Y	50577	Marcus knew he couldn't bring his dog, Trixie with him to camp.																				
+397	AI-XC	20131119122054	500	500	W	N	N	F	621860	6	10603197	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure Trixie has a good time while i'm away""?"																				
+398	AI-XC	20131119122054	500	500	W			F	621871	6	10603199	Y	50577	"He entered his brother's room and asked Stefan, ""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+399	AI-XC	20131119122054	500	500	W	N	N	M	622148	6	10603201	Y	50577	He entered his brother room and asked, ''Stefan will you make sure that Trixie has a good time while I'm away''?																				
+400	AI-XC	20131119122054	500	500	W	N	N	M	622191	6	10603203	Y	50577	"""I promise you, Trixie won't be bored."""																				
+401	AI-XC	20131119122054	500	500	H	N	Y	M	622324	6	10603206	Y	50577	pleaded trixie																				
+402	AI-XC	20131119122054	500	500	W	N	N	M	622822	6	10603208	Y	50577	Marcus pleaded to his parents for days to let him bring Trixie with him.																				
+403	AI-XC	20131119122054	500	500	H			F	623407	6	10603210	Y	50577	He pleaded his parents fo days to let him bring Trixie with him.																				
+404	AI-XC	20131119122054	500	500	W			M	624442	6	10603212	Y	50577	He begged his parents for days to let him bring Trixie with him.																				
+405	AI-XC	20131119122054	500	500	W	N	N	F	625186	6	10603214	Y	50577	"He entered his  brothers room and asked, ""Stefan, will you make sure Trixie has a good time while im away?"" Stefan put his book down and answered, ""I promise you, Trixie wont be bored."""																				
+406	AI-XC	20131119122054	500	500	NR	N	N	F	625214	6	10603216	Y	50577	"He entered his brother`s room and asked,""Stenfan will you make sure that Trixie has a good time while I`m away?"""																				
+407	AI-XC	20131119122054	500	500	I	N	N	F	625454	6	10603218	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+408	AI-XC	20131119122054	500	500	A			M	625548	6	10603220	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?  He entered his brother's room ans asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+409	AI-XC	20131119122054	500	500	W	Y	N	M	625617	6	10603222	Y	50577	Marcus knew he couldent bring his dog to camp with him.																				
+410	AI-XC	20131119122054	500	500	NR	N		F	626209	6	10603224	Y	50577	"""stefan will you make sure trixie has a good time while im away?""    I promise yo trixie will have a good time while your away."																				
+411	AI-XC	20131119122054	500	500	NR	N		F	626211	6	10603225	Y	50577	"The question mark is suposse to go in between the "" in a sentace."																				
+412	AI-XC	20131119122054	500	500	W	N	N	M	628369	6	10603227	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+413	AI-XC	20131119122054	500	500	B			F	628920	6	10603229	Y	50577	"""Stefan will you make sure that Trixie has agood time while I'm away""? ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+414	AI-XC	20131119122054	500	500	W	N	N	M	629599	6	10603231	Y	50577	"""He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while i'm away""?"																				
+415	AI-XC	20131119122054	500	500	B	Y	N	M	630613	6	10603233	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?""."																				
+416	AI-XC	20131119122054	500	500	H	Y	Y	M	631979	6	10603234	Y	50577	Marcus knew he could not bring,trixie,with him to camp. he pleaded with his parents for days																				
+417	AI-XC	20131119122054	500	500	NR			M	633806	6	10603236	Y	50577	"""Stefan will you make sure that Trixie has a good time while I'm away""?  ""Stefan will you make sure that Trixie has a good time while i'm away?"""																				
+418	AI-XC	20131119122054	500	500	W	N	N	M	634030	6	10603238	Y	50577	He entered his brothers room and asked, Stefan will you make sure that Trixie has a good time while I'm away.																				
+419	AI-XC	20131119122054	500	500	H	N	N	F	637948	6	10603240	Y	50577	"He entered his brother's room and asked,""Stefa, will you make sure that Trixie has a good time while I'm away?"""																				
+420	AI-XC	20131119122054	500	500	W	N	N	M	639064	6	10603242	Y	50577	Marcus knew he could not bring his dog, trixie, with him to camp																				
+421	AI-XC	20131119122054	500	500	W			M	639405	6	10603244	Y	50577	He pleaded his parents for days to lets him bring Trixie to camp.																				
+422	AI-XC	20131119122054	500	500	NR			M	639452	6	10603245	Y	50577	He pleaded to his parents for daus to let him bring Trixie with him but they said no.																				
+423	AI-XC	20131119122054	500	500	A	N	N	F	640622	6	10603247	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"" Stefan put his book down and answered, ""I promise you, Trixie won't be bored!"""																				
+424	AI-XC	20131119122054	500	500	NR			F	642493	6	10603249	Y	50577	Marcus knew he could not bring his dog,Trixie with him to camp.																				
+425	AI-XC	20131119122054	500	500	H	N	N	F	643174	6	10603251	Y	50577	"Marcus knew he could not bring his dog Trixie with him to camp.  He pleaded with his parents for days to let him bring Trixie with him.He entered his brother room and aked,""Stefan will u make sure that Trixie has a good time while I'm away""? Stefan put his book down and answered,""I promise you Trixie won't be bored!"""																				
+426	AI-XC	20131119122054	500	500	W	N	N	F	645333	6	10603253	Y	50577	""" Stefan, will u make sure that Tryxie has a good time while in away?"""																				
+427	AI-XC	20131119122054	500	500	NR			M	645537	6	10603254	Y	50577	"He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+428	AI-XC	20131119122054	500	500	A	N	N	M	645715	6	10603256	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+429	AI-XC	20131119122054	500	500	B	N	N	M	646038	6	10603257	Y	50577	"marcus knew he could not bring his dog,trixie with him to camp. he pleaded with his parents for days to let him bring trixie with him. he entered  his brother's room and asked,""stefan will you make sure that trixie has a good time while i'm away""?"																				
+430	AI-XC	20131119122054	500	500	H	N	Y	F	646116	6	10603258	Y	50577	He pleaded  his parents for days,to let him bring Trixie with him.																				
+431	AI-XC	20131119122054	500	500	H	N	N	M	646218	6	10603259	Y	50577	he wanted to know what to do																				
+432	AI-XC	20131119122054	500	500	H	N	Y	F	646431	6	10603260	Y	50577	"He entered his brother's room, ""Stefen will you make sure that Trixie has a good time while I'm away?"""																				
+433	AI-XC	20131119122054	500	500	H	N		M	647328	6	10603261	Y	50577	brother is supposed to be brothers and																				
+434	AI-XC	20131119122054	500	500	A			F	649232	6	10603262	Y	50577	"He entered his brother's room and asked, Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+435	AI-XC	20131119122054	500	500	W	N	N	F	650496	6	10603263	Y	50577	Marcus knew he could not bring his dog Trixie, with him to camp.																				
+436	AI-XC	20131119122054	500	500	H	N	Y	F	650750	6	10603264	Y	50577	He enter his brothers room and ask stefan will you make sure that trixe has a good time while im away.																				
+437	AI-XC	20131119122054	500	500	W	N	N	M	650915	6	10603265	Y	50577	"""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+438	AI-XC	20131119122054	500	500	H	N	N	M	651740	6	10603266	Y	50577	"""He pleaded with hi parents for days to let him bring Trixie with him."""																				
+439	AI-XC	20131119122054	500	500	W	N	N	M	651755	6	10603267	Y	50577	"He entered his brother's room and asked,""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+440	AI-XC	20131119122054	500	500	2	N	N	F	651962	6	10603268	Y	50577	He begged his parents to let him bring Trixie with him.																				
+441	AI-XC	20131119122054	500	500	W	N		M	652485	6	10603269	Y	50577	he entered his brothers room																				
+442	AI-XC	20131119122054	500	500	H	N	Y	F	652868	6	10603270	Y	50577	He pleaded with his parents for days to let him bring Trixie with him.																				
+443	AI-XC	20131119122054	500	500	A	N	Y	M	654208	6	10603272	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that trixie has a good time while I'm away?"""																				
+444	AI-XC	20131119122054	500	500	W	N	Y	F	654261	6	10603273	Y	50577	"He entered the room and asked,""Stefan will you make sure that Trixie has a good time while i'm away?"""																				
+445	AI-XC	20131119122054	500	500	H			F	655764	6	10603275	Y	50577	Stefan will you make sure that Trixie has a good time while i'm away? He entered his brother's room and asked.																				
+446	AI-XC	20131119122054	500	500	W	Y	N	M	655993	6	10603277	Y	50577																					
+447	AI-XC	20131119122054	500	500	W	N	N	M	657273	6	10603279	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure Trixie has a good time while I'm away?"""																				
+448	AI-XC	20131119122054	500	500	B	Y	N	M	657481	6	10603280	Y	50577	"Sentence from the paragraph says:  He entered his brother room and asked,""Stefan will you make sure that Trixie has a good time while I'm away""?  Instead of that sentence being like that, it should be this:  Marcus entered into his brothers' room and asked, ""Stefan, will you make sure that Trixie has a good time while I go away to camp?"""																				
+449	AI-XC	20131119122054	500	500	NR			M	657647	6	10603282	Y	50577	he pleaded to his parents for days to let him bring trixie with him.																				
+450	AI-XC	20131119122054	500	500	NR	Y		F	657690	6	10603284	Y	50577																					
+451	AI-XC	20131119122054	500	500	H	N	N	M	658322	6	10603286	Y	50577																					
+452	AI-XC	20131119122054	500	500	A	N	N	F	658652	6	10603288	Y	50577	"He entered his brother's room and asked,""Stefan will make sure that Truxue has a good time while I'm away?""."																				
+453	AI-XC	20131119122054	500	500	W	N	N	F	659403	6	10603289	Y	50577	He played with Trixie for days to let him come to the came with Marcus.																				
+454	AI-XC	20131119122054	500	500	NR			M	659669	6	10603291	Y	50577	"He entered his brother's room and asked,""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+455	AI-XC	20131119122054	500	500	W	N	N	M	660092	6	10603293	Y	50577	"He entered his brother's room and asked him, ""Stefan will you make sure Trixiehs a good time whiml I'm away?"""																				
+456	AI-XC	20131119122054	500	500	W	Y	N	M	660201	6	10603295	Y	50577	marcus begged his parents to let his dog trixie to go to camp with him but they did not let him go with him so, he went into his brothers room and said, Stefan can you take care of trixie while i am gone . i promise that she wont be bored.																				
+457	AI-XC	20131119122054	500	500	H	Y	N	M	660877	6	10603297	Y	50577																					
+458	AI-XC	20131119122054	500	500	P			F	661802	6	10603299	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+459	AI-XC	20131119122054	500	500	W	N	N	M	664252	6	10603301	Y	50577	He pleaded his parents for days.																				
+460	AI-XC	20131119122054	500	500	W	N	N	M	664253	6	10603303	Y	50577	"He entered his brothers room and asked, ""Stefan, will you make sure Trixie has a good time while I'm away""?"																				
+461	AI-XC	20131119122054	500	500	NR			F	664510	6	10603305	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+462	AI-XC	20131119122054	500	500	W			F	665920	6	10603307	Y	50577	you have to put the qustin mark before the qutation																				
+463	AI-XC	20131119122054	500	500	W			M	666607	6	10603309	Y	50577	'' Stefan will you make sure that Trixie has a good time wile Im away''																				
+464	AI-XC	20131119122054	500	500	W	Y	N	F	666794	6	10603311	Y	50577	Pleased																				
+465	AI-XC	20131119122054	500	500	W		N	M	667124	6	10603313	Y	50577	she is smart																				
+466	AI-XC	20131119122054	500	500	W	Y	N	M	667722	6	10603315	Y	50577	He entered his brother's room and asked, '' Sefan will you make sure Trixie has a good time while I'm away ?''																				
+467	AI-XC	20131119122054	500	500	W	N	N	M	668606	6	10603317	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?"																				
+468	AI-XC	20131119122054	500	500	W	N	N	F	668731	6	10603319	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+469	AI-XC	20131119122054	500	500	W	Y	N	F	668902	6	10603321	Y	50577	"He entered his brother room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away""?  He entered his brothers room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+470	AI-XC	20131119122054	500	500	H	N	Y	M	669732	6	10603323	Y	50577	I promise you, Trixie won't be bored,   Ib promise you that Trixie won't be bored.																				
+471	AI-XC	20131119122054	500	500	B	N	N	F	670220	6	10603325	Y	50577	he pleaded to his parents for days to let him bring.																				
+472	AI-XC	20131119122054	500	500	H	Y	Y	F	672612	6	10603327	Y	50577	The first sentence from the paragraph was not correct. This is the correct way Marcus knew he could not bring his dog Trixie with him to camp.																				
+473	AI-XC	20131119122054	500	500	NR			M	673304	6	10603329	Y	50577	"""I promise you trixie won't be bored!"""																				
+474	AI-XC	20131119122054	500	500	B	Y	N	F	673828	6	10603331	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that Trixie has a good time while I'm away?"""																				
+475	AI-XC	20131119122054	500	500	B	Y	N	F	673885	6	10603333	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure Trixie has a good time while I'm away?"""																				
+476	AI-XC	20131119122054	500	500	H	N	Y	F	676323	6	10603335	Y	50577	"He entered his brother's room and ask,""Stefan will you make sure that Trixie has a good time while I'm gone?"""																				
+477	AI-XC	20131119122054	500	500	A	N	N	M	677741	6	10603337	Y	50577	He entered his brother's room and asked, ''Stefan, will you make sure that Trixie has a good time while I'm away''?																				
+478	AI-XC	20131119122054	500	500	W	N	N	M	677976	6	10603339	Y	50577	"He entered hs brother's room and asked, ""Stefan will you make sure that Trixie has good time while I'm away?"""																				
+479	AI-XC	20131119122054	500	500	H	N	Y	M	678021	6	10603341	Y	50577	He entered his brothers room ad asked, ''  Stefa wiil you pleases take care of trixie for me.																				
+480	AI-XC	20131119122054	500	500	W	N	N	F	678269	6	10603343	Y	50577	he enterd his brother room and asked																				
+481	AI-XC	20131119122054	500	500	B	Y	N	M	678441	6	10603360	Y	50577	hi																				
+482	AI-XC	20131119122054	500	500	B			F	679318	6	10603362	Y	50577	He entered is brothers room and asked,																				
+483	AI-XC	20131119122054	500	500	I	N	N	F	681106	6	10603364	Y	50577	"He entered his brother's room and asked,""stefan will you make sure that trixie has a good time while i'm away?"""																				
+484	AI-XC	20131119122054	500	500	W	N	N	M	681320	6	10603366	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+485	AI-XC	20131119122054	500	500	H	N	Y	M	684437	6	10603368	Y	50577	He pleaded with his parents for days to let him bring,Trixie with him.																				
+486	AI-XC	20131119122054	500	500	P	N	N	M	686780	6	10603370	Y	50577	He entered his brothers room and asked.																				
+487	AI-XC	20131119122054	500	500	H	N	Y	M	686791	6	10603372	Y	50577																					
+488	AI-XC	20131119122054	500	500	H	N	N	M	690136	6	10603374	Y	50577	Marcus knew he could not bring his dog Trixie with him to camp.																				
+489	AI-XC	20131119122054	500	500	W	N	N	F	690332	6	10603376	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+490	AI-XC	20131119122054	500	500	NR			M	691409	6	10603378	Y	50577	"He entered his brother's room and asked, ""Stefan will you make sure that trixie has a good time while I'm away""."																				
+491	AI-XC	20131119122054	500	500	A	N	N	F	691557	6	10603379	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away?"""																				
+492	AI-XC	20131119122054	500	500	NR			F	691730	6	10603381	Y	50577	"Marcus knew he couldn't bring hid dog Trixie with him to camp.  ""stephan will you make sure that trixie has a good time while im away?"""																				
+493	AI-XC	20131119122054	500	500	W	N	N	M	692541	6	10603383	Y	50577	I promise you trixie wont be bored																				
+494	AI-XC	20131119122054	500	500	B	N	N	F	692779	6	10603385	Y	50577	he pleaded with his parents for days to let him bring Trixie with him.																				
+495	AI-XC	20131119122054	500	500	H		Y	F	694549	6	10603387	Y	50577	"He beg his parents to let him bring trixie with him.he enter his brothers room and ask him,""stefan will you make sure that trixie has a good while i'm away""."																				
+496	AI-XC	20131119122054	500	500	H	N	N	M	697009	6	10603389	Y	50577	"""I promise you,trixie won't be bored!"""																				
+497	AI-XC	20131119122054	500	500	H	N	N	F	697457	6	10603391	Y	50577	marcus new that he could'nt bring his doggy trixie with him to camp but i guess he did take the doggy with him.																				
+498	AI-XC	20131119122054	500	500	A	N	Y	M	697507	6	10603393	Y	50577	"He entered his brother's room and asked, ""Stefan, will you make sure that Trixie has a good time while I'm away""?"																				
+499	AI-XC	20131119122054	500	500	NR			M	697584	6	10603395	Y	50577	"""I promise you, that Trixie won't be board!"" and ""Stefen will you make sure that Trixie has a good time while I'm away?"""																				
